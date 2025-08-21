@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c128c82bf6dd49b1812f25ce2f5b00a7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/Items/DestroyGroup.cs
+  uploadId: 771799

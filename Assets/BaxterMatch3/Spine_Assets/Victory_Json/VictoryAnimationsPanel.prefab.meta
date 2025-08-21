@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: daa1268427634253b730df8903bd1677
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/json-victory_royal/VictoryAnimationsPanel.prefab
+  uploadId: 771799

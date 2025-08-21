@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93de50f3271c49d68e050e0b4ae3ca8d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Package/bomb.json
+  uploadId: 771799

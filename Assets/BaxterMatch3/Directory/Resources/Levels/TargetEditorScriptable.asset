@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbfc741e04eb408f9cd6c15571be066c, type: 3}
+  m_Name: TargetEditorScriptable
+  m_EditorClassIdentifier: 
+  targets:
+  - name: CollectItems
+    localization:
+      description:
+        text: Collect the items
+        index: 55
+      failed:
+        text: You didn't collect the items
+        index: 56
+    collectAction: 0
+    setCount: 1
+    CanSwithSublevel: 0
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 21300000, guid: a2903621b4234731a8efaf796e7528af, type: 3}
+            uiSprite: 0
+    prefabs:
+    - {fileID: 190504, guid: 1795c81565f247d9ba2524fdebe16520, type: 3}
+  - name: Grass
+    localization:
+      description:
+        text: Destroy sugar squares
+        index: 59
+      failed:
+        text: You didn't destroy the sugar squares
+        index: 60
+    collectAction: 0
+    setCount: 1
+    CanSwithSublevel: 0
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 21300000, guid: f49894a29a4e43b1a835674251563b2d, type: 3}
+            uiSprite: 0
+    prefabs:
+    - {fileID: 1055345148094608, guid: e0551dcccb5f4c5690c4e1a6228862b6, type: 3}
+  - name: BreakableBox
+    localization:
+      description:
+        text: Destroy solid blocks
+        index: 63
+      failed:
+        text: You didn't destroy all blocks
+        index: 64
+    collectAction: 0
+    setCount: 1
+    CanSwithSublevel: 0
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 21300000, guid: 7a2cf8f4b25745948003f5d49f73ae9e, type: 3}
+            uiSprite: 0
+    prefabs:
+    - {fileID: 1793582136509744, guid: 32f4caa027aa4cb3b4069b8d2927d1e4, type: 3}
+  - name: Stars
+    localization:
+      description:
+        text: Collect at least one star
+        index: 83
+      failed:
+        text: You didn't collect a star
+        index: 84
+    collectAction: 0
+    setCount: 0
+    CanSwithSublevel: 1
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 21300000, guid: 87c70e359f9f4e8cb4646f6d272f9a1c, type: 3}
+            uiSprite: 0
+    prefabs: []
+  - name: PlateCabinet
+    localization:
+      description:
+        text: Collect at least one star
+        index: 91
+      failed:
+        text: You didn't collect a star
+        index: 92
+    collectAction: 0
+    setCount: 1
+    CanSwithSublevel: 0
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 21300000, guid: 6cf0d97bc1c044a7bd1810b142e779fc, type: 3}
+            uiSprite: 0
+    prefabs:
+    - {fileID: 1793582136509744, guid: caafbfcaa9c84076be6c593e896acac9, type: 3}
+  - name: PotionCabinet
+    localization:
+      description:
+        text: Collect at least one star
+        index: 93
+      failed:
+        text: You didn't collect a star
+        index: 94
+    collectAction: 0
+    setCount: 1
+    CanSwithSublevel: 0
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 2563418743552655316, guid: ee37232d18a44014ba07b109fdb076ba, type: 3}
+            uiSprite: 0
+    prefabs:
+    - {fileID: 1793582136509744, guid: 799bddabf4f045148adfc91309f85d54, type: 3}
+  - name: Mails
+    localization:
+      description:
+        text: Collect at least one star
+        index: 95
+      failed:
+        text: You didn't collect a star
+        index: 96
+    collectAction: 0
+    setCount: 0
+    CanSwithSublevel: 0
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 1841508617329156477, guid: 5c32a4833699482196a579f2a762fba0, type: 3}
+            uiSprite: 0
+    prefabs:
+    - {fileID: 142200, guid: 37d77b9460ed4c45ab3bffbfb0b5cd55, type: 3}
+  - name: GrassType2
+    localization:
+      description:
+        text: Collect at least one star
+        index: 59
+      failed:
+        text: You didn't collect a star
+        index: 60
+    collectAction: 0
+    setCount: 1
+    CanSwithSublevel: 0
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 21300000, guid: f49894a29a4e43b1a835674251563b2d, type: 3}
+            uiSprite: 0
+    prefabs:
+    - {fileID: 1055345148094608, guid: 953b3377061d493ea4e51dd4fa61ba34, type: 3}
+  - name: Eggs
+    localization:
+      description:
+        text: Collect the items
+        index: 97
+      failed:
+        text: You didn't collect the items
+        index: 98
+    collectAction: 0
+    setCount: 1
+    CanSwithSublevel: 0
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 21300000, guid: f178be813b7241aea90a983072063268, type: 3}
+            uiSprite: 0
+    prefabs:
+    - {fileID: 1445774073842394, guid: 718cf1b40ab8459da4adf5291280a47d, type: 3}
+  - name: Pots
+    localization:
+      description:
+        text: Collect the items
+        index: 99
+      failed:
+        text: You didn't collect the items
+        index: 100
+    collectAction: 0
+    setCount: 1
+    CanSwithSublevel: 0
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 21300000, guid: 0add97c3b235484b9c5c58e3a926d04c, type: 3}
+            uiSprite: 0
+    prefabs:
+    - {fileID: 1445774073842394, guid: 640d88e3947a46b2bc1f25bad5b9ec29, type: 3}
+  - name: Honey
+    localization:
+      description:
+        text: Destroy sugar squares
+        index: 101
+      failed:
+        text: You didn't destroy the sugar squares
+        index: 102
+    collectAction: 0
+    setCount: 1
+    CanSwithSublevel: 0
+    defaultSprites:
+      array:
+      - sprites:
+          array:
+          - icon: {fileID: 21300000, guid: 7fdcb71d6d6a43208e526bf4375ce2f3, type: 3}
+            uiSprite: 0
+    prefabs:
+    - {fileID: 1055345148094608, guid: aa2220fb4efc46578ec8a18a4232ae57, type: 3}

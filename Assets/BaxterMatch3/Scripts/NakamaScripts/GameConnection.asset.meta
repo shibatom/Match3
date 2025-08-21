@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24d3e0bc738c4d05bf03e25ae8966f80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/NakamaScripts/GameConnection.asset
+  uploadId: 771799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 407493d25f3f464c8aa5cb9ee7c999e2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Prefabs/Particles/PopupScores.prefab
+  uploadId: 771799

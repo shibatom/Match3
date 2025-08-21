@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8319e3458da144c9a68f380051d3cfa0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/NakamaScripts/BattleConnection.cs
+  uploadId: 771799

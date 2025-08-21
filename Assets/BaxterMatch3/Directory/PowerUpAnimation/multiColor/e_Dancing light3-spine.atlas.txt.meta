@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d5b5b49a3f04473ac82c07468afc340
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/multiColor/e_Dancing
+    light3-spine.atlas.txt
+  uploadId: 771799

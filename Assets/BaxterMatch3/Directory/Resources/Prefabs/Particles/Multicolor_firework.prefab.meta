@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ac582f85552476ebed60f11ca51a537
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Prefabs/Particles/Multicolor_firework.prefab
+  uploadId: 771799

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 69a6a2626c0d47d59a933feb04a0d24c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 800
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/LocalizationScripts/LanguageManager.cs
+  uploadId: 771799

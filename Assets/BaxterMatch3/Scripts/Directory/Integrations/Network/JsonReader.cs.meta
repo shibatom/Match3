@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9de0119e3add4a3b98c9d9032f75c2b8
+timeCreated: 1639638515
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/Integrations/Network/JsonReader.cs
+  uploadId: 771799

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 91be0ce876f34a9cb029ee47c9defc0b
+timeCreated: 1593148879
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/Scriptable/WinReward.cs
+  uploadId: 771799

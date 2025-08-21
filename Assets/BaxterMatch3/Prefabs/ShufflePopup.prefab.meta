@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68cdcf70983245068fd1bceaac28a1fc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Prefabs/ShufflePopup.prefab
+  uploadId: 771799

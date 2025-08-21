@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd226ad527144cf3b3eb2b69f4e08469
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Prefabs/IAP-Package Popup.prefab
+  uploadId: 771799

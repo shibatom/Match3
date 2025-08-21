@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d92002d3cb54864a9dca0ef442414a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/multiColor/ReferenceAssets/idle.asset
+  uploadId: 771799

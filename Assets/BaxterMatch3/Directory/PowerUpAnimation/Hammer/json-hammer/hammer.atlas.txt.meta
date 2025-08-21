@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c4fe59c568024a01b498f0cfff5ca6a9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Hammer/json-hammer/hammer.atlas.txt
+  uploadId: 771799

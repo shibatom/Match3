@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3cfe2be86464e8bbbfb869f73d4c1e4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Prefabs/Particles/FireworkSplash3.prefab
+  uploadId: 771799

@@ -1,0 +1,3447 @@
+fileFormatVersion: 2
+guid: 69fee02dbea64bc38921d9efad08fa36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1581133694739605621
+    second: 01-Match-3-UI-Atlas-blue_0
+  - first:
+      213: 5003056218285389853
+    second: 01-Match-3-UI-Atlas-blue_1
+  - first:
+      213: 4997963665140155535
+    second: 01-Match-3-UI-Atlas-blue_2
+  - first:
+      213: -8440112275626974685
+    second: 01-Match-3-UI-Atlas-blue_3
+  - first:
+      213: 3732505420853431687
+    second: 01-Match-3-UI-Atlas-blue_4
+  - first:
+      213: -7220228547586216015
+    second: 01-Match-3-UI-Atlas-blue_5
+  - first:
+      213: -3870233410850761692
+    second: 01-Match-3-UI-Atlas-blue_6
+  - first:
+      213: -4988892011338526946
+    second: 01-Match-3-UI-Atlas-blue_7
+  - first:
+      213: 5354724995057796622
+    second: 01-Match-3-UI-Atlas-blue_8
+  - first:
+      213: 5733709785663577632
+    second: 01-Match-3-UI-Atlas-blue_9
+  - first:
+      213: 8573649598510701157
+    second: 01-Match-3-UI-Atlas-blue_10
+  - first:
+      213: -7334238528158748436
+    second: 01-Match-3-UI-Atlas-blue_11
+  - first:
+      213: 9063104286436796006
+    second: 01-Match-3-UI-Atlas-blue_12
+  - first:
+      213: 3376277807180233068
+    second: 01-Match-3-UI-Atlas-blue_13
+  - first:
+      213: 1750443657211911646
+    second: 01-Match-3-UI-Atlas-blue_14
+  - first:
+      213: -8206338103053104683
+    second: 01-Match-3-UI-Atlas-blue_15
+  - first:
+      213: 2745978754987800182
+    second: 01-Match-3-UI-Atlas-blue_16
+  - first:
+      213: -8360031485728679067
+    second: 01-Match-3-UI-Atlas-blue_17
+  - first:
+      213: -7482645422454526485
+    second: 01-Match-3-UI-Atlas-blue_18
+  - first:
+      213: -2725646097494700418
+    second: 01-Match-3-UI-Atlas-blue_19
+  - first:
+      213: 8133321598741480883
+    second: 01-Match-3-UI-Atlas-blue_20
+  - first:
+      213: 8004087149269100422
+    second: 01-Match-3-UI-Atlas-blue_21
+  - first:
+      213: 7245538508369727515
+    second: 01-Match-3-UI-Atlas-blue_22
+  - first:
+      213: -1418098096938363788
+    second: 01-Match-3-UI-Atlas-blue_23
+  - first:
+      213: -362225721484793715
+    second: 01-Match-3-UI-Atlas-blue_24
+  - first:
+      213: 2876407101930610676
+    second: 01-Match-3-UI-Atlas-blue_25
+  - first:
+      213: 3325360314066980269
+    second: 01-Match-3-UI-Atlas-blue_26
+  - first:
+      213: -883001578314922423
+    second: 01-Match-3-UI-Atlas-blue_27
+  - first:
+      213: -3170870764974417599
+    second: 01-Match-3-UI-Atlas-blue_28
+  - first:
+      213: 7052415946763446709
+    second: 01-Match-3-UI-Atlas-blue_29
+  - first:
+      213: 5705955326561688688
+    second: 01-Match-3-UI-Atlas-blue_30
+  - first:
+      213: 1580412898605635076
+    second: 01-Match-3-UI-Atlas-blue_31
+  - first:
+      213: 1726386070378884986
+    second: 01-Match-3-UI-Atlas-blue_32
+  - first:
+      213: -7620227273892749829
+    second: 01-Match-3-UI-Atlas-blue_33
+  - first:
+      213: -2654470945942328153
+    second: 01-Match-3-UI-Atlas-blue_34
+  - first:
+      213: 8234048957996539611
+    second: 01-Match-3-UI-Atlas-blue_35
+  - first:
+      213: -861335406138891644
+    second: 01-Match-3-UI-Atlas-blue_36
+  - first:
+      213: -4622645018357831236
+    second: 01-Match-3-UI-Atlas-blue_37
+  - first:
+      213: -7239662938339866836
+    second: 01-Match-3-UI-Atlas-blue_38
+  - first:
+      213: 5643596287038921116
+    second: 01-Match-3-UI-Atlas-blue_39
+  - first:
+      213: 140173345169942411
+    second: 01-Match-3-UI-Atlas-blue_40
+  - first:
+      213: 8300128389025132491
+    second: 01-Match-3-UI-Atlas-blue_41
+  - first:
+      213: -427905992373732606
+    second: 01-Match-3-UI-Atlas-blue_42
+  - first:
+      213: 7749994246955858348
+    second: 01-Match-3-UI-Atlas-blue_43
+  - first:
+      213: 6379328824649328456
+    second: 01-Match-3-UI-Atlas-blue_44
+  - first:
+      213: -2362179379681398344
+    second: 01-Match-3-UI-Atlas-blue_45
+  - first:
+      213: 2052519165190708796
+    second: 01-Match-3-UI-Atlas-blue_46
+  - first:
+      213: -143287823212998197
+    second: 01-Match-3-UI-Atlas-blue_47
+  - first:
+      213: -1210401680977230793
+    second: 01-Match-3-UI-Atlas-blue_48
+  - first:
+      213: 5921601247258367886
+    second: 01-Match-3-UI-Atlas-blue_49
+  - first:
+      213: 6895468742870275929
+    second: 01-Match-3-UI-Atlas-blue_50
+  - first:
+      213: 1429608288083940664
+    second: 01-Match-3-UI-Atlas-blue_51
+  - first:
+      213: 606897304160030866
+    second: 01-Match-3-UI-Atlas-blue_52
+  - first:
+      213: 7612384874544914455
+    second: 01-Match-3-UI-Atlas-blue_53
+  - first:
+      213: -5407755452275487696
+    second: 01-Match-3-UI-Atlas-blue_54
+  - first:
+      213: 3162885020251632133
+    second: 01-Match-3-UI-Atlas-blue_55
+  - first:
+      213: 8887587230046909324
+    second: 01-Match-3-UI-Atlas-blue_56
+  - first:
+      213: -4463785523480810426
+    second: 01-Match-3-UI-Atlas-blue_57
+  - first:
+      213: -8181543495550648304
+    second: 01-Match-3-UI-Atlas-blue_58
+  - first:
+      213: 7699515705316241844
+    second: 01-Match-3-UI-Atlas-blue_59
+  - first:
+      213: 6054782260998840743
+    second: 01-Match-3-UI-Atlas-blue_60
+  - first:
+      213: -8167748949023526730
+    second: 01-Match-3-UI-Atlas-blue_61
+  - first:
+      213: -7417656706243640394
+    second: 01-Match-3-UI-Atlas-blue_62
+  - first:
+      213: -4756485227541824198
+    second: 01-Match-3-UI-Atlas-blue_63
+  - first:
+      213: -1799724541948693316
+    second: 01-Match-3-UI-Atlas-blue_64
+  - first:
+      213: 2440159548107887192
+    second: 01-Match-3-UI-Atlas-blue_65
+  - first:
+      213: 3136524484611853766
+    second: 01-Match-3-UI-Atlas-blue_66
+  - first:
+      213: 3836806412365981283
+    second: 01-Match-3-UI-Atlas-blue_67
+  - first:
+      213: -110017954021520728
+    second: 01-Match-3-UI-Atlas-blue_68
+  - first:
+      213: -9061038959017751107
+    second: 01-Match-3-UI-Atlas-blue_69
+  - first:
+      213: -9188006764122721514
+    second: 01-Match-3-UI-Atlas-blue_70
+  - first:
+      213: -7382900438912584550
+    second: 01-Match-3-UI-Atlas-blue_71
+  - first:
+      213: 3807591947102820213
+    second: 01-Match-3-UI-Atlas-blue_72
+  - first:
+      213: 3392608280424312885
+    second: 01-Match-3-UI-Atlas-blue_73
+  - first:
+      213: -2401920580850559843
+    second: 01-Match-3-UI-Atlas-blue_74
+  - first:
+      213: -854534694558416692
+    second: 01-Match-3-UI-Atlas-blue_75
+  - first:
+      213: 3416279772769700559
+    second: 01-Match-3-UI-Atlas-blue_76
+  - first:
+      213: 850454040873189952
+    second: 01-Match-3-UI-Atlas-blue_77
+  - first:
+      213: 5925549813750882534
+    second: 01-Match-3-UI-Atlas-blue_78
+  - first:
+      213: 2552451179597612406
+    second: 01-Match-3-UI-Atlas-blue_79
+  - first:
+      213: 4269399396213995139
+    second: 01-Match-3-UI-Atlas-blue_80
+  - first:
+      213: 7917300749704974253
+    second: 01-Match-3-UI-Atlas-blue_81
+  - first:
+      213: 9086438170200755434
+    second: 01-Match-3-UI-Atlas-blue_82
+  - first:
+      213: -3703852920602893456
+    second: 01-Match-3-UI-Atlas-blue_83
+  - first:
+      213: -3881250640286445321
+    second: 01-Match-3-UI-Atlas-blue_84
+  - first:
+      213: -3250813266431457812
+    second: 01-Match-3-UI-Atlas-blue_85
+  - first:
+      213: 4050753033006083655
+    second: 01-Match-3-UI-Atlas-blue_86
+  - first:
+      213: -5524628721275487735
+    second: 01-Match-3-UI-Atlas-blue_87
+  - first:
+      213: 7676521050135844650
+    second: 01-Match-3-UI-Atlas-blue_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_0
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 4017
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578ea59d7b051f510800000000000000
+      internalID: 1581133694739605621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_1
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 4009
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18b53a8f1d6e6540800000000000000
+      internalID: 5003056218285389853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_2
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 3984
+        width: 82
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f840dfc19755c5540800000000000000
+      internalID: 4997963665140155535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_3
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 3989
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32227da5a92beda80800000000000000
+      internalID: -8440112275626974685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_4
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 3991
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d403497e58cc330800000000000000
+      internalID: 3732505420853431687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_5
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 3981
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf2dffe3689ccb90800000000000000
+      internalID: -7220228547586216015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_6
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 3987
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424546cd73b2a4ac0800000000000000
+      internalID: -3870233410850761692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_7
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 3989
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f0261e525e3cab0800000000000000
+      internalID: -4988892011338526946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_8
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 3996
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e064350330ecf4a40800000000000000
+      internalID: 5354724995057796622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_9
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 3997
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e98abebaa329f40800000000000000
+      internalID: 5733709785663577632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_10
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3996
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a96eb72e8bbf670800000000000000
+      internalID: 8573649598510701157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_11
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 3987
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce03d17caec873a90800000000000000
+      internalID: -7334238528158748436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_12
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 3984
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666a263845d96cd70800000000000000
+      internalID: 9063104286436796006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_13
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 3974
+        width: 127
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69330007c2fade20800000000000000
+      internalID: 3376277807180233068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_14
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 4031
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd93736b33da4810800000000000000
+      internalID: 1750443657211911646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_15
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 4026
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d944cc69fa3d1e80800000000000000
+      internalID: -8206338103053104683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_16
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 4026
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67631dbf02dab1620800000000000000
+      internalID: 2745978754987800182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_17
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 3985
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b9f0638a33bfb80800000000000000
+      internalID: -8360031485728679067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_18
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 4030
+        width: 95
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed256e02ad482890800000000000000
+      internalID: -7482645422454526485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_19
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 4018
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e066fb05f8c2ad0800000000000000
+      internalID: -2725646097494700418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_20
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 4022
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b58ff0e6ec5fd070800000000000000
+      internalID: 8133321598741480883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_21
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 4033
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6872473dada341f60800000000000000
+      internalID: 8004087149269100422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_22
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 4021
+        width: 15
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b109ac582e25d8460800000000000000
+      internalID: 7245538508369727515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_23
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 4014
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474d4535b47e15ce0800000000000000
+      internalID: -1418098096938363788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_24
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 3969
+        width: 49
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88a36e10ad19faf0800000000000000
+      internalID: -362225721484793715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_25
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 4026
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff1cf3f40d0be720800000000000000
+      internalID: 2876407101930610676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_28
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 3822
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1495709d6ddcef3d0800000000000000
+      internalID: -3170870764974417599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_29
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 3829
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9a22330f63fd160800000000000000
+      internalID: 7052415946763446709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_30
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 3830
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c15f75320af2f40800000000000000
+      internalID: 5705955326561688688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_31
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 3825
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40695db6821cee510800000000000000
+      internalID: 1580412898605635076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_32
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 3825
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fad16fbfa55f710800000000000000
+      internalID: 1726386070378884986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_33
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3834
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd11e70ba38f3690800000000000000
+      internalID: -7620227273892749829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_34
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 3824
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac23881dbc692bd0800000000000000
+      internalID: -2654470945942328153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_35
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 3888
+        width: 171
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde1f84c6e7354270800000000000000
+      internalID: 8234048957996539611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_36
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3823
+        width: 126
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482ef9cf20ceb04f0800000000000000
+      internalID: -861335406138891644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_37
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3834
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb96d0ef8d019dfb0800000000000000
+      internalID: -4622645018357831236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_38
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 3888
+        width: 140
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 69, y: 0, z: 62, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2701ba3aec878b90800000000000000
+      internalID: -7239662938339866836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_39
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 3852
+        width: 159
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c991ba80ce4125e40800000000000000
+      internalID: 5643596287038921116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_40
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 3882
+        width: 163
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8725dd2aeef1f100800000000000000
+      internalID: 140173345169942411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_41
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 3626
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf6af93bcaff2370800000000000000
+      internalID: 8300128389025132491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_42
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3648
+        width: 144
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b7d4f54c5cf0af0800000000000000
+      internalID: -427905992373732606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_43
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3652
+        width: 144
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9ff15d4b28d8b60800000000000000
+      internalID: 7749994246955858348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_44
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 3591
+        width: 213
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84722a254cde78850800000000000000
+      internalID: 6379328824649328456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_45
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3621
+        width: 214
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1765a9e5ad73fd0800000000000000
+      internalID: -2362179379681398344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_46
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 3592
+        width: 214
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e9fd75e430c7c10800000000000000
+      internalID: 2052519165190708796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_47
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 3597
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc110c4eb70f20ef0800000000000000
+      internalID: -143287823212998197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_48
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 3598
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 70, z: 95, w: 70}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73401d9851ac33fe0800000000000000
+      internalID: -1210401680977230793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_49
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 3628
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87585cd5f0cd2250800000000000000
+      internalID: 5921601247258367886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_50
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 3642
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9579792b940a1bf50800000000000000
+      internalID: 6895468742870275929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_51
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 3244
+        width: 26
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 29, z: 8, w: 32}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8359233e92df6d310800000000000000
+      internalID: 1429608288083940664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_52
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 3234
+        width: 30
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d995f1e12c6800800000000000000
+      internalID: 606897304160030866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_53
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 3246
+        width: 53
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7106ec416bf94a960800000000000000
+      internalID: 7612384874544914455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_54
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 3530
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c00f2511bc3f4b0800000000000000
+      internalID: -5407755452275487696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_55
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3225
+        width: 83
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502b0811b23d4eb20800000000000000
+      internalID: 3162885020251632133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_56
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3255
+        width: 102
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c837e3d4f7d075b70800000000000000
+      internalID: 8887587230046909324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_57
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 3090
+        width: 404
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c256f67b27d02c0800000000000000
+      internalID: -4463785523480810426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_58
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 3182
+        width: 254
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010cb49d981557e80800000000000000
+      internalID: -8181543495550648304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_59
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 3218
+        width: 291
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b17aed7dbc2ada60800000000000000
+      internalID: 7699515705316241844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_60
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3168
+        width: 339
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a12c230368e60450800000000000000
+      internalID: 6054782260998840743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_61
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 476
+        width: 580
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 283, y: 0, z: 278, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0f1eefa9356ae80800000000000000
+      internalID: -8167748949023526730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_62
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 3100
+        width: 388
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3cd8ea6803f0990800000000000000
+      internalID: -7417656706243640394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_63
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 3246
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3df9f0f2e19dfdb0800000000000000
+      internalID: -4756485227541824198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_64
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 239
+        width: 582
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 286, y: 0, z: 278, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4789f70181607e0800000000000000
+      internalID: -1799724541948693316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_65
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 7
+        width: 584
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 286, y: 0, z: 281, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8529f343e203dd120800000000000000
+      internalID: 2440159548107887192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_67
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2913
+        width: 349
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366e3019a131f3530800000000000000
+      internalID: 3836806412365981283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_68
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2907
+        width: 363
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aac1a3f043297ef0800000000000000
+      internalID: -110017954021520728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_71
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2921
+        width: 270
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a943a86ca2baa8990800000000000000
+      internalID: -7382900438912584550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_72
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2919
+        width: 272
+        height: 177
+      alignment: 9
+      pivot: {x: 0.71815395, y: 0.98196536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57793b0d3b847d430800000000000000
+      internalID: 3807591947102820213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_75
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2921
+        width: 243
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0499a09351424f0800000000000000
+      internalID: -854534694558416692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_76
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2894
+        width: 836
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca4a456a50196f20800000000000000
+      internalID: 3416279772769700559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_77
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 2828
+        width: 578
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 130, y: 81, z: 130, w: 81}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042ca0cb17b6dcb00800000000000000
+      internalID: 850454040873189952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_78
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 2841
+        width: 851
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0e0832928cb3250800000000000000
+      internalID: 5925549813750882534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_79
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2660
+        width: 836
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675417a03d02c6320800000000000000
+      internalID: 2552451179597612406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_80
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 2568
+        width: 716
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3863a9f6124ff3b30800000000000000
+      internalID: 4269399396213995139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_81
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1786
+        width: 762
+        height: 854
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 345, y: 111, z: 357, w: 130}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf491e8517efdd60800000000000000
+      internalID: 7917300749704974253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_82
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2370
+        width: 439
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 88, y: 59, z: 75, w: 73}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeccd50bf53891e70800000000000000
+      internalID: 9086438170200755434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_83
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 2238
+        width: 427
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 90, y: 45, z: 90, w: 45}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073eb2f7465499cc0800000000000000
+      internalID: -3703852920602893456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_84
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2108
+        width: 427
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 90, y: 45, z: 90, w: 45}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0187d3b17032ac0800000000000000
+      internalID: -3881250640286445321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_85
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 1679
+        width: 805
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5c937ce8ac2e2d0800000000000000
+      internalID: -3250813266431457812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_86
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 1213
+        width: 670
+        height: 854
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 270, y: 180, z: 270, w: 180}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ee925fb6a273830800000000000000
+      internalID: 4050753033006083655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_87
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 1466
+        width: 854
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 55, z: 55, w: 55}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a3470e2739453b0800000000000000
+      internalID: -5524628721275487735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-blue_88
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 733
+        width: 854
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 53, y: 53, z: 51, w: 96}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27d720293b788a60800000000000000
+      internalID: 7676521050135844650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3522
+        width: 2
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 30, z: 0, w: 367}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab310271f9342aa4783492b0a1d884db
+      internalID: -116897620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_1
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 3218
+        width: 291
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b202975da73dc04e961be88368374f0
+      internalID: -10659627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3862
+        width: 12
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb48dc9956f2c747a3254d129abcef5
+      internalID: -1919746929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_3
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 3700
+        width: 370
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd55e893deff7e1488c7f3f9a44fa67d
+      internalID: 1919453456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2943
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcacfeedf5862647af9ed6327e97d63
+      internalID: -1921183578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_5
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3543
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9b0c52ab77fb44a94c3f890fd5b22f
+      internalID: -1794159463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_6
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 1022
+        width: 373
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 90, y: 0, z: 90, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0b6815912d8634ba31eef285aa805e
+      internalID: 2103525875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_7
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 2377
+        width: 30
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4623d6031a4df4d957995316c4dc02
+      internalID: -72231683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_8
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 2377
+        width: 30
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bccd11d6825c2240a6d322edd223bfa
+      internalID: -562887087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_9
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 2376
+        width: 30
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a39abccf6550e4b97357124a681b1b
+      internalID: 1946010854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_10
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 2376
+        width: 30
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbfd31718728a64baff6274c5f1c255
+      internalID: -582632192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_11
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 2377
+        width: 30
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d826ef8512ab4fc4fbdea51c02b3df76
+      internalID: -819659573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_12
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 844
+        width: 736
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 70, z: 100, w: 70}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9aa06aadce2464ca8cd969f64732f2
+      internalID: -1509457781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_13
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3543
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4fe3e37e046c4c9febfeb48365675
+      internalID: -1228552550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_14
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3543
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c5cbaaf19387642bc0682160137a48
+      internalID: 295634507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_15
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 3976
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897a0f43bc3a7ae47a4d98d10fbfe6c6
+      internalID: -341715776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_16
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 315
+        width: 860
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06508e552c3a424f87049976b57ce6d
+      internalID: 236278446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_17
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 666
+        width: 736
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 70, z: 100, w: 70}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daec7dd0edd1484cbc17d71164a192a
+      internalID: 1848170392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3542
+        width: 60
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 41, y: 0, z: 13, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a316fd2850ca15740b290098ac40d8d0
+      internalID: 1879145525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_19
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3541
+        width: 1212
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492db1d0b42592c4c81fe5f46ab8491d
+      internalID: -1848744091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_20
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 460
+        width: 569
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 130, y: 81, z: 130, w: 81}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e705c7145a044a24fb00e13b18d8c9d2
+      internalID: -793697671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_21
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 167
+        width: 858
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 78, z: 60, w: 40}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3819841850853ca49ad630758a589050
+      internalID: 523671519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_22
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 3983
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ab0995d4d6ff4991073607eca03f1
+      internalID: 1906064205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_23
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 0
+        width: 371
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8183e9bb89d2fd42a3e2acd3ad40fcd
+      internalID: 1020151707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3522
+        width: 2
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 141, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3a550c8b8a7f5489bf2acbd54cd7f7
+      internalID: -902763038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_25
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 1022
+        width: 216
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 90, y: 54, z: 90, w: 58}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8ded948071c54d9b0c8a6cfa208cd
+      internalID: 808387020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_26
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1022
+        width: 142
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 55, z: 55, w: 55}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca2170025d888e40a6de4ad508d0bc5
+      internalID: 610074439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_27
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 3409
+        width: 473
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384960cf246b444aaa48e1d57bddacf
+      internalID: -1603172357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_28
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 3174
+        width: 215
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dc42957ff2bbb4a9e88435905100d5
+      internalID: -858707862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_29
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2814
+        width: 836
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aabdcdcb48565c4a999837102066010
+      internalID: -386296510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_30
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 3966
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77d22d0320f2642b903489b9c02a76
+      internalID: 75583143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_31
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 46
+        width: 697
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 99, y: 95, z: 84, w: 172}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bec7c93c9520a84e8a89e1aabf1b016
+      internalID: -443002091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_32
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3218
+        width: 290
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efad5a1fc64a0440b42b87232f2d0eb
+      internalID: 1436295911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 3217
+        width: 290
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49979598d5488674db3818afa8a6f54e
+      internalID: -2058814126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3217
+        width: 290
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 140, y: 140, z: 140, w: 140}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b3e360df97777469f08c7b9cb55135
+      internalID: -627158133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3541
+        width: 277
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 130, y: 130, z: 130, w: 130}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c4a34c7971724c880e8178ffde326
+      internalID: 610998729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_36
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2928
+        width: 191
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8221ea34d0c6aa489fc4c0fe09e85e2
+      internalID: -893838507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_37
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 3964
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0ddd88383d8f43ad559661d8d1bca
+      internalID: -258848410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_38
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 2628
+        width: 716
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73261a1176a1aaa47a3c939dfa97650f
+      internalID: 277133296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3887
+        width: 615
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 299, y: 0, z: 300, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39fffec8e5a29745beb6a7088a7bceb
+      internalID: -1007117170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_40
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2601
+        width: 195
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f706d8aae1ebf4f4b948817c5debc6ee
+      internalID: 1203610175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_41
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 3979
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ed17efb7a137244b7d41d1a64d47f7
+      internalID: -235048289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_42
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 3967
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892445a29c0a3af4091d16a24c084a27
+      internalID: 385882509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_43
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 3967
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5b98a7abca09c4fb4d55e58834d5ad
+      internalID: -1079541280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2561
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 60, z: 60, w: 60}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3edc3b410f6d2f4da0d198a59f11bc2
+      internalID: -58144089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_45
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1787
+        width: 445
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41632f926d473464c9e15d3a6bca0e7a
+      internalID: -473863416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_46
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2942
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b122ef3a7443c408e5dd572bbb288a
+      internalID: 1506858460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_47
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3969
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d536e7e3efb9900479c891ad3c6a0a24
+      internalID: -309094305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_48
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2683
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ca0b844976c5547a40b144411f775e
+      internalID: 754799874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-red_49
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2684
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5434361b924680b408ffe6b5886017be
+      internalID: -1542160544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a73d29a55d76de74994305ba9183f0b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      01-Match-3-UI-Atlas-blue_0: 1581133694739605621
+      01-Match-3-UI-Atlas-blue_1: 5003056218285389853
+      01-Match-3-UI-Atlas-blue_10: 8573649598510701157
+      01-Match-3-UI-Atlas-blue_11: -7334238528158748436
+      01-Match-3-UI-Atlas-blue_12: 9063104286436796006
+      01-Match-3-UI-Atlas-blue_13: 3376277807180233068
+      01-Match-3-UI-Atlas-blue_14: 1750443657211911646
+      01-Match-3-UI-Atlas-blue_15: -8206338103053104683
+      01-Match-3-UI-Atlas-blue_16: 2745978754987800182
+      01-Match-3-UI-Atlas-blue_17: -8360031485728679067
+      01-Match-3-UI-Atlas-blue_18: -7482645422454526485
+      01-Match-3-UI-Atlas-blue_19: -2725646097494700418
+      01-Match-3-UI-Atlas-blue_2: 4997963665140155535
+      01-Match-3-UI-Atlas-blue_20: 8133321598741480883
+      01-Match-3-UI-Atlas-blue_21: 8004087149269100422
+      01-Match-3-UI-Atlas-blue_22: 7245538508369727515
+      01-Match-3-UI-Atlas-blue_23: -1418098096938363788
+      01-Match-3-UI-Atlas-blue_24: -362225721484793715
+      01-Match-3-UI-Atlas-blue_25: 2876407101930610676
+      01-Match-3-UI-Atlas-blue_26: -1222328792
+      01-Match-3-UI-Atlas-blue_27: 798831425
+      01-Match-3-UI-Atlas-blue_28: -3170870764974417599
+      01-Match-3-UI-Atlas-blue_29: 7052415946763446709
+      01-Match-3-UI-Atlas-blue_3: -8440112275626974685
+      01-Match-3-UI-Atlas-blue_30: 5705955326561688688
+      01-Match-3-UI-Atlas-blue_31: 1580412898605635076
+      01-Match-3-UI-Atlas-blue_32: 1726386070378884986
+      01-Match-3-UI-Atlas-blue_33: -7620227273892749829
+      01-Match-3-UI-Atlas-blue_34: -2654470945942328153
+      01-Match-3-UI-Atlas-blue_35: 8234048957996539611
+      01-Match-3-UI-Atlas-blue_36: -861335406138891644
+      01-Match-3-UI-Atlas-blue_37: -4622645018357831236
+      01-Match-3-UI-Atlas-blue_38: -7239662938339866836
+      01-Match-3-UI-Atlas-blue_39: 5643596287038921116
+      01-Match-3-UI-Atlas-blue_4: 3732505420853431687
+      01-Match-3-UI-Atlas-blue_40: 140173345169942411
+      01-Match-3-UI-Atlas-blue_41: 8300128389025132491
+      01-Match-3-UI-Atlas-blue_42: -427905992373732606
+      01-Match-3-UI-Atlas-blue_43: 7749994246955858348
+      01-Match-3-UI-Atlas-blue_44: 6379328824649328456
+      01-Match-3-UI-Atlas-blue_45: -2362179379681398344
+      01-Match-3-UI-Atlas-blue_46: 2052519165190708796
+      01-Match-3-UI-Atlas-blue_47: -143287823212998197
+      01-Match-3-UI-Atlas-blue_48: -1210401680977230793
+      01-Match-3-UI-Atlas-blue_49: 5921601247258367886
+      01-Match-3-UI-Atlas-blue_5: -7220228547586216015
+      01-Match-3-UI-Atlas-blue_50: 6895468742870275929
+      01-Match-3-UI-Atlas-blue_51: 1429608288083940664
+      01-Match-3-UI-Atlas-blue_52: 606897304160030866
+      01-Match-3-UI-Atlas-blue_53: 7612384874544914455
+      01-Match-3-UI-Atlas-blue_54: -5407755452275487696
+      01-Match-3-UI-Atlas-blue_55: 3162885020251632133
+      01-Match-3-UI-Atlas-blue_56: 8887587230046909324
+      01-Match-3-UI-Atlas-blue_57: -4463785523480810426
+      01-Match-3-UI-Atlas-blue_58: -8181543495550648304
+      01-Match-3-UI-Atlas-blue_59: 7699515705316241844
+      01-Match-3-UI-Atlas-blue_6: -3870233410850761692
+      01-Match-3-UI-Atlas-blue_60: 6054782260998840743
+      01-Match-3-UI-Atlas-blue_61: -8167748949023526730
+      01-Match-3-UI-Atlas-blue_62: -7417656706243640394
+      01-Match-3-UI-Atlas-blue_63: -4756485227541824198
+      01-Match-3-UI-Atlas-blue_64: -1799724541948693316
+      01-Match-3-UI-Atlas-blue_65: 2440159548107887192
+      01-Match-3-UI-Atlas-blue_66: 3136524484611853766
+      01-Match-3-UI-Atlas-blue_67: 3836806412365981283
+      01-Match-3-UI-Atlas-blue_68: -110017954021520728
+      01-Match-3-UI-Atlas-blue_69: -9061038959017751107
+      01-Match-3-UI-Atlas-blue_7: -4988892011338526946
+      01-Match-3-UI-Atlas-blue_70: -9188006764122721514
+      01-Match-3-UI-Atlas-blue_71: -7382900438912584550
+      01-Match-3-UI-Atlas-blue_72: 3807591947102820213
+      01-Match-3-UI-Atlas-blue_73: 3392608280424312885
+      01-Match-3-UI-Atlas-blue_74: -2401920580850559843
+      01-Match-3-UI-Atlas-blue_75: -854534694558416692
+      01-Match-3-UI-Atlas-blue_76: 3416279772769700559
+      01-Match-3-UI-Atlas-blue_77: 850454040873189952
+      01-Match-3-UI-Atlas-blue_78: 5925549813750882534
+      01-Match-3-UI-Atlas-blue_79: 2552451179597612406
+      01-Match-3-UI-Atlas-blue_8: 5354724995057796622
+      01-Match-3-UI-Atlas-blue_80: 4269399396213995139
+      01-Match-3-UI-Atlas-blue_81: 7917300749704974253
+      01-Match-3-UI-Atlas-blue_82: 9086438170200755434
+      01-Match-3-UI-Atlas-blue_83: -3703852920602893456
+      01-Match-3-UI-Atlas-blue_84: -3881250640286445321
+      01-Match-3-UI-Atlas-blue_85: -3250813266431457812
+      01-Match-3-UI-Atlas-blue_86: 4050753033006083655
+      01-Match-3-UI-Atlas-blue_87: -5524628721275487735
+      01-Match-3-UI-Atlas-blue_88: 7676521050135844650
+      01-Match-3-UI-Atlas-blue_9: 5733709785663577632
+      01-Match-3-UI-Atlas-red_0: -116897620
+      01-Match-3-UI-Atlas-red_1: -10659627
+      01-Match-3-UI-Atlas-red_10: -582632192
+      01-Match-3-UI-Atlas-red_11: -819659573
+      01-Match-3-UI-Atlas-red_12: -1509457781
+      01-Match-3-UI-Atlas-red_13: -1228552550
+      01-Match-3-UI-Atlas-red_14: 295634507
+      01-Match-3-UI-Atlas-red_15: -341715776
+      01-Match-3-UI-Atlas-red_16: 236278446
+      01-Match-3-UI-Atlas-red_17: 1848170392
+      01-Match-3-UI-Atlas-red_18: 1879145525
+      01-Match-3-UI-Atlas-red_19: -1848744091
+      01-Match-3-UI-Atlas-red_2: -1919746929
+      01-Match-3-UI-Atlas-red_20: -793697671
+      01-Match-3-UI-Atlas-red_21: 523671519
+      01-Match-3-UI-Atlas-red_22: 1906064205
+      01-Match-3-UI-Atlas-red_23: 1020151707
+      01-Match-3-UI-Atlas-red_24: -902763038
+      01-Match-3-UI-Atlas-red_25: 808387020
+      01-Match-3-UI-Atlas-red_26: 610074439
+      01-Match-3-UI-Atlas-red_27: -1603172357
+      01-Match-3-UI-Atlas-red_28: -858707862
+      01-Match-3-UI-Atlas-red_29: -386296510
+      01-Match-3-UI-Atlas-red_3: 1919453456
+      01-Match-3-UI-Atlas-red_30: 75583143
+      01-Match-3-UI-Atlas-red_31: -443002091
+      01-Match-3-UI-Atlas-red_32: 1436295911
+      01-Match-3-UI-Atlas-red_33: -2058814126
+      01-Match-3-UI-Atlas-red_34: -627158133
+      01-Match-3-UI-Atlas-red_35: 610998729
+      01-Match-3-UI-Atlas-red_36: -893838507
+      01-Match-3-UI-Atlas-red_37: -258848410
+      01-Match-3-UI-Atlas-red_38: 277133296
+      01-Match-3-UI-Atlas-red_39: -1007117170
+      01-Match-3-UI-Atlas-red_4: -1921183578
+      01-Match-3-UI-Atlas-red_40: 1203610175
+      01-Match-3-UI-Atlas-red_41: -235048289
+      01-Match-3-UI-Atlas-red_42: 385882509
+      01-Match-3-UI-Atlas-red_43: -1079541280
+      01-Match-3-UI-Atlas-red_44: -58144089
+      01-Match-3-UI-Atlas-red_45: -473863416
+      01-Match-3-UI-Atlas-red_46: 1506858460
+      01-Match-3-UI-Atlas-red_47: -309094305
+      01-Match-3-UI-Atlas-red_48: 754799874
+      01-Match-3-UI-Atlas-red_49: -1542160544
+      01-Match-3-UI-Atlas-red_5: -1794159463
+      01-Match-3-UI-Atlas-red_6: 2103525875
+      01-Match-3-UI-Atlas-red_7: -72231683
+      01-Match-3-UI-Atlas-red_8: -562887087
+      01-Match-3-UI-Atlas-red_9: 1946010854
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Art/01-Match-3-UI-Atlas-red.png
+  uploadId: 771799

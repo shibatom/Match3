@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6966fb6fa42f4280b30c7c849d3a2a7f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Prefabs/LevelPlay/Container.prefab
+  uploadId: 771799

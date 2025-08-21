@@ -1,0 +1,102 @@
+0 : life after
+1 : Any purchase will remove all ads
+2 : Do you want to continue?
+3 : SPIN
+4 : Coins Shop
+5 : Play
+6 : You WIN!
+7 : You lose!
+8 : Lost all lives?
+9 : Select Boosters:
+10 : NEXT
+11 : Icicle
+12 : Spread the Goo
+13 : BOOM!
+14 : Disc-Ball Bomb
+15 : DAY
+16 : Watch VIDEO
+17 : SHARE
+18 : Level COMPLETED!
+19 : Level FAILED!
+20 : MAP
+21 : AGAIN
+22 : Goal
+23 : Refill all lives!
+24 : Your Target:
+25 : Thanks!
+26 : Congratulation!
+27 : Extra moves
+28 : Extra time
+29 : How to play
+30 : Rockets
+31 : Bomb
+33 : Collect all ITEMS
+34 : Disco Ball
+35 : Logout
+36 : Connect
+37 : Invite
+38 : FULL
+39 : Use it to get Disco Ball
+40 : BUY
+41 : MOVES
+42 : Combine more items of the same color for WIN!
+43 : SCORE
+44 : Buy Booster!
+45 : You didn't fill Goo everywhere
+46 : Spread the Goo everywhere
+47 : You got coins
+48 : Combine.
+49 : Combine more Items the same colors for WIN!
+50 : You can switch Icicle Spiral with any item on the game field.
+51 : Combine an item above the Goo with others.
+52 : Combine 4 Items to create it. Rocket can destroy all row.
+53 : Combine 5 Items like below to create it. Bomb candy can destroy all items around itself.
+54 : Disco Ball
+55 : Collect the items
+56 : You didn't collect the items
+57 : Collect the Items
+58 : You Didn't collect the Items
+59 : Destroy Grass
+60 : You didn't destroy the Grass
+61 : Spread the Goo everywhere
+62 : You didn't spread the Goo
+63 : Destroy The Boxes
+64 : You Didn't Destroy all The Boxes!
+65 : Gives you the 5 extra moves
+66 : Places a Bomb item on the game field
+67 : Places a Rocket on the game field
+68 : Gives you the 30 extra seconds
+69 : Destroys one item
+70 : Places a Disco Ball item on the game field
+71 : Free item switch
+72 : Destroys the items in an area
+73 : Places a Chopper item on the game field
+74 : PLAY
+75 : Privacy
+76 : Loading...
+77 : TIME
+78 : Bomb
+79 : Free move
+80 : Explodes area
+81 : Marmalade
+82 : Free
+83 : Get at least one star
+84 : You didn't get a star
+85 : You got the boost
+86 : You got life
+87 : Coins
+88 : Life
+89 : Level
+90 : Tap to Skip
+91 : Destroy The Plate Cabinets
+92 : You Didn't Destroy all The Plate Cabinets!
+93 : Destroy The Potion Shelves
+94 : You Didn't Destroy all The Potion Shelves!
+95 : Collect the Mails
+96 : You didn't collect the Mails!
+97 : Break the Eggs
+98 : You didn't Break All The Eggs!
+99 : Break the Pots
+100 : You didn't Break All The Pots!
+101 : Clear The Honey
+102 : You didn't Clear The Honey!

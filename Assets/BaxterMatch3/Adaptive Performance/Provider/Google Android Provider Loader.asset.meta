@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9f7e20a216f46cd94d5655e194f61d4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Adaptive Performance/Provider/Google Android Provider
+    Loader.asset
+  uploadId: 771799

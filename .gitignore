@@ -1,0 +1,101 @@
+# ============= Unity 2022 LTS (.gitignore) =============
+
+# --- Generated folders ------------------------------------------------
+[Ll]ibrary/
+[Ll]ibs/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/        # メモリプロファイラのバイナリ
+[Uu]serSettings/          # 個人エディタ設定
+
+# --- Unity Cloud Build -----------------------------------------------
+[Bb]uild/
+
+# --- Asset Store ------------------------------------------------------
+[Aa]ssets/AssetStoreTools*
+
+# --- iOS / Xcode ------------------------------------------------------
+*.mode1v3
+*.mode2v3
+*.xcworkspace/
+*.xcuserstate
+*.xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# --- Android / Gradle -------------------------------------------------
+.gradle/
+.gradle-local/
+local.properties
+**/unityLibrary/build/
+
+# --- IDE / Editor -----------------------------------------------------
+.vscode/
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# --- Crashlytics ------------------------------------------------------
+fabric.properties
+
+# --- PlayFab Editor ---------------------------------------------------
+Extensions/PlayFabEditorExtensions/
+
+# --- OS / Misc --------------------------------------------------------
+.DS_Store
+Thumbs.db
+
+# --- Binary outputs ---------------------------------------------------
+*.apk
+*.aab
+*.keystore
+
+# --- Package Cache (auto-generated) -----------------------------------
+**/[Pp]ackageCache/
+**/[Ss]torageCache/
+
+# --- Transient / backup ----------------------------------------------
+*.orig
+*.tmp
+*.bak
+*.old
+*.swp
+*.lock
+
+
+# --- Unity Editor Settings ------------------------------------------
+# Unity layout files
+/UserSettings/Layouts/
+*.dwlt
+
+# その他のUnity一時ファイル
+/UserSettings/EditorUserSettings.asset
+/UserSettings/Search.settings
+
+# --- Github ------------------------------------------
+# Gitの管理下に置かないGitHubの設定ファイル
+.github/copilot-instructions.md
+.claude/commands/create-issue.md
+.claude/commands/implement.md
+.claude/commands/investigate.md
+.claude/commands/plan.md
+.claude/commands/start-issue.md
+.claude/commands/test.md
+
+# --- Build directory ------------------------------------------
+**/iOS/
+**/Android/

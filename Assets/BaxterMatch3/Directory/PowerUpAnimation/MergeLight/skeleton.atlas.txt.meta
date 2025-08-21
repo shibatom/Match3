@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b90c9bf8e784fb8a6793bce31b6f2c5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/MergeLight/skeleton.atlas.txt
+  uploadId: 771799

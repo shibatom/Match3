@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 506aeaa7546541a2bf93da97c3f22cbc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/UI_Assitant/StorySystem/Question.cs
+  uploadId: 771799

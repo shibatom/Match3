@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0fc8136192e34d93b390051f34105992
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/GUI/Avatar/IAvatarLoader.cs
+  uploadId: 771799

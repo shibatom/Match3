@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93243f511c1f46d48ae97caf6bc06ef8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/BottomPanelButtonController/OnSelect.anim
+  uploadId: 771799

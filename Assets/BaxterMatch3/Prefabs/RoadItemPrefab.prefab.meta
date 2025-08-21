@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a7314c0432d04c22ae4b305978b95b36
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Prefabs/RoadItemPrefab.prefab
+  uploadId: 771799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b18e64698b30453f9302739a42bb3e35
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/cabinet -json 1/cabinet.atlas.txt
+  uploadId: 771799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f45d9d8f35e044f0b23aeb80cb9758d0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/Butler Plate Spine/dis.json
+  uploadId: 771799

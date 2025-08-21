@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f05814e9ceea4f85a6fed9571a52144d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/clown hat json/clown hat spine _Controller.controller
+  uploadId: 771799

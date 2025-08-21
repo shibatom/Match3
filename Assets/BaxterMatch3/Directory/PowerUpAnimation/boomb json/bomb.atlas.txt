@@ -1,0 +1,1217 @@
+
+bomb.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2387, 3
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1650, 14
+  size: 135, 142
+  orig: 135, 142
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2825, 175
+  size: 135, 149
+  orig: 135, 149
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 1505, 38
+  size: 143, 138
+  orig: 143, 138
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 3870, 37
+  size: 136, 144
+  orig: 136, 144
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 1706, 158
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2419, 145
+  size: 135, 147
+  orig: 135, 147
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 2825, 37
+  size: 136, 145
+  orig: 136, 145
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 1843, 38
+  size: 144, 138
+  orig: 144, 138
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 652, 1249
+  size: 135, 150
+  orig: 135, 150
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 3504, 8
+  size: 135, 142
+  orig: 135, 142
+  offset: 0, 0
+  index: -1
+Point_32
+  rotate: false
+  xy: 4062, 2523
+  size: 15, 15
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00000
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00000
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fuse2/Sparks 016 Impact Explosion Radial_00000
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00000
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00021
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00022
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00023
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00024
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00025
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00026
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00024
+  rotate: false
+  xy: 4091, 2566
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00001
+  rotate: false
+  xy: 3944, 1408
+  size: 134, 134
+  orig: 500, 500
+  offset: 183, 183
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00002
+  rotate: false
+  xy: 652, 1105
+  size: 142, 142
+  orig: 500, 500
+  offset: 179, 179
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00003
+  rotate: false
+  xy: 1188, 1554
+  size: 154, 154
+  orig: 500, 500
+  offset: 173, 173
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00004
+  rotate: false
+  xy: 2823, 1204
+  size: 180, 180
+  orig: 500, 500
+  offset: 160, 160
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00005
+  rotate: false
+  xy: 1291, 140
+  size: 212, 212
+  orig: 500, 500
+  offset: 144, 144
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00006
+  rotate: false
+  xy: 2, 252
+  size: 242, 241
+  orig: 500, 500
+  offset: 129, 130
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00007
+  rotate: true
+  xy: 592, 303
+  size: 260, 261
+  orig: 500, 500
+  offset: 120, 120
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00008
+  rotate: false
+  xy: 1714, 497
+  size: 274, 273
+  orig: 500, 500
+  offset: 113, 114
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00009
+  rotate: false
+  xy: 3733, 493
+  size: 284, 283
+  orig: 500, 500
+  offset: 108, 109
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00010
+  rotate: false
+  xy: 3439, 492
+  size: 292, 291
+  orig: 500, 500
+  offset: 104, 105
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00011
+  rotate: false
+  xy: 2698, 518
+  size: 298, 297
+  orig: 500, 500
+  offset: 101, 102
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00012
+  rotate: false
+  xy: 620, 565
+  size: 300, 299
+  orig: 500, 500
+  offset: 100, 101
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00013
+  rotate: false
+  xy: 3753, 778
+  size: 302, 302
+  orig: 500, 500
+  offset: 99, 100
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00014
+  rotate: false
+  xy: 3133, 777
+  size: 304, 303
+  orig: 500, 500
+  offset: 98, 99
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00015
+  rotate: false
+  xy: 1728, 772
+  size: 302, 302
+  orig: 500, 500
+  offset: 99, 100
+  index: -1
+bomb explode 1/Flash 009 Impact Explosion Radial_00016
+  rotate: false
+  xy: 2, 761
+  size: 302, 301
+  orig: 500, 500
+  offset: 99, 100
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00000
+  rotate: false
+  xy: 943, 12
+  size: 124, 122
+  orig: 500, 500
+  offset: 188, 189
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00001
+  rotate: false
+  xy: 855, 136
+  size: 218, 218
+  orig: 500, 500
+  offset: 141, 141
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00002
+  rotate: false
+  xy: 964, 1710
+  size: 399, 396
+  orig: 500, 500
+  offset: 50, 57
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00003
+  rotate: false
+  xy: 2692, 2148
+  size: 417, 419
+  orig: 500, 500
+  offset: 40, 41
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00004
+  rotate: true
+  xy: 1846, 2139
+  size: 428, 422
+  orig: 500, 500
+  offset: 37, 41
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00005
+  rotate: false
+  xy: 2270, 2144
+  size: 420, 423
+  orig: 500, 500
+  offset: 39, 40
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00006
+  rotate: false
+  xy: 1846, 1731
+  size: 412, 406
+  orig: 500, 500
+  offset: 44, 45
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00007
+  rotate: true
+  xy: 2260, 1394
+  size: 362, 375
+  orig: 500, 500
+  offset: 87, 55
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00008
+  rotate: true
+  xy: 2637, 1386
+  size: 359, 366
+  orig: 500, 500
+  offset: 87, 61
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00009
+  rotate: false
+  xy: 1133, 1089
+  size: 316, 305
+  orig: 500, 500
+  offset: 90, 109
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00010
+  rotate: false
+  xy: 3439, 785
+  size: 312, 295
+  orig: 500, 500
+  offset: 93, 113
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00011
+  rotate: false
+  xy: 922, 356
+  size: 292, 235
+  orig: 500, 500
+  offset: 109, 126
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00012
+  rotate: false
+  xy: 1990, 322
+  size: 289, 232
+  orig: 500, 500
+  offset: 112, 125
+  index: -1
+bomb explode 2/Sparks 087 Impact Explosion Radial MIX_00013
+  rotate: false
+  xy: 2523, 8
+  size: 280, 58
+  orig: 500, 500
+  offset: 117, 295
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00001
+  rotate: false
+  xy: 817, 10
+  size: 124, 124
+  orig: 500, 500
+  offset: 188, 188
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00002
+  rotate: false
+  xy: 3502, 151
+  size: 178, 176
+  orig: 500, 500
+  offset: 161, 162
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00003
+  rotate: false
+  xy: 1075, 140
+  size: 214, 212
+  orig: 500, 500
+  offset: 143, 144
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00004
+  rotate: false
+  xy: 246, 253
+  size: 242, 240
+  orig: 500, 500
+  offset: 129, 130
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00005
+  rotate: false
+  xy: 2, 495
+  size: 264, 264
+  orig: 500, 500
+  offset: 118, 118
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00006
+  rotate: false
+  xy: 306, 495
+  size: 284, 284
+  orig: 500, 500
+  offset: 108, 108
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00007
+  rotate: false
+  xy: 1412, 747
+  size: 300, 300
+  orig: 500, 500
+  offset: 100, 100
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00008
+  rotate: false
+  xy: 336, 1087
+  size: 314, 312
+  orig: 500, 500
+  offset: 93, 94
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00009
+  rotate: false
+  xy: 3375, 1082
+  size: 322, 322
+  orig: 500, 500
+  offset: 89, 89
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00010
+  rotate: false
+  xy: 1754, 1076
+  size: 328, 328
+  orig: 500, 500
+  offset: 86, 86
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00011
+  rotate: false
+  xy: 2, 1376
+  size: 332, 332
+  orig: 500, 500
+  offset: 84, 84
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00012
+  rotate: true
+  xy: 801, 1092
+  size: 328, 330
+  orig: 500, 500
+  offset: 86, 85
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00013
+  rotate: false
+  xy: 3699, 1082
+  size: 322, 322
+  orig: 500, 500
+  offset: 89, 89
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00014
+  rotate: false
+  xy: 2032, 556
+  size: 298, 298
+  orig: 500, 500
+  offset: 101, 101
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00015
+  rotate: false
+  xy: 2394, 770
+  size: 302, 302
+  orig: 500, 500
+  offset: 99, 99
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00016
+  rotate: false
+  xy: 314, 781
+  size: 304, 304
+  orig: 500, 500
+  offset: 98, 98
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00017
+  rotate: false
+  xy: 2084, 856
+  size: 308, 308
+  orig: 500, 500
+  offset: 96, 96
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00018
+  rotate: false
+  xy: 2823, 817
+  size: 308, 308
+  orig: 500, 500
+  offset: 96, 96
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00019
+  rotate: false
+  xy: 2511, 1074
+  size: 310, 310
+  orig: 500, 500
+  offset: 95, 95
+  index: -1
+circle 1/Flash 011 Impact Explosion Radial_00020
+  rotate: false
+  xy: 2, 1064
+  size: 310, 310
+  orig: 500, 500
+  offset: 95, 95
+  index: -1
+fuse light/Sparks 046 Right Loop_00000
+  rotate: false
+  xy: 2, 2067
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fuse light/Sparks 046 Right Loop_00001
+  rotate: false
+  xy: 336, 1508
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fuse light/Sparks 046 Right Loop_00002
+  rotate: false
+  xy: 336, 1456
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fuse light/Sparks 046 Right Loop_00003
+  rotate: false
+  xy: 336, 1404
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fuse light/Sparks 046 Right Loop_00004
+  rotate: false
+  xy: 4023, 1356
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fuse light/Sparks 046 Right Loop_00005
+  rotate: false
+  xy: 4023, 1304
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fuse light/Sparks 046 Right Loop_00006
+  rotate: false
+  xy: 4023, 1252
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fuse light/Sparks 046 Right Loop_00007
+  rotate: false
+  xy: 4023, 1200
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fuse light/Sparks 046 Right Loop_00008
+  rotate: false
+  xy: 4023, 1148
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fuse1
+  rotate: true
+  xy: 4023, 1117
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+fuse10
+  rotate: false
+  xy: 3901, 2201
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+fuse11
+  rotate: true
+  xy: 3133, 1097
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+fuse2
+  rotate: true
+  xy: 3185, 1097
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+fuse2/Sparks 016 Impact Explosion Radial_00001
+  rotate: false
+  xy: 3682, 21
+  size: 139, 139
+  orig: 500, 500
+  offset: 194, 163
+  index: -1
+fuse2/Sparks 016 Impact Explosion Radial_00002
+  rotate: false
+  xy: 2998, 332
+  size: 294, 232
+  orig: 500, 500
+  offset: 122, 115
+  index: -1
+fuse2/Sparks 016 Impact Explosion Radial_00003
+  rotate: false
+  xy: 1365, 1396
+  size: 387, 335
+  orig: 500, 500
+  offset: 82, 70
+  index: -1
+fuse2/Sparks 016 Impact Explosion Radial_00004
+  rotate: true
+  xy: 1412, 2133
+  size: 434, 432
+  orig: 500, 500
+  offset: 50, 40
+  index: -1
+fuse2/Sparks 016 Impact Explosion Radial_00005
+  rotate: true
+  xy: 504, 2107
+  size: 460, 458
+  orig: 500, 500
+  offset: 34, 25
+  index: -1
+fuse2/Sparks 016 Impact Explosion Radial_00006
+  rotate: false
+  xy: 964, 2108
+  size: 446, 459
+  orig: 500, 500
+  offset: 40, 23
+  index: -1
+fuse2/Sparks 016 Impact Explosion Radial_00007
+  rotate: true
+  xy: 3550, 1748
+  size: 375, 423
+  orig: 500, 500
+  offset: 62, 35
+  index: -1
+fuse2/Sparks 016 Impact Explosion Radial_00008
+  rotate: true
+  xy: 3005, 1127
+  size: 293, 368
+  orig: 500, 500
+  offset: 81, 60
+  index: -1
+fuse3
+  rotate: false
+  xy: 3901, 2149
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00001
+  rotate: false
+  xy: 2823, 1129
+  size: 78, 73
+  orig: 500, 500
+  offset: 194, 404
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00002
+  rotate: false
+  xy: 3608, 397
+  size: 117, 93
+  orig: 500, 500
+  offset: 174, 391
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00003
+  rotate: false
+  xy: 1252, 28
+  size: 162, 110
+  orig: 500, 500
+  offset: 157, 378
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00004
+  rotate: false
+  xy: 1505, 178
+  size: 199, 127
+  orig: 500, 500
+  offset: 141, 365
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00005
+  rotate: false
+  xy: 1889, 178
+  size: 233, 142
+  orig: 500, 500
+  offset: 127, 352
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00006
+  rotate: false
+  xy: 2560, 169
+  size: 263, 155
+  orig: 500, 500
+  offset: 114, 340
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00007
+  rotate: true
+  xy: 3373, 1433
+  size: 292, 167
+  orig: 500, 500
+  offset: 101, 328
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00008
+  rotate: false
+  xy: 3733, 313
+  size: 318, 178
+  orig: 500, 500
+  offset: 90, 316
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00009
+  rotate: false
+  xy: 1216, 354
+  size: 343, 189
+  orig: 500, 500
+  offset: 79, 304
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00010
+  rotate: false
+  xy: 1327, 545
+  size: 365, 200
+  orig: 500, 500
+  offset: 69, 291
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00011
+  rotate: false
+  xy: 2998, 566
+  size: 385, 209
+  orig: 500, 500
+  offset: 61, 279
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00012
+  rotate: false
+  xy: 922, 593
+  size: 403, 217
+  orig: 500, 500
+  offset: 53, 267
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00013
+  rotate: false
+  xy: 652, 866
+  size: 417, 224
+  orig: 500, 500
+  offset: 49, 256
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00014
+  rotate: false
+  xy: 2084, 1166
+  size: 425, 226
+  orig: 500, 500
+  offset: 49, 249
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00015
+  rotate: false
+  xy: 2652, 326
+  size: 338, 190
+  orig: 500, 500
+  offset: 144, 278
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00016
+  rotate: false
+  xy: 1561, 307
+  size: 326, 188
+  orig: 500, 500
+  offset: 164, 269
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00017
+  rotate: false
+  xy: 3294, 329
+  size: 312, 161
+  orig: 500, 500
+  offset: 184, 261
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00018
+  rotate: true
+  xy: 3901, 2253
+  size: 314, 159
+  orig: 500, 500
+  offset: 186, 255
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00019
+  rotate: true
+  xy: 3975, 1986
+  size: 265, 82
+  orig: 500, 500
+  offset: 235, 305
+  index: -1
+fuse3/Sparks 009 Shot Impact Explosion Down_00020
+  rotate: false
+  xy: 2124, 134
+  size: 261, 76
+  orig: 500, 500
+  offset: 239, 299
+  index: -1
+fuse4
+  rotate: false
+  xy: 2903, 1152
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+fuse5
+  rotate: false
+  xy: 336, 1658
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+fuse6
+  rotate: false
+  xy: 1365, 2056
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+fuse7
+  rotate: false
+  xy: 925, 2055
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+fuse8
+  rotate: false
+  xy: 336, 1606
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+fuse9
+  rotate: false
+  xy: 922, 814
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+rocket/01
+  rotate: false
+  xy: 2560, 366
+  size: 85, 150
+  orig: 85, 150
+  offset: 0, 0
+  index: -1
+rocket/02
+  rotate: false
+  xy: 1988, 26
+  size: 128, 150
+  orig: 128, 150
+  offset: 0, 0
+  index: -1
+rocket/03
+  rotate: false
+  xy: 1889, 345
+  size: 85, 150
+  orig: 85, 150
+  offset: 0, 0
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00001
+  rotate: false
+  xy: 2394, 1078
+  size: 87, 86
+  orig: 500, 500
+  offset: 203, 217
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00002
+  rotate: false
+  xy: 679, 13
+  size: 136, 121
+  orig: 500, 500
+  offset: 178, 198
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00003
+  rotate: false
+  xy: 3682, 162
+  size: 186, 149
+  orig: 500, 500
+  offset: 156, 183
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00004
+  rotate: false
+  xy: 3267, 141
+  size: 233, 186
+  orig: 500, 500
+  offset: 138, 169
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00005
+  rotate: false
+  xy: 2281, 294
+  size: 277, 222
+  orig: 500, 500
+  offset: 121, 157
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00006
+  rotate: false
+  xy: 2332, 518
+  size: 318, 250
+  orig: 500, 500
+  offset: 107, 148
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00007
+  rotate: true
+  xy: 1451, 1049
+  size: 345, 275
+  orig: 500, 500
+  offset: 99, 140
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00008
+  rotate: false
+  xy: 3005, 1422
+  size: 366, 303
+  orig: 500, 500
+  offset: 91, 126
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00009
+  rotate: false
+  xy: 1754, 1406
+  size: 379, 323
+  orig: 500, 500
+  offset: 85, 114
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00010
+  rotate: false
+  xy: 3550, 1406
+  size: 392, 340
+  orig: 500, 500
+  offset: 78, 103
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00011
+  rotate: false
+  xy: 2, 1710
+  size: 406, 355
+  orig: 500, 500
+  offset: 71, 94
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00012
+  rotate: false
+  xy: 504, 1738
+  size: 419, 367
+  orig: 500, 500
+  offset: 65, 86
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00013
+  rotate: false
+  xy: 2709, 1747
+  size: 429, 378
+  orig: 500, 500
+  offset: 61, 80
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00014
+  rotate: false
+  xy: 2270, 1758
+  size: 437, 384
+  orig: 500, 500
+  offset: 58, 77
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00015
+  rotate: true
+  xy: 3508, 2125
+  size: 442, 391
+  orig: 500, 500
+  offset: 57, 74
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00016
+  rotate: true
+  xy: 3111, 2127
+  size: 440, 395
+  orig: 500, 500
+  offset: 60, 72
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00017
+  rotate: false
+  xy: 1412, 1733
+  size: 411, 398
+  orig: 500, 500
+  offset: 89, 70
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00018
+  rotate: false
+  xy: 3140, 1727
+  size: 408, 396
+  orig: 500, 500
+  offset: 92, 71
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00019
+  rotate: false
+  xy: 410, 1401
+  size: 389, 335
+  orig: 500, 500
+  offset: 111, 73
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00020
+  rotate: false
+  xy: 801, 1422
+  size: 385, 286
+  orig: 500, 500
+  offset: 115, 118
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00021
+  rotate: false
+  xy: 1071, 812
+  size: 339, 275
+  orig: 500, 500
+  offset: 161, 121
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00022
+  rotate: false
+  xy: 2992, 171
+  size: 273, 159
+  orig: 500, 500
+  offset: 227, 234
+  index: -1
+stars 1/Sparks 002 Impact Explosion Radial _00023
+  rotate: true
+  xy: 3975, 1753
+  size: 231, 87
+  orig: 500, 500
+  offset: 269, 239
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00000
+  rotate: false
+  xy: 2118, 74
+  size: 203, 58
+  orig: 500, 500
+  offset: 96, 56
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00001
+  rotate: false
+  xy: 490, 213
+  size: 281, 88
+  orig: 500, 500
+  offset: 93, 23
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00002
+  rotate: false
+  xy: 2124, 212
+  size: 293, 80
+  orig: 500, 500
+  offset: 87, 27
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00003
+  rotate: false
+  xy: 279, 137
+  size: 289, 74
+  orig: 500, 500
+  offset: 89, 12
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00004
+  rotate: false
+  xy: 2, 166
+  size: 275, 84
+  orig: 500, 500
+  offset: 111, 11
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00005
+  rotate: true
+  xy: 2135, 1483
+  size: 246, 84
+  orig: 500, 500
+  offset: 192, 12
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00006
+  rotate: false
+  xy: 570, 136
+  size: 265, 75
+  orig: 500, 500
+  offset: 180, 23
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00007
+  rotate: false
+  xy: 3240, 66
+  size: 262, 73
+  orig: 500, 500
+  offset: 180, 36
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00008
+  rotate: false
+  xy: 2972, 96
+  size: 266, 73
+  orig: 500, 500
+  offset: 178, 34
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00009
+  rotate: true
+  xy: 410, 1823
+  size: 242, 89
+  orig: 500, 500
+  offset: 175, 32
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00010
+  rotate: false
+  xy: 2556, 68
+  size: 197, 99
+  orig: 500, 500
+  offset: 169, 33
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00011
+  rotate: false
+  xy: 2, 68
+  size: 203, 96
+  orig: 500, 500
+  offset: 140, 35
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00012
+  rotate: false
+  xy: 360, 38
+  size: 175, 97
+  orig: 500, 500
+  offset: 135, 59
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00013
+  rotate: false
+  xy: 1075, 30
+  size: 175, 108
+  orig: 500, 500
+  offset: 137, 57
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00014
+  rotate: true
+  xy: 3944, 1544
+  size: 202, 127
+  orig: 500, 500
+  offset: 136, 55
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00015
+  rotate: false
+  xy: 3870, 175
+  size: 186, 136
+  orig: 500, 500
+  offset: 155, 55
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00016
+  rotate: false
+  xy: 1188, 1418
+  size: 152, 134
+  orig: 500, 500
+  offset: 188, 57
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00017
+  rotate: false
+  xy: 207, 18
+  size: 151, 117
+  orig: 500, 500
+  offset: 189, 79
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00018
+  rotate: false
+  xy: 537, 16
+  size: 140, 118
+  orig: 500, 500
+  offset: 187, 79
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00019
+  rotate: false
+  xy: 2698, 958
+  size: 114, 114
+  orig: 500, 500
+  offset: 188, 81
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00020
+  rotate: false
+  xy: 2698, 862
+  size: 117, 94
+  orig: 500, 500
+  offset: 187, 97
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00021
+  rotate: false
+  xy: 2135, 1409
+  size: 107, 72
+  orig: 500, 500
+  offset: 196, 116
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00022
+  rotate: false
+  xy: 410, 1751
+  size: 91, 70
+  orig: 500, 500
+  offset: 212, 118
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00023
+  rotate: false
+  xy: 1327, 756
+  size: 76, 54
+  orig: 500, 500
+  offset: 218, 133
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00024
+  rotate: false
+  xy: 336, 1560
+  size: 57, 44
+  orig: 500, 500
+  offset: 221, 143
+  index: -1
+yellow energy ray up/Energy 064 Ray Up_00025
+  rotate: false
+  xy: 4062, 2540
+  size: 27, 27
+  orig: 500, 500
+  offset: 245, 158
+  index: -1

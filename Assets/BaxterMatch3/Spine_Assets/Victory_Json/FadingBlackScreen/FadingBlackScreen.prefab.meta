@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 60222df21ad2432db81f02a9b7263700
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/json-victory_royal/FadingBlackScreen/FadingBlackScreen.prefab
+  uploadId: 771799

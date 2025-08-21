@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63411ac2a780487aaebc0fffb2f99a91
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/bomb explode/bomb explode.atlas.txt
+  uploadId: 771799

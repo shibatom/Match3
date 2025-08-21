@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acc3982b416f40ff8a65932d922503e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Bow/json-bow/bow_Material.mat
+  uploadId: 771799

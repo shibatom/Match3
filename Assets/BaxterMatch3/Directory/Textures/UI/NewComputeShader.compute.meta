@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aac19386d34246f9868505a467e96b24
+ComputeShaderImporter:
+  externalObjects: {}
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Textures/UI/NewComputeShader.compute
+  uploadId: 771799

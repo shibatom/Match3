@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 350ea3c2e735451b9ebfe1e5decffbd0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Textures/UI/mirror2.mat
+  uploadId: 771799

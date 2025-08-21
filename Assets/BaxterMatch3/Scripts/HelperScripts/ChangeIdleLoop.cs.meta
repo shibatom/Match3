@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: df3a1aaa50814684930aeb8de78ca7e5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/HelperScripts/ChangeIdleLoop.cs
+  uploadId: 771799

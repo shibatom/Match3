@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 44c9f9d66be847e39fd4b031e9f5e5d8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Blocks/SquareMask.prefab
+  uploadId: 771799

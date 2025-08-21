@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b48c3058e1774696b124f8854696cc2b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Helicopter/New SkeletonAnimationTimeline.playable
+  uploadId: 771799

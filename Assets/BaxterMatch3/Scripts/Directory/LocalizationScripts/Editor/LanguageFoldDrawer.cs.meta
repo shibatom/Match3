@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f4e6e2256a834fa089c14a3f0147744e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/LocalizationScripts/Editor/LanguageFoldDrawer.cs
+  uploadId: 771799

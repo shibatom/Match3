@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5447ba7113f4f629f6e4211301b89be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Scriptable/PoolSettings.asset
+  uploadId: 771799

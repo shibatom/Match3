@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4510547101c24bc49834b19fd9df3888
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/json-victory_royal/FadingBlackScreen/ComeUpThenFade.anim
+  uploadId: 771799

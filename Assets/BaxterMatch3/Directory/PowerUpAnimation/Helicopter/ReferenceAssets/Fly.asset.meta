@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c64327eb7c8a4b549ec6ed20aa1f8f01
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Helicopter/ReferenceAssets/Fly.asset
+  uploadId: 771799

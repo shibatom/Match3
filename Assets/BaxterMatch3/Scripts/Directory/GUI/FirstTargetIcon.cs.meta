@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7d8080dbfeec485c901a3d4e4e7b0999
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 1400
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/GUI/FirstTargetIcon.cs
+  uploadId: 771799

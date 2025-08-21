@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7bbba4e8c1a442296686b5ead55bbe9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Scenes/GameScene_Profiles/Main Camera
+    Profile.asset
+  uploadId: 771799

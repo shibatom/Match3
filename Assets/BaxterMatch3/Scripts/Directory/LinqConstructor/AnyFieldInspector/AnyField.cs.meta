@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d17f24e7e8b440728fc834cb4e5bd8c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/LinqConstructor/AnyFieldInspector/AnyField.cs
+  uploadId: 771799

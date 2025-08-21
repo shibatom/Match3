@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cc649c55a8244859ff156d944d847a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Prefabs/Particles/bomb_selection_02.prefab
+  uploadId: 771799

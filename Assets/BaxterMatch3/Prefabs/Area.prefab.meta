@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 576ae6969d1342f3a89a8dbf6fd2b62a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Prefabs/Area.prefab
+  uploadId: 771799

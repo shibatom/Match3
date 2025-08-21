@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fa23d6e5f194b14b25ebf29a31acc9c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Blocks/EmptySquareNoGen.prefab
+  uploadId: 771799

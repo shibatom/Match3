@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12777103bd23491ea61bf2ab1ee1f556
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Prefabs/Effects/Teleport.prefab
+  uploadId: 771799

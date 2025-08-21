@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ae9ea8805f94c3aa791b9c85acc20fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/FireWork/Spine/skeleton3_Material.mat
+  uploadId: 771799

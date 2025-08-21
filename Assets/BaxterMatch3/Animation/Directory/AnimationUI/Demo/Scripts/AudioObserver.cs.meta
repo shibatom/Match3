@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 683829b7689c4c4cac0cd447c93d66cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/Directory/AnimationUI/Demo/Scripts/AudioObserver.cs
+  uploadId: 771799

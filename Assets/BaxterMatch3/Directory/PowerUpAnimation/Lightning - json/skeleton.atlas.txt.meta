@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: edace35677df4908a7bde6c18030875a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Lightning - json/skeleton.atlas.txt
+  uploadId: 771799

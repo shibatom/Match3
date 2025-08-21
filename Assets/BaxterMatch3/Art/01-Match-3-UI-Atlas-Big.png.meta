@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: d7455392d6a2464aad2b7b14cab1837e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 639333892716126592
+    second: 01-Match-3-UI-Atlas-Big_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_0
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 3320
+        width: 1372
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0816630c9ce5fd800800000000000000
+      internalID: 639333892716126592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_1
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 3318
+        width: 1372
+        height: 778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c50e247d6ae204f939140fb2243f59
+      internalID: -54176787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2626
+        width: 1209
+        height: 1470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e6b8f0fd50ecd4b8bd7ced80560616
+      internalID: 704700936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_4
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2145
+        width: 564
+        height: 741
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a6150bd1c6af84f921ce4b2885022a
+      internalID: -1940711779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_5
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 2134
+        width: 645
+        height: 780
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b65bec474866d54995e29cda1521f94
+      internalID: -394499107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_6
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 2135
+        width: 616
+        height: 755
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebb40392b7fa184c95a8a4bdd0b8536
+      internalID: -214507841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_7
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1375
+        width: 547
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fda81d6f4895649b3451ee9da3900a
+      internalID: 107405174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_8
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1233
+        width: 748
+        height: 872
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c2da19bafe79144ba13547cc0e1050
+      internalID: -957293527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_9
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 1368
+        width: 560
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bbc9f2b7856d740bce0e47c62597d3
+      internalID: -963935440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_10
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 602
+        width: 565
+        height: 734
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8efadb0f42c9a74e92c6ab1655f7210
+      internalID: 1942025513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_11
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 381
+        width: 598
+        height: 832
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d016828125b8cd40b0896b2a03f73fe
+      internalID: 370077655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_12
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 621
+        width: 578
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc4e49c10d5614f824ca3bb951689f
+      internalID: -1305526426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_13
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 0
+        width: 525
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f451ef9bb3dbb4ca8940823ff86937
+      internalID: -594702378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 445
+        width: 895
+        height: 1077
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8fe6512fda97e4f9754b83913d23a6
+      internalID: 245768072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Match-3-UI-Atlas-Big_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1543
+        width: 895
+        height: 1077
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfa6726b1aded41ba50a2a0980417a
+      internalID: -595867481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a4a38757cfeca14483547103798fba7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      01-Match-3-UI-Atlas-Big_0: 639333892716126592
+      01-Match-3-UI-Atlas-Big_1: -54176787
+      01-Match-3-UI-Atlas-Big_10: 1942025513
+      01-Match-3-UI-Atlas-Big_11: 370077655
+      01-Match-3-UI-Atlas-Big_12: -1305526426
+      01-Match-3-UI-Atlas-Big_13: -594702378
+      01-Match-3-UI-Atlas-Big_14: -595867481
+      01-Match-3-UI-Atlas-Big_2: 704700936
+      01-Match-3-UI-Atlas-Big_3: 245768072
+      01-Match-3-UI-Atlas-Big_4: -1940711779
+      01-Match-3-UI-Atlas-Big_5: -394499107
+      01-Match-3-UI-Atlas-Big_6: -214507841
+      01-Match-3-UI-Atlas-Big_7: 107405174
+      01-Match-3-UI-Atlas-Big_8: -957293527
+      01-Match-3-UI-Atlas-Big_9: -963935440
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Art/01-Match-3-UI-Atlas-Big.png
+  uploadId: 771799

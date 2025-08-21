@@ -1,0 +1,7547 @@
+fileFormatVersion: 2
+guid: 5eed831ac16f410d9855312fe81a6e35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3255942467435066628
+    second: FLAG CURVE-size_0
+  - first:
+      213: 4917972047386904113
+    second: FLAG CURVE-size_1
+  - first:
+      213: 5261618320596753715
+    second: FLAG CURVE-size_2
+  - first:
+      213: -8996001675614826833
+    second: FLAG CURVE-size_3
+  - first:
+      213: -7766183872716729886
+    second: FLAG CURVE-size_4
+  - first:
+      213: 6090766900360711567
+    second: FLAG CURVE-size_5
+  - first:
+      213: 4770348338188639592
+    second: FLAG CURVE-size_6
+  - first:
+      213: -416539643862272187
+    second: FLAG CURVE-size_7
+  - first:
+      213: 679825506859513201
+    second: FLAG CURVE-size_8
+  - first:
+      213: -282177225981613871
+    second: FLAG CURVE-size_9
+  - first:
+      213: -1658760864164100944
+    second: FLAG CURVE-size_10
+  - first:
+      213: 6545735760184279020
+    second: FLAG CURVE-size_11
+  - first:
+      213: -3708194532093899842
+    second: FLAG CURVE-size_12
+  - first:
+      213: 7413226329685555532
+    second: FLAG CURVE-size_13
+  - first:
+      213: 4610492211099074683
+    second: FLAG CURVE-size_14
+  - first:
+      213: -1579130930532130363
+    second: FLAG CURVE-size_15
+  - first:
+      213: 9164740589536788903
+    second: FLAG CURVE-size_16
+  - first:
+      213: -2443225013090725562
+    second: FLAG CURVE-size_17
+  - first:
+      213: -3766612771082362964
+    second: FLAG CURVE-size_18
+  - first:
+      213: 2337732552956966190
+    second: FLAG CURVE-size_19
+  - first:
+      213: -8354727678324734298
+    second: FLAG CURVE-size_20
+  - first:
+      213: -5011227355994453841
+    second: FLAG CURVE-size_21
+  - first:
+      213: -1377315737044202934
+    second: FLAG CURVE-size_22
+  - first:
+      213: -5260115213461601614
+    second: FLAG CURVE-size_23
+  - first:
+      213: 7964132347396665138
+    second: FLAG CURVE-size_24
+  - first:
+      213: 8797985052492878735
+    second: FLAG CURVE-size_25
+  - first:
+      213: -8428278210315103479
+    second: FLAG CURVE-size_26
+  - first:
+      213: -6190556177841162829
+    second: FLAG CURVE-size_27
+  - first:
+      213: 8206895392501191274
+    second: FLAG CURVE-size_28
+  - first:
+      213: -6619655442935881298
+    second: FLAG CURVE-size_29
+  - first:
+      213: 976684507979804817
+    second: FLAG CURVE-size_30
+  - first:
+      213: 7250317794537477610
+    second: FLAG CURVE-size_31
+  - first:
+      213: 1634945365266956408
+    second: FLAG CURVE-size_32
+  - first:
+      213: -8521602097570942357
+    second: FLAG CURVE-size_33
+  - first:
+      213: 6545016566204001664
+    second: FLAG CURVE-size_34
+  - first:
+      213: 7562229186310612095
+    second: FLAG CURVE-size_35
+  - first:
+      213: 1994444499044672735
+    second: FLAG CURVE-size_36
+  - first:
+      213: 5171362359042756243
+    second: FLAG CURVE-size_37
+  - first:
+      213: -3442564199039114413
+    second: FLAG CURVE-size_38
+  - first:
+      213: 1355646532182682362
+    second: FLAG CURVE-size_39
+  - first:
+      213: -50047036726256961
+    second: FLAG CURVE-size_40
+  - first:
+      213: -8810803572712132933
+    second: FLAG CURVE-size_41
+  - first:
+      213: -2324908213549587367
+    second: FLAG CURVE-size_42
+  - first:
+      213: 1679711151123037489
+    second: FLAG CURVE-size_43
+  - first:
+      213: 8704467198083945451
+    second: FLAG CURVE-size_44
+  - first:
+      213: -6518980904456009858
+    second: FLAG CURVE-size_45
+  - first:
+      213: -452446549469959520
+    second: FLAG CURVE-size_46
+  - first:
+      213: -411746272861672742
+    second: FLAG CURVE-size_47
+  - first:
+      213: 1332302057721648422
+    second: FLAG CURVE-size_48
+  - first:
+      213: 684613853978782321
+    second: FLAG CURVE-size_49
+  - first:
+      213: 1607719542981019198
+    second: FLAG CURVE-size_50
+  - first:
+      213: 332136367544226677
+    second: FLAG CURVE-size_51
+  - first:
+      213: -6405668068158597686
+    second: FLAG CURVE-size_52
+  - first:
+      213: 4672596595250701290
+    second: FLAG CURVE-size_53
+  - first:
+      213: 2908281523387623269
+    second: FLAG CURVE-size_54
+  - first:
+      213: 1971693028918829183
+    second: FLAG CURVE-size_55
+  - first:
+      213: -2782789764291999075
+    second: FLAG CURVE-size_56
+  - first:
+      213: -1048111230325507394
+    second: FLAG CURVE-size_57
+  - first:
+      213: 7543087074044091443
+    second: FLAG CURVE-size_58
+  - first:
+      213: -638332315233102615
+    second: FLAG CURVE-size_59
+  - first:
+      213: 3956366457673049446
+    second: FLAG CURVE-size_60
+  - first:
+      213: 7548882880369433368
+    second: FLAG CURVE-size_61
+  - first:
+      213: 8608175983622268221
+    second: FLAG CURVE-size_62
+  - first:
+      213: -555453472443066972
+    second: FLAG CURVE-size_63
+  - first:
+      213: 1994406522084018590
+    second: FLAG CURVE-size_64
+  - first:
+      213: -5686285533746633457
+    second: FLAG CURVE-size_65
+  - first:
+      213: 8585504477266354023
+    second: FLAG CURVE-size_66
+  - first:
+      213: -7027577894946359198
+    second: FLAG CURVE-size_67
+  - first:
+      213: -3257372210924977263
+    second: FLAG CURVE-size_68
+  - first:
+      213: -3581224540287004367
+    second: FLAG CURVE-size_69
+  - first:
+      213: 7862272063460024525
+    second: FLAG CURVE-size_70
+  - first:
+      213: 2630321837940578822
+    second: FLAG CURVE-size_71
+  - first:
+      213: -6668185356642053265
+    second: FLAG CURVE-size_72
+  - first:
+      213: 2579280870793741634
+    second: FLAG CURVE-size_73
+  - first:
+      213: -5973776619601907460
+    second: FLAG CURVE-size_74
+  - first:
+      213: 801702632351666252
+    second: FLAG CURVE-size_75
+  - first:
+      213: 2569819823874087805
+    second: FLAG CURVE-size_76
+  - first:
+      213: 3915808605165043553
+    second: FLAG CURVE-size_77
+  - first:
+      213: -1793612015327266682
+    second: FLAG CURVE-size_78
+  - first:
+      213: 374233673517597095
+    second: FLAG CURVE-size_79
+  - first:
+      213: -5615948429817890663
+    second: FLAG CURVE-size_80
+  - first:
+      213: -2480030641042617423
+    second: FLAG CURVE-size_81
+  - first:
+      213: 4222921045766860786
+    second: FLAG CURVE-size_82
+  - first:
+      213: 7015658911682202270
+    second: FLAG CURVE-size_83
+  - first:
+      213: 1914852163485404801
+    second: FLAG CURVE-size_84
+  - first:
+      213: -4180028414285517706
+    second: FLAG CURVE-size_85
+  - first:
+      213: -186049014339359732
+    second: FLAG CURVE-size_86
+  - first:
+      213: -3555434241716097098
+    second: FLAG CURVE-size_87
+  - first:
+      213: 253838208823053992
+    second: FLAG CURVE-size_88
+  - first:
+      213: 348381112534603081
+    second: FLAG CURVE-size_89
+  - first:
+      213: -7667514621301117143
+    second: FLAG CURVE-size_90
+  - first:
+      213: 5991974296996690667
+    second: FLAG CURVE-size_91
+  - first:
+      213: -1415147242972375449
+    second: FLAG CURVE-size_92
+  - first:
+      213: 7559563107976176623
+    second: FLAG CURVE-size_93
+  - first:
+      213: 1819697979675147402
+    second: FLAG CURVE-size_94
+  - first:
+      213: -631515979079761422
+    second: FLAG CURVE-size_95
+  - first:
+      213: -5808854450644866358
+    second: FLAG CURVE-size_96
+  - first:
+      213: -5772343290252242252
+    second: FLAG CURVE-size_97
+  - first:
+      213: 3625793377783563102
+    second: FLAG CURVE-size_98
+  - first:
+      213: -6970981828601475612
+    second: FLAG CURVE-size_99
+  - first:
+      213: 4408592103367399377
+    second: FLAG CURVE-size_100
+  - first:
+      213: 6808540050779340079
+    second: FLAG CURVE-size_101
+  - first:
+      213: -6866826449058077825
+    second: FLAG CURVE-size_102
+  - first:
+      213: 7964321497313006041
+    second: FLAG CURVE-size_103
+  - first:
+      213: -6263895954984839649
+    second: FLAG CURVE-size_104
+  - first:
+      213: -6943914095153235888
+    second: FLAG CURVE-size_105
+  - first:
+      213: -6810692792720026965
+    second: FLAG CURVE-size_106
+  - first:
+      213: 1744253798451738304
+    second: FLAG CURVE-size_107
+  - first:
+      213: -8698586184652479703
+    second: FLAG CURVE-size_108
+  - first:
+      213: 6959060810374820471
+    second: FLAG CURVE-size_109
+  - first:
+      213: 10306397492474952
+    second: FLAG CURVE-size_110
+  - first:
+      213: -4977806316113622497
+    second: FLAG CURVE-size_111
+  - first:
+      213: 4559133597449920130
+    second: FLAG CURVE-size_112
+  - first:
+      213: -6242050575917939128
+    second: FLAG CURVE-size_113
+  - first:
+      213: 1249063648733604157
+    second: FLAG CURVE-size_114
+  - first:
+      213: 5441933320845498855
+    second: FLAG CURVE-size_115
+  - first:
+      213: 5065346965354877209
+    second: FLAG CURVE-size_116
+  - first:
+      213: 4459030344325403437
+    second: FLAG CURVE-size_117
+  - first:
+      213: -7542756410810367838
+    second: FLAG CURVE-size_118
+  - first:
+      213: -790006984246950814
+    second: FLAG CURVE-size_119
+  - first:
+      213: -1338975759821489723
+    second: FLAG CURVE-size_120
+  - first:
+      213: 1217411192221496870
+    second: FLAG CURVE-size_121
+  - first:
+      213: -6364262120501147165
+    second: FLAG CURVE-size_122
+  - first:
+      213: -4323981597873414371
+    second: FLAG CURVE-size_123
+  - first:
+      213: 1429533455245470325
+    second: FLAG CURVE-size_124
+  - first:
+      213: -8502331398749145419
+    second: FLAG CURVE-size_125
+  - first:
+      213: 6648775216823350607
+    second: FLAG CURVE-size_126
+  - first:
+      213: 2609819965753053212
+    second: FLAG CURVE-size_127
+  - first:
+      213: -903292199928007250
+    second: FLAG CURVE-size_128
+  - first:
+      213: -6306329544287884094
+    second: FLAG CURVE-size_129
+  - first:
+      213: -6202998535990967537
+    second: FLAG CURVE-size_130
+  - first:
+      213: 3976709924350865099
+    second: FLAG CURVE-size_131
+  - first:
+      213: 5293557807029774552
+    second: FLAG CURVE-size_132
+  - first:
+      213: 1583774817853085021
+    second: FLAG CURVE-size_133
+  - first:
+      213: 999911641641970173
+    second: FLAG CURVE-size_134
+  - first:
+      213: 6348401019634921565
+    second: FLAG CURVE-size_135
+  - first:
+      213: 1025079838181739032
+    second: FLAG CURVE-size_136
+  - first:
+      213: -1887093731152339456
+    second: FLAG CURVE-size_137
+  - first:
+      213: -1827621182098813267
+    second: FLAG CURVE-size_138
+  - first:
+      213: -7786652422838550998
+    second: FLAG CURVE-size_139
+  - first:
+      213: -9140501927312349767
+    second: FLAG CURVE-size_140
+  - first:
+      213: 6467651504559905564
+    second: FLAG CURVE-size_141
+  - first:
+      213: 6092453062805941217
+    second: FLAG CURVE-size_142
+  - first:
+      213: 1281959623749325608
+    second: FLAG CURVE-size_143
+  - first:
+      213: 3481255210634225091
+    second: FLAG CURVE-size_144
+  - first:
+      213: 7429519356747447853
+    second: FLAG CURVE-size_145
+  - first:
+      213: -3547181951743765488
+    second: FLAG CURVE-size_146
+  - first:
+      213: 2007899532420259832
+    second: FLAG CURVE-size_147
+  - first:
+      213: 9017653817924354309
+    second: FLAG CURVE-size_148
+  - first:
+      213: -2781223434702606125
+    second: FLAG CURVE-size_149
+  - first:
+      213: -1855221517705060596
+    second: FLAG CURVE-size_150
+  - first:
+      213: -938003946518442674
+    second: FLAG CURVE-size_151
+  - first:
+      213: 3808239071634015666
+    second: FLAG CURVE-size_152
+  - first:
+      213: 7940745196684097115
+    second: FLAG CURVE-size_153
+  - first:
+      213: -674101723183725112
+    second: FLAG CURVE-size_154
+  - first:
+      213: -5537424260596207393
+    second: FLAG CURVE-size_155
+  - first:
+      213: 8732473245832579673
+    second: FLAG CURVE-size_156
+  - first:
+      213: 7608205455821890004
+    second: FLAG CURVE-size_157
+  - first:
+      213: -7985988435833524506
+    second: FLAG CURVE-size_158
+  - first:
+      213: -7917938247184292325
+    second: FLAG CURVE-size_159
+  - first:
+      213: 5867975029309451988
+    second: FLAG CURVE-size_160
+  - first:
+      213: -4419339181151954307
+    second: FLAG CURVE-size_161
+  - first:
+      213: 3912416758619517857
+    second: FLAG CURVE-size_162
+  - first:
+      213: 8244254202486752805
+    second: FLAG CURVE-size_163
+  - first:
+      213: 8748606076325175091
+    second: FLAG CURVE-size_164
+  - first:
+      213: -325549928694124507
+    second: FLAG CURVE-size_165
+  - first:
+      213: 7985948763618623102
+    second: FLAG CURVE-size_166
+  - first:
+      213: 7860487091342626958
+    second: FLAG CURVE-size_167
+  - first:
+      213: -3684960053806339755
+    second: FLAG CURVE-size_168
+  - first:
+      213: -874656461865254222
+    second: FLAG CURVE-size_169
+  - first:
+      213: 4355883230818650307
+    second: FLAG CURVE-size_170
+  - first:
+      213: 1471122877580956395
+    second: FLAG CURVE-size_171
+  - first:
+      213: 310685827316433699
+    second: FLAG CURVE-size_172
+  - first:
+      213: 60929151872341379
+    second: FLAG CURVE-size_173
+  - first:
+      213: 3285483656605590975
+    second: FLAG CURVE-size_174
+  - first:
+      213: 3832910184964586529
+    second: FLAG CURVE-size_175
+  - first:
+      213: 1846437566144818075
+    second: FLAG CURVE-size_176
+  - first:
+      213: -5966689846448177556
+    second: FLAG CURVE-size_177
+  - first:
+      213: 5492527719967823808
+    second: FLAG CURVE-size_178
+  - first:
+      213: -6102847296242105010
+    second: FLAG CURVE-size_179
+  - first:
+      213: 5179987711125674441
+    second: FLAG CURVE-size_180
+  - first:
+      213: -1543892838251017566
+    second: FLAG CURVE-size_181
+  - first:
+      213: 5796644787357516682
+    second: FLAG CURVE-size_182
+  - first:
+      213: -483808915617182799
+    second: FLAG CURVE-size_183
+  - first:
+      213: 5936835995253868761
+    second: FLAG CURVE-size_184
+  - first:
+      213: -447369213595662471
+    second: FLAG CURVE-size_185
+  - first:
+      213: -3488455320081264537
+    second: FLAG CURVE-size_186
+  - first:
+      213: -6344053077157236324
+    second: FLAG CURVE-size_187
+  - first:
+      213: 476984831932473881
+    second: FLAG CURVE-size_188
+  - first:
+      213: 5511719575518168610
+    second: FLAG CURVE-size_189
+  - first:
+      213: 713349707629105238
+    second: FLAG CURVE-size_190
+  - first:
+      213: -7929814344906816960
+    second: FLAG CURVE-size_191
+  - first:
+      213: 1218219277033128312
+    second: FLAG CURVE-size_192
+  - first:
+      213: -8745817197990729070
+    second: FLAG CURVE-size_193
+  - first:
+      213: 2901020448965463164
+    second: FLAG CURVE-size_194
+  - first:
+      213: 2090736114072884383
+    second: FLAG CURVE-size_195
+  - first:
+      213: -7134263982867992628
+    second: FLAG CURVE-size_196
+  - first:
+      213: -7441951537478961267
+    second: FLAG CURVE-size_197
+  - first:
+      213: 3201845906795397896
+    second: FLAG CURVE-size_198
+  - first:
+      213: 7645755922442948067
+    second: FLAG CURVE-size_199
+  - first:
+      213: -8113502867099785062
+    second: FLAG CURVE-size_200
+  - first:
+      213: -5363245461752417035
+    second: FLAG CURVE-size_201
+  - first:
+      213: -5795276771417964469
+    second: FLAG CURVE-size_202
+  - first:
+      213: 3897825946906461891
+    second: FLAG CURVE-size_203
+  - first:
+      213: -9010077475255380459
+    second: FLAG CURVE-size_204
+  - first:
+      213: -7532727417337846322
+    second: FLAG CURVE-size_205
+  - first:
+      213: -13198289039914668
+    second: FLAG CURVE-size_206
+  - first:
+      213: -1424758162278781194
+    second: FLAG CURVE-size_207
+  - first:
+      213: 8092568290425425498
+    second: FLAG CURVE-size_208
+  - first:
+      213: -7222337276861235384
+    second: FLAG CURVE-size_209
+  - first:
+      213: -1251980227527931085
+    second: FLAG CURVE-size_210
+  - first:
+      213: -8582157801054236713
+    second: FLAG CURVE-size_211
+  - first:
+      213: 9173580689354181390
+    second: FLAG CURVE-size_212
+  - first:
+      213: -6064712951974154492
+    second: FLAG CURVE-size_213
+  - first:
+      213: 8008569622377531935
+    second: FLAG CURVE-size_214
+  - first:
+      213: 1383970144583305235
+    second: FLAG CURVE-size_215
+  - first:
+      213: 6584474400716718287
+    second: FLAG CURVE-size_216
+  - first:
+      213: 1634818060011996453
+    second: FLAG CURVE-size_217
+  - first:
+      213: -3680897107833965555
+    second: FLAG CURVE-size_218
+  - first:
+      213: -7514930454613558158
+    second: FLAG CURVE-size_219
+  - first:
+      213: 9073496020270493387
+    second: FLAG CURVE-size_220
+  - first:
+      213: -2735178104312524569
+    second: FLAG CURVE-size_221
+  - first:
+      213: 1384434342037967522
+    second: FLAG CURVE-size_222
+  - first:
+      213: -8681194254683408919
+    second: FLAG CURVE-size_223
+  - first:
+      213: -4196269934414853115
+    second: FLAG CURVE-size_224
+  - first:
+      213: 7914259899568587261
+    second: FLAG CURVE-size_225
+  - first:
+      213: 8619304774730137138
+    second: FLAG CURVE-size_226
+  - first:
+      213: -9213992060294404007
+    second: FLAG CURVE-size_227
+  - first:
+      213: 2395348310208553636
+    second: FLAG CURVE-size_228
+  - first:
+      213: 6585835402153280465
+    second: FLAG CURVE-size_229
+  - first:
+      213: 8849110455900911118
+    second: FLAG CURVE-size_230
+  - first:
+      213: -1658151653203653773
+    second: FLAG CURVE-size_231
+  - first:
+      213: -8282256345635116899
+    second: FLAG CURVE-size_232
+  - first:
+      213: 1529125864964579558
+    second: FLAG CURVE-size_233
+  - first:
+      213: 1857692756022883615
+    second: FLAG CURVE-size_234
+  - first:
+      213: 7636583794797332688
+    second: FLAG CURVE-size_235
+  - first:
+      213: 3941765895075070060
+    second: FLAG CURVE-size_236
+  - first:
+      213: 1587507713750800977
+    second: FLAG CURVE-size_237
+  - first:
+      213: -8591290171600713294
+    second: FLAG CURVE-size_238
+  - first:
+      213: -2720656152172674924
+    second: FLAG CURVE-size_239
+  - first:
+      213: 1791205226459696771
+    second: FLAG CURVE-size_240
+  - first:
+      213: -7785164386530750478
+    second: FLAG CURVE-size_241
+  - first:
+      213: 618403060976860194
+    second: FLAG CURVE-size_242
+  - first:
+      213: 1096652494717562193
+    second: FLAG CURVE-size_243
+  - first:
+      213: 3979062112526274263
+    second: FLAG CURVE-size_244
+  - first:
+      213: -1845024231945510616
+    second: FLAG CURVE-size_245
+  - first:
+      213: -6996593220860005342
+    second: FLAG CURVE-size_246
+  - first:
+      213: -1535701444990495629
+    second: FLAG CURVE-size_247
+  - first:
+      213: -5248113632114876241
+    second: FLAG CURVE-size_248
+  - first:
+      213: -2673238952911322703
+    second: FLAG CURVE-size_249
+  - first:
+      213: 1105443254433559779
+    second: FLAG CURVE-size_250
+  - first:
+      213: 3985381799469015969
+    second: FLAG CURVE-size_251
+  - first:
+      213: 4556173609757289649
+    second: FLAG CURVE-size_252
+  - first:
+      213: 3684499624834151762
+    second: FLAG CURVE-size_253
+  - first:
+      213: -7365780888143471474
+    second: FLAG CURVE-size_254
+  - first:
+      213: -4719555014561779025
+    second: FLAG CURVE-size_255
+  - first:
+      213: -2489998506346715706
+    second: FLAG CURVE-size_256
+  - first:
+      213: 138724212970382497
+    second: FLAG CURVE-size_257
+  - first:
+      213: -722552266326623432
+    second: FLAG CURVE-size_258
+  - first:
+      213: 3719001743803767452
+    second: FLAG CURVE-size_259
+  - first:
+      213: -2631637164335694100
+    second: FLAG CURVE-size_260
+  - first:
+      213: 1773054475303003701
+    second: FLAG CURVE-size_261
+  - first:
+      213: 5212915104266447548
+    second: FLAG CURVE-size_262
+  - first:
+      213: -7895763182300537280
+    second: FLAG CURVE-size_263
+  - first:
+      213: -6483867201656942039
+    second: FLAG CURVE-size_264
+  - first:
+      213: 8297603702562469522
+    second: FLAG CURVE-size_265
+  - first:
+      213: -7159987799326342504
+    second: FLAG CURVE-size_266
+  - first:
+      213: -4450528034641910861
+    second: FLAG CURVE-size_267
+  - first:
+      213: -5752585928392841608
+    second: FLAG CURVE-size_268
+  - first:
+      213: -57513684524883388
+    second: FLAG CURVE-size_269
+  - first:
+      213: -297890627697385278
+    second: FLAG CURVE-size_270
+  - first:
+      213: -3189648154512535956
+    second: FLAG CURVE-size_271
+  - first:
+      213: -313650812742882241
+    second: FLAG CURVE-size_272
+  - first:
+      213: 143988301503508087
+    second: FLAG CURVE-size_273
+  - first:
+      213: 8988071022206219490
+    second: FLAG CURVE-size_274
+  - first:
+      213: -2837747568467817832
+    second: FLAG CURVE-size_275
+  - first:
+      213: 7657708967987311374
+    second: FLAG CURVE-size_276
+  - first:
+      213: 8528694460534386074
+    second: FLAG CURVE-size_277
+  - first:
+      213: -5868220282599619730
+    second: FLAG CURVE-size_278
+  - first:
+      213: -5258469460525010262
+    second: FLAG CURVE-size_279
+  - first:
+      213: 1471101466751581914
+    second: FLAG CURVE-size_280
+  - first:
+      213: -2322426546881810066
+    second: FLAG CURVE-size_281
+  - first:
+      213: -8058402138478610333
+    second: FLAG CURVE-size_282
+  - first:
+      213: 3214772338349716155
+    second: FLAG CURVE-size_283
+  - first:
+      213: -3846528348849520174
+    second: FLAG CURVE-size_284
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FLAG CURVE-size_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1125
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa8c6b939190d2d0800000000000000
+      internalID: -3255942467435066628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1125
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1360cc34585204440800000000000000
+      internalID: 4917972047386904113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1125
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d5bde3cf5050940800000000000000
+      internalID: 5261618320596753715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1125
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faec82e8328c72380800000000000000
+      internalID: -8996001675614826833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1125
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e11a5e2ae8f83490800000000000000
+      internalID: -7766183872716729886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_5
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1125
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d05b1c930c68450800000000000000
+      internalID: 6090766900360711567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1125
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ddb980a8ea33240800000000000000
+      internalID: 4770348338188639592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1125
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b8bc9667283af0800000000000000
+      internalID: -416539643862272187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_8
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1125
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1757c9552b93f6900800000000000000
+      internalID: 679825506859513201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1125
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d829a9de41851cf0800000000000000
+      internalID: -282177225981613871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_10
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1125
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4cd2458c5eaf8e0800000000000000
+      internalID: -1658760864164100944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_11
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1125
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceffa5b3eff17da50800000000000000
+      internalID: 6545735760184279020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_12
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1125
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb4f7c48b8d98cc0800000000000000
+      internalID: -3708194532093899842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_13
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1125
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49fa74e11211e660800000000000000
+      internalID: 7413226329685555532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_14
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1125
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7004421d32cbff30800000000000000
+      internalID: 4610492211099074683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_15
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1125
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1ecc709ccc51ae0800000000000000
+      internalID: -1579130930532130363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1065
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c1f16203bf2f70800000000000000
+      internalID: 9164740589536788903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1065
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641d06c9bcbe71ed0800000000000000
+      internalID: -2443225013090725562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1065
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf9f2d14ad4abbc0800000000000000
+      internalID: -3766612771082362964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1065
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25fddefe5b417020800000000000000
+      internalID: 2337732552956966190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1065
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6845a117b0e0c80800000000000000
+      internalID: -8354727678324734298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_21
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1065
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa80b35354b847ab0800000000000000
+      internalID: -5011227355994453841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1065
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4acced62aac2ece0800000000000000
+      internalID: -1377315737044202934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1065
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b24ef725115007b0800000000000000
+      internalID: -5260115213461601614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_24
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1065
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fa6c69c28468e60800000000000000
+      internalID: 7964132347396665138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1065
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83d801aac8b81a70800000000000000
+      internalID: 8797985052492878735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_26
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1065
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903d0066f9db80b80800000000000000
+      internalID: -8428278210315103479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_27
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1065
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b57da984f9b61aa0800000000000000
+      internalID: -6190556177841162829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_28
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1065
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62d2d2a0efb4e170800000000000000
+      internalID: 8206895392501191274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_29
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1065
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1635472724224a0800000000000000
+      internalID: -6619655442935881298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_30
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1065
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19073c3a261ed8d00800000000000000
+      internalID: 976684507979804817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_31
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1065
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5991cce9d4e9460800000000000000
+      internalID: 7250317794537477610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1005
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87088ebb52e70b610800000000000000
+      internalID: 1634945365266956408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1005
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b627f09aa003db980800000000000000
+      internalID: -8521602097570942357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_34
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1005
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08de2a5d3e194da50800000000000000
+      internalID: 6545016566204001664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1005
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a228e06f62f860800000000000000
+      internalID: 7562229186310612095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1005
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd42ac174b0bdab10800000000000000
+      internalID: 1994444499044672735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_37
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1005
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ec19f9aae54c740800000000000000
+      internalID: 5171362359042756243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_38
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1005
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353ebc7b91e8930d0800000000000000
+      internalID: -3442564199039114413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1005
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa2db7a65930d210800000000000000
+      internalID: 1355646532182682362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_40
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1005
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaded93c723e4ff0800000000000000
+      internalID: -50047036726256961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_41
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1005
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe20ce05dcb9b580800000000000000
+      internalID: -8810803572712132933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_42
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1005
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9542df33c444cbfd0800000000000000
+      internalID: -2324908213549587367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_43
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1005
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d73f774688f4710800000000000000
+      internalID: 1679711151123037489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_44
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1005
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be355d46cca7cc870800000000000000
+      internalID: 8704467198083945451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_45
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1005
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77485c086de785a0800000000000000
+      internalID: -6518980904456009858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_46
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1005
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaedfaa24698b9f0800000000000000
+      internalID: -452446549469959520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 938
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada2d7442fe294af0800000000000000
+      internalID: -411746272861672742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 938
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6255504a9a94d7210800000000000000
+      internalID: 1332302057721648422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 938
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a67b64cac308900800000000000000
+      internalID: 684613853978782321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 938
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3646d10864cf4610800000000000000
+      internalID: 1607719542981019198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 938
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573567c344cfb9400800000000000000
+      internalID: 332136367544226677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_52
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 938
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac51858a4de7a17a0800000000000000
+      internalID: -6405668068158597686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_53
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 938
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae32e9ec8d568d040800000000000000
+      internalID: 4672596595250701290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 938
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567e95403aa4c5820800000000000000
+      internalID: 2908281523387623269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_55
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 938
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7022d20d5cdc5b10800000000000000
+      internalID: 1971693028918829183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_56
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 938
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a48c6047b8169d0800000000000000
+      internalID: -2782789764291999075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_57
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 938
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebab95f936c5471f0800000000000000
+      internalID: -1048111230325507394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_58
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 938
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c1d369abd6ea860800000000000000
+      internalID: 7543087074044091443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_59
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 938
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4d0ed24203427f0800000000000000
+      internalID: -638332315233102615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_60
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 938
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6656fded456d7e630800000000000000
+      internalID: 3956366457673049446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_61
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 938
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b9277ebf403c860800000000000000
+      internalID: 7548882880369433368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_62
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 938
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35aad3f272667770800000000000000
+      internalID: 8608175983622268221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 872
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a516cd7202aa48f0800000000000000
+      internalID: -555453472443066972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_64
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 872
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e994a8e3a2e8dab10800000000000000
+      internalID: 1994406522084018590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_65
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 872
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05e69d2f614611b0800000000000000
+      internalID: -5686285533746633457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_66
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 872
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f9cf885d6d52770800000000000000
+      internalID: 8585504477266354023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_67
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 872
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268b5546327097e90800000000000000
+      internalID: -7027577894946359198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_68
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 872
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19386928b3d7bc2d0800000000000000
+      internalID: -3257372210924977263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_69
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 872
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1311847314fec4ec0800000000000000
+      internalID: -3581224540287004367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_70
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 872
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0230e19c66c1d60800000000000000
+      internalID: 7862272063460024525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_71
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 872
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a966b86c7c08420800000000000000
+      internalID: 2630321837940578822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_72
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 872
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6393e86fb8d573a0800000000000000
+      internalID: -6668185356642053265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_73
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 872
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2450f9f49427bc320800000000000000
+      internalID: 2579280870793741634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_74
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 872
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0381d90d1e81da0800000000000000
+      internalID: -5973776619601907460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_75
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 872
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4011d8eb48302b00800000000000000
+      internalID: 801702632351666252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_76
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 872
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b95caa385d9a320800000000000000
+      internalID: 2569819823874087805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_77
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 872
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fb747fd2fb75630800000000000000
+      internalID: 3915808605165043553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_78
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 872
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688bb81006fcb17e0800000000000000
+      internalID: -1793612015327266682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 806
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a181051b8b813500800000000000000
+      internalID: 374233673517597095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_80
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 806
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998bacb58a42012b0800000000000000
+      internalID: -5615948429817890663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 806
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb02909549259dd0800000000000000
+      internalID: -2480030641042617423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_82
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 806
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff647f2154da9a30800000000000000
+      internalID: 4222921045766860786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_83
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 806
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a0f101c90ac5160800000000000000
+      internalID: 7015658911682202270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_84
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 806
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e8fe9b5ebe29a10800000000000000
+      internalID: 1914852163485404801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_85
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 806
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ce87fcd4e8df5c0800000000000000
+      internalID: -4180028414285517706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 806
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cad7d38650b6df0800000000000000
+      internalID: -186049014339359732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_87
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 806
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf6048056f88aec0800000000000000
+      internalID: -3555434241716097098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_88
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 806
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aec15b8180d58300800000000000000
+      internalID: 253838208823053992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_89
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 806
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945941ba6c2b5d400800000000000000
+      internalID: 348381112534603081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_90
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 806
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fab3f7314879590800000000000000
+      internalID: -7667514621301117143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_91
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 806
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea32c350e4c72350800000000000000
+      internalID: 5991974296996690667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_92
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 806
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76612cd84136c5ce0800000000000000
+      internalID: -1415147242972375449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_93
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 806
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3611c2896f8e860800000000000000
+      internalID: 7559563107976176623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_94
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 806
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c780ddbadd04910800000000000000
+      internalID: 1819697979675147402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_95
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 735
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1c7fc10976c37f0800000000000000
+      internalID: -631515979079761422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_96
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 735
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaad5d57adc26fa0800000000000000
+      internalID: -5808854450644866358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_97
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 735
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2d7e65c5484efa0800000000000000
+      internalID: -5772343290252242252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_98
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 735
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53c0c7edd7615230800000000000000
+      internalID: 3625793377783563102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_99
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 735
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed8182f5f8124f90800000000000000
+      internalID: -6970981828601475612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_100
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 735
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d75ec809277e2d30800000000000000
+      internalID: 4408592103367399377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_101
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 735
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df8bd5a1bcc7e50800000000000000
+      internalID: 6808540050779340079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_102
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 735
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73e2a10ab124b0a0800000000000000
+      internalID: -6866826449058077825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_103
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 735
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1595c7434f68e60800000000000000
+      internalID: 7964321497313006041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_104
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 735
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165f1501db2219a0800000000000000
+      internalID: -6263895954984839649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_105
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 735
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058309fbbe242af90800000000000000
+      internalID: -6943914095153235888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_106
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 735
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba21c975dfe8b71a0800000000000000
+      internalID: -6810692792720026965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_107
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 735
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c677d69695d43810800000000000000
+      internalID: 1744253798451738304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_108
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 735
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9232bafb3f9684780800000000000000
+      internalID: -8698586184652479703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_109
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 735
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772bbb4bfec839060800000000000000
+      internalID: 6959060810374820471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_110
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 735
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844f3792d9d942000800000000000000
+      internalID: 10306397492474952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_111
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 669
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a0a5f67874beab0800000000000000
+      internalID: -4977806316113622497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_112
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 669
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e1d8ff9db454f30800000000000000
+      internalID: 4559133597449920130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 669
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8468360b218cf59a0800000000000000
+      internalID: -6242050575917939128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_114
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 669
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39ae9c45c0955110800000000000000
+      internalID: 1249063648733604157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_115
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 669
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e99b50d581a58b40800000000000000
+      internalID: 5441933320845498855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_116
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 669
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91194164a3abb4640800000000000000
+      internalID: 5065346965354877209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_117
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 669
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2314342978a1ed30800000000000000
+      internalID: 4459030344325403437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_118
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 669
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a00952f10fb25790800000000000000
+      internalID: -7542756410810367838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_119
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 669
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26402ed55d45905f0800000000000000
+      internalID: -790006984246950814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_120
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 669
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c93bf004a00b6de0800000000000000
+      internalID: -1338975759821489723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_121
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 669
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62672f9770d15e010800000000000000
+      internalID: 1217411192221496870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_122
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 669
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e90e0a12599da7a0800000000000000
+      internalID: -6364262120501147165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_123
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 669
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fdd6b65a12ef3c0800000000000000
+      internalID: -4323981597873414371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_124
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 669
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a61728a19b6d310800000000000000
+      internalID: 1429533455245470325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_125
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 669
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b638eed3a6a10a80800000000000000
+      internalID: -8502331398749145419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_126
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 669
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f453d2e35d1354c50800000000000000
+      internalID: 6648775216823350607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_127
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 608
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10de627e61f73420800000000000000
+      internalID: 2609819965753053212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_128
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 608
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5f8eea78cd673f0800000000000000
+      internalID: -903292199928007250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_129
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 608
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc6b2c11ba6b78a0800000000000000
+      internalID: -6306329544287884094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_130
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 608
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f038df742b58ae9a0800000000000000
+      internalID: -6202998535990967537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_131
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 608
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce24bf4b9c103730800000000000000
+      internalID: 3976709924350865099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_132
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 608
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8610e67ce767940800000000000000
+      internalID: 5293557807029774552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_133
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 608
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55975e3ec2baf510800000000000000
+      internalID: 1583774817853085021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_134
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 608
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9e8de175660ed00800000000000000
+      internalID: 999911641641970173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_135
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 608
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d503113971d0a1850800000000000000
+      internalID: 6348401019634921565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_136
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 608
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81acc358ea0d93e00800000000000000
+      internalID: 1025079838181739032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_137
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 608
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e5cc0ff32bfc5e0800000000000000
+      internalID: -1887093731152339456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_138
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 608
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae4501d73cf2a6e0800000000000000
+      internalID: -1827621182098813267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_139
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 608
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef54b70e040f390800000000000000
+      internalID: -7786652422838550998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_140
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 608
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b526c1fce9662180800000000000000
+      internalID: -9140501927312349767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_141
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 608
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b505cb6c6b1c950800000000000000
+      internalID: 6467651504559905564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_142
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 608
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebe94b08cdbc8450800000000000000
+      internalID: 6092453062805941217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_143
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 537
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823d8f55c7f6ac110800000000000000
+      internalID: 1281959623749325608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_144
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 537
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5a45a6b27ef4030800000000000000
+      internalID: 3481255210634225091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_145
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 537
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ef1dedd74fa1760800000000000000
+      internalID: 7429519356747447853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_146
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 537
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014d2a40fc0e5cec0800000000000000
+      internalID: -3547181951743765488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_147
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 537
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff15968cfd7ddb10800000000000000
+      internalID: 2007899532420259832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_148
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 537
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50183dcae54252d70800000000000000
+      internalID: 9017653817924354309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_149
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 537
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d03f8d850c1769d0800000000000000
+      internalID: -2781223434702606125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_150
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 537
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f5789ebdde046e0800000000000000
+      internalID: -1855221517705060596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_151
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 537
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d8ad1616a8bf2f0800000000000000
+      internalID: -938003946518442674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_152
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 537
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5428c324599d430800000000000000
+      internalID: 3808239071634015666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_153
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 537
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56be3c3fa1333e60800000000000000
+      internalID: 7940745196684097115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_154
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 537
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5c727ed0c15a6f0800000000000000
+      internalID: -674101723183725112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_155
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 537
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0788839fd1723b0800000000000000
+      internalID: -5537424260596207393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_156
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 537
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a0474862aff2970800000000000000
+      internalID: 8732473245832579673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_157
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 537
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e3745d86c59960800000000000000
+      internalID: 7608205455821890004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_158
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 537
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eee3c544d11c2190800000000000000
+      internalID: -7985988435833524506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_159
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 475
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16e91f7d15dd1290800000000000000
+      internalID: -7917938247184292325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_160
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 475
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de2ad4033c3f6150800000000000000
+      internalID: 5867975029309451988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_161
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 475
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ad87ded6a5ba2c0800000000000000
+      internalID: -4419339181151954307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_162
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 475
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a33dc62052bb4630800000000000000
+      internalID: 3912416758619517857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_163
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 475
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5268e396489796270800000000000000
+      internalID: 8244254202486752805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_164
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 475
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f9f23dfda496970800000000000000
+      internalID: 8748606076325175091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_165
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 475
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520788f801a6b7bf0800000000000000
+      internalID: -325549928694124507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_166
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 475
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e35f1d61ac3de60800000000000000
+      internalID: 7985948763618623102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_167
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 475
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e805509ec5f061d60800000000000000
+      internalID: 7860487091342626958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_168
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 475
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596e55da546cdcc0800000000000000
+      internalID: -3684960053806339755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_169
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 475
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2850205989cd3f0800000000000000
+      internalID: -874656461865254222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_170
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 475
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8c60058b4337c30800000000000000
+      internalID: 4355883230818650307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_171
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 475
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2d92b767a7a6410800000000000000
+      internalID: 1471122877580956395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_172
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 475
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c1f52d17cf4400800000000000000
+      internalID: 310685827316433699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_173
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 475
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38511d5adb678d000800000000000000
+      internalID: 60929151872341379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_174
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 475
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5e35b7af1689d20800000000000000
+      internalID: 3285483656605590975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_175
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 411
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c7ace618b313530800000000000000
+      internalID: 3832910184964586529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_176
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 411
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9baffdfe2ddf9910800000000000000
+      internalID: 1846437566144818075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_177
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 411
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eb681923f023da0800000000000000
+      internalID: -5966689846448177556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_178
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 411
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c71ba35cd0693c40800000000000000
+      internalID: 5492527719967823808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_179
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 411
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454905e7b45e4ba0800000000000000
+      internalID: -6102847296242105010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_180
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 411
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9d886e06303e740800000000000000
+      internalID: 5179987711125674441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_181
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 411
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa47ccb4adf29ae0800000000000000
+      internalID: -1543892838251017566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_182
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 411
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83809fd8b1d17050800000000000000
+      internalID: 5796644787357516682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_183
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 411
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb8875ca5a2949f0800000000000000
+      internalID: -483808915617182799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_184
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 411
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d80cda02e0e36250800000000000000
+      internalID: 5936835995253868761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_185
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 411
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9774f2c0210aac9f0800000000000000
+      internalID: -447369213595662471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_186
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 411
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7601cb77e54869fc0800000000000000
+      internalID: -3488455320081264537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_187
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 411
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91b1dba65565f7a0800000000000000
+      internalID: -6344053077157236324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_188
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 411
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912a59e6d279e9600800000000000000
+      internalID: 476984831932473881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_189
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 411
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c35860cf8d7c40800000000000000
+      internalID: 5511719575518168610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_190
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 411
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6509cd397c356e900800000000000000
+      internalID: 713349707629105238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_191
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 343
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04248050ed3a3f190800000000000000
+      internalID: -7929814344906816960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_192
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 343
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871c7126afbf7e010800000000000000
+      internalID: 1218219277033128312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_193
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 343
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aa243889d90a680800000000000000
+      internalID: -8745817197990729070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_194
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 343
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c0bb26abe724820800000000000000
+      internalID: 2901020448965463164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_195
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 343
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9415662b69c30d10800000000000000
+      internalID: 2090736114072884383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_196
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 343
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf2a4fd4b00efc90800000000000000
+      internalID: -7134263982867992628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_197
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 343
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87f4ec7180e8b890800000000000000
+      internalID: -7441951537478961267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_198
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 343
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803041c53ed3f6c20800000000000000
+      internalID: 3201845906795397896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_199
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 343
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed0d84a08e2b1a60800000000000000
+      internalID: 7645755922442948067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_200
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 343
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98676a212c076f80800000000000000
+      internalID: -8113502867099785062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_201
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 343
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f475011bace195b0800000000000000
+      internalID: -5363245461752417035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_202
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 343
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404f882b7a039fa0800000000000000
+      internalID: -5795276771417964469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_203
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 343
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c609a11c0cd71630800000000000000
+      internalID: 3897825946906461891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_204
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 343
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51697a01646c5f280800000000000000
+      internalID: -9010077475255380459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_205
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 343
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec56bb3f250667790800000000000000
+      internalID: -7532727417337846322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_206
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 343
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459022ed93c11dff0800000000000000
+      internalID: -13198289039914668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_207
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 279
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fee886000e3a3ce0800000000000000
+      internalID: -1424758162278781194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_208
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 279
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ec56fdbf39e4070800000000000000
+      internalID: 8092568290425425498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_209
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 279
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fbf94238a15cb90800000000000000
+      internalID: -7222337276861235384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_210
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 279
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b8268cd9210aee0800000000000000
+      internalID: -1251980227527931085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_211
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 279
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df80dd33fc06e880800000000000000
+      internalID: -8582157801054236713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_212
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 279
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bc653880b1f4f70800000000000000
+      internalID: 9173580689354181390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_213
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 279
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40faed0d3bfc5dba0800000000000000
+      internalID: -6064712951974154492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_214
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 279
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a0ccce3a7242f60800000000000000
+      internalID: 8008569622377531935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_215
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 279
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31842af8389d43310800000000000000
+      internalID: 1383970144583305235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_216
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 279
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc08f57d490c06b50800000000000000
+      internalID: 6584474400716718287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_217
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 279
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525886b2d5a00b610800000000000000
+      internalID: 1634818060011996453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_218
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 279
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d043bc82593daecc0800000000000000
+      internalID: -3680897107833965555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_219
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 279
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c7efc319a95b790800000000000000
+      internalID: -7514930454613558158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_220
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 279
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcea4279e888bed70800000000000000
+      internalID: 9073496020270493387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_221
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 279
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e096077102ba0ad0800000000000000
+      internalID: -2735178104312524569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_222
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 278
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a25604f2bf763310800000000000000
+      internalID: 1384434342037967522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_223
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5fe6ff1d3368780800000000000000
+      internalID: -8681194254683408919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_224
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 213
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c0d893abad3c5c0800000000000000
+      internalID: -4196269934414853115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_225
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 213
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df187e5727915dd60800000000000000
+      internalID: 7914259899568587261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_226
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e3e9c860ced9770800000000000000
+      internalID: 8619304774730137138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_227
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 213
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958e1eaf903512080800000000000000
+      internalID: -9213992060294404007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_228
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a22057d89cfd3120800000000000000
+      internalID: 2395348310208553636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_229
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3c98ea766956b50800000000000000
+      internalID: 6585835402153280465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_230
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 213
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e063b26331b5eca70800000000000000
+      internalID: 8849110455900911118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_231
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bc11f4bdf0df8e0800000000000000
+      internalID: -1658151653203653773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_232
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98a1b32cb38f0d80800000000000000
+      internalID: -8282256345635116899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_233
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 213
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0631e5fdb883510800000000000000
+      internalID: 1529125864964579558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_234
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f157f8818b9d7c910800000000000000
+      internalID: 1857692756022883615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_235
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8466240889af960800000000000000
+      internalID: 7636583794797332688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_236
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 213
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6003bb7237f3b630800000000000000
+      internalID: 3941765895075070060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_237
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 213
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a1f4ccad5f70610800000000000000
+      internalID: 1587507713750800977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_238
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94f678b1b95c880800000000000000
+      internalID: -8591290171600713294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_239
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49044cde4a94e3ad0800000000000000
+      internalID: -2720656152172674924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_240
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 143
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e04fac9a3abd810800000000000000
+      internalID: 1791205226459696771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_241
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 143
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff00deec3a85f390800000000000000
+      internalID: -7785164386530750478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_242
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 143
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c3a89be42059800800000000000000
+      internalID: 618403060976860194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_243
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 143
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dafa532a7183f00800000000000000
+      internalID: 1096652494717562193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_244
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 143
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de085cc8e7783730800000000000000
+      internalID: 3979062112526274263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_245
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 143
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82166e48c382566e0800000000000000
+      internalID: -1845024231945510616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_246
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 143
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224bbb0098b17ee90800000000000000
+      internalID: -6996593220860005342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_247
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 143
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374994a1ca710bae0800000000000000
+      internalID: -1535701444990495629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_248
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 143
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa068e01574fa27b0800000000000000
+      internalID: -5248113632114876241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_249
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 143
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1cbf3f55fb6ead0800000000000000
+      internalID: -2673238952911322703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_250
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 143
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e43dd378c2575f00800000000000000
+      internalID: 1105443254433559779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_251
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 143
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a368a391abee4730800000000000000
+      internalID: 3985381799469015969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_252
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 143
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca79822c7ca3f30800000000000000
+      internalID: 4556173609757289649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_253
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 143
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255bc4133e8f12330800000000000000
+      internalID: 3684499624834151762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_254
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 143
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cd8dcce4d77c990800000000000000
+      internalID: -7365780888143471474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_255
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2b12338b5c08eb0800000000000000
+      internalID: -4719555014561779025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_256
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 81
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c563f11d8fb17dd0800000000000000
+      internalID: -2489998506346715706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_257
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 81
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a468dbcfe8dce100800000000000000
+      internalID: 138724212970382497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_258
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 81
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bb2f1ca8af8f5f0800000000000000
+      internalID: -722552266326623432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_259
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 81
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a5b72c16c8c9330800000000000000
+      internalID: 3719001743803767452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_260
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 81
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceefd0a21fb8a7bd0800000000000000
+      internalID: -2631637164335694100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_261
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 81
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5362ad7b6a72b9810800000000000000
+      internalID: 1773054475303003701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_262
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 81
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbae11a0baef75840800000000000000
+      internalID: 5212915104266447548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_263
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 81
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e5e50283d9c6290800000000000000
+      internalID: -7895763182300537280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_264
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 81
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9229e62122da406a0800000000000000
+      internalID: -6483867201656942039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_265
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 81
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296b33ada92072370800000000000000
+      internalID: 8297603702562469522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_266
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 81
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892c501280d92ac90800000000000000
+      internalID: -7159987799326342504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_267
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 81
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b36048155c8c32c0800000000000000
+      internalID: -4450528034641910861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_268
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 81
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876eb3e9395ba20b0800000000000000
+      internalID: -5752585928392841608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_269
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 81
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442ab20db9ba33ff0800000000000000
+      internalID: -57513684524883388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_270
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 81
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0ed2a6d0eaddbf0800000000000000
+      internalID: -297890627697385278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_271
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eccc727e71cb3d0800000000000000
+      internalID: -3189648154512535956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_272
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 15
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ca2f26f30b5abf0800000000000000
+      internalID: -313650812742882241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_273
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 15
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eadeae89c8ff100800000000000000
+      internalID: 143988301503508087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_274
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 15
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4759e49fa0cbc70800000000000000
+      internalID: 8988071022206219490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_275
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 15
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a4f3b1f9b4e98d0800000000000000
+      internalID: -2837747568467817832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_276
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 15
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03f43eebb5a54a60800000000000000
+      internalID: 7657708967987311374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_277
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 15
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d6ef5cc620c5670800000000000000
+      internalID: 8528694460534386074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_278
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 15
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6348ef7eb4ef8ea0800000000000000
+      internalID: -5868220282599619730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_279
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 15
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2ba2fd2e92607b0800000000000000
+      internalID: -5258469460525010262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_280
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 15
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeb8426df66a6410800000000000000
+      internalID: 1471101466751581914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_281
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 15
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e613c204c5515cfd0800000000000000
+      internalID: -2322426546881810066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_282
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 15
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368fbb643fdca2090800000000000000
+      internalID: -8058402138478610333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_283
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 15
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2361db86a2d9c20800000000000000
+      internalID: 3214772338349716155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLAG CURVE-size_284
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 15
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1ca54b8d26e9ac0800000000000000
+      internalID: -3846528348849520174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4bd46898be9245d43bf561ccaf4fbeb2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FLAG CURVE-size_0: -3255942467435066628
+      FLAG CURVE-size_1: 4917972047386904113
+      FLAG CURVE-size_10: -1658760864164100944
+      FLAG CURVE-size_100: 4408592103367399377
+      FLAG CURVE-size_101: 6808540050779340079
+      FLAG CURVE-size_102: -6866826449058077825
+      FLAG CURVE-size_103: 7964321497313006041
+      FLAG CURVE-size_104: -6263895954984839649
+      FLAG CURVE-size_105: -6943914095153235888
+      FLAG CURVE-size_106: -6810692792720026965
+      FLAG CURVE-size_107: 1744253798451738304
+      FLAG CURVE-size_108: -8698586184652479703
+      FLAG CURVE-size_109: 6959060810374820471
+      FLAG CURVE-size_11: 6545735760184279020
+      FLAG CURVE-size_110: 10306397492474952
+      FLAG CURVE-size_111: -4977806316113622497
+      FLAG CURVE-size_112: 4559133597449920130
+      FLAG CURVE-size_113: -6242050575917939128
+      FLAG CURVE-size_114: 1249063648733604157
+      FLAG CURVE-size_115: 5441933320845498855
+      FLAG CURVE-size_116: 5065346965354877209
+      FLAG CURVE-size_117: 4459030344325403437
+      FLAG CURVE-size_118: -7542756410810367838
+      FLAG CURVE-size_119: -790006984246950814
+      FLAG CURVE-size_12: -3708194532093899842
+      FLAG CURVE-size_120: -1338975759821489723
+      FLAG CURVE-size_121: 1217411192221496870
+      FLAG CURVE-size_122: -6364262120501147165
+      FLAG CURVE-size_123: -4323981597873414371
+      FLAG CURVE-size_124: 1429533455245470325
+      FLAG CURVE-size_125: -8502331398749145419
+      FLAG CURVE-size_126: 6648775216823350607
+      FLAG CURVE-size_127: 2609819965753053212
+      FLAG CURVE-size_128: -903292199928007250
+      FLAG CURVE-size_129: -6306329544287884094
+      FLAG CURVE-size_13: 7413226329685555532
+      FLAG CURVE-size_130: -6202998535990967537
+      FLAG CURVE-size_131: 3976709924350865099
+      FLAG CURVE-size_132: 5293557807029774552
+      FLAG CURVE-size_133: 1583774817853085021
+      FLAG CURVE-size_134: 999911641641970173
+      FLAG CURVE-size_135: 6348401019634921565
+      FLAG CURVE-size_136: 1025079838181739032
+      FLAG CURVE-size_137: -1887093731152339456
+      FLAG CURVE-size_138: -1827621182098813267
+      FLAG CURVE-size_139: -7786652422838550998
+      FLAG CURVE-size_14: 4610492211099074683
+      FLAG CURVE-size_140: -9140501927312349767
+      FLAG CURVE-size_141: 6467651504559905564
+      FLAG CURVE-size_142: 6092453062805941217
+      FLAG CURVE-size_143: 1281959623749325608
+      FLAG CURVE-size_144: 3481255210634225091
+      FLAG CURVE-size_145: 7429519356747447853
+      FLAG CURVE-size_146: -3547181951743765488
+      FLAG CURVE-size_147: 2007899532420259832
+      FLAG CURVE-size_148: 9017653817924354309
+      FLAG CURVE-size_149: -2781223434702606125
+      FLAG CURVE-size_15: -1579130930532130363
+      FLAG CURVE-size_150: -1855221517705060596
+      FLAG CURVE-size_151: -938003946518442674
+      FLAG CURVE-size_152: 3808239071634015666
+      FLAG CURVE-size_153: 7940745196684097115
+      FLAG CURVE-size_154: -674101723183725112
+      FLAG CURVE-size_155: -5537424260596207393
+      FLAG CURVE-size_156: 8732473245832579673
+      FLAG CURVE-size_157: 7608205455821890004
+      FLAG CURVE-size_158: -7985988435833524506
+      FLAG CURVE-size_159: -7917938247184292325
+      FLAG CURVE-size_16: 9164740589536788903
+      FLAG CURVE-size_160: 5867975029309451988
+      FLAG CURVE-size_161: -4419339181151954307
+      FLAG CURVE-size_162: 3912416758619517857
+      FLAG CURVE-size_163: 8244254202486752805
+      FLAG CURVE-size_164: 8748606076325175091
+      FLAG CURVE-size_165: -325549928694124507
+      FLAG CURVE-size_166: 7985948763618623102
+      FLAG CURVE-size_167: 7860487091342626958
+      FLAG CURVE-size_168: -3684960053806339755
+      FLAG CURVE-size_169: -874656461865254222
+      FLAG CURVE-size_17: -2443225013090725562
+      FLAG CURVE-size_170: 4355883230818650307
+      FLAG CURVE-size_171: 1471122877580956395
+      FLAG CURVE-size_172: 310685827316433699
+      FLAG CURVE-size_173: 60929151872341379
+      FLAG CURVE-size_174: 3285483656605590975
+      FLAG CURVE-size_175: 3832910184964586529
+      FLAG CURVE-size_176: 1846437566144818075
+      FLAG CURVE-size_177: -5966689846448177556
+      FLAG CURVE-size_178: 5492527719967823808
+      FLAG CURVE-size_179: -6102847296242105010
+      FLAG CURVE-size_18: -3766612771082362964
+      FLAG CURVE-size_180: 5179987711125674441
+      FLAG CURVE-size_181: -1543892838251017566
+      FLAG CURVE-size_182: 5796644787357516682
+      FLAG CURVE-size_183: -483808915617182799
+      FLAG CURVE-size_184: 5936835995253868761
+      FLAG CURVE-size_185: -447369213595662471
+      FLAG CURVE-size_186: -3488455320081264537
+      FLAG CURVE-size_187: -6344053077157236324
+      FLAG CURVE-size_188: 476984831932473881
+      FLAG CURVE-size_189: 5511719575518168610
+      FLAG CURVE-size_19: 2337732552956966190
+      FLAG CURVE-size_190: 713349707629105238
+      FLAG CURVE-size_191: -7929814344906816960
+      FLAG CURVE-size_192: 1218219277033128312
+      FLAG CURVE-size_193: -8745817197990729070
+      FLAG CURVE-size_194: 2901020448965463164
+      FLAG CURVE-size_195: 2090736114072884383
+      FLAG CURVE-size_196: -7134263982867992628
+      FLAG CURVE-size_197: -7441951537478961267
+      FLAG CURVE-size_198: 3201845906795397896
+      FLAG CURVE-size_199: 7645755922442948067
+      FLAG CURVE-size_2: 5261618320596753715
+      FLAG CURVE-size_20: -8354727678324734298
+      FLAG CURVE-size_200: -8113502867099785062
+      FLAG CURVE-size_201: -5363245461752417035
+      FLAG CURVE-size_202: -5795276771417964469
+      FLAG CURVE-size_203: 3897825946906461891
+      FLAG CURVE-size_204: -9010077475255380459
+      FLAG CURVE-size_205: -7532727417337846322
+      FLAG CURVE-size_206: -13198289039914668
+      FLAG CURVE-size_207: -1424758162278781194
+      FLAG CURVE-size_208: 8092568290425425498
+      FLAG CURVE-size_209: -7222337276861235384
+      FLAG CURVE-size_21: -5011227355994453841
+      FLAG CURVE-size_210: -1251980227527931085
+      FLAG CURVE-size_211: -8582157801054236713
+      FLAG CURVE-size_212: 9173580689354181390
+      FLAG CURVE-size_213: -6064712951974154492
+      FLAG CURVE-size_214: 8008569622377531935
+      FLAG CURVE-size_215: 1383970144583305235
+      FLAG CURVE-size_216: 6584474400716718287
+      FLAG CURVE-size_217: 1634818060011996453
+      FLAG CURVE-size_218: -3680897107833965555
+      FLAG CURVE-size_219: -7514930454613558158
+      FLAG CURVE-size_22: -1377315737044202934
+      FLAG CURVE-size_220: 9073496020270493387
+      FLAG CURVE-size_221: -2735178104312524569
+      FLAG CURVE-size_222: 1384434342037967522
+      FLAG CURVE-size_223: -8681194254683408919
+      FLAG CURVE-size_224: -4196269934414853115
+      FLAG CURVE-size_225: 7914259899568587261
+      FLAG CURVE-size_226: 8619304774730137138
+      FLAG CURVE-size_227: -9213992060294404007
+      FLAG CURVE-size_228: 2395348310208553636
+      FLAG CURVE-size_229: 6585835402153280465
+      FLAG CURVE-size_23: -5260115213461601614
+      FLAG CURVE-size_230: 8849110455900911118
+      FLAG CURVE-size_231: -1658151653203653773
+      FLAG CURVE-size_232: -8282256345635116899
+      FLAG CURVE-size_233: 1529125864964579558
+      FLAG CURVE-size_234: 1857692756022883615
+      FLAG CURVE-size_235: 7636583794797332688
+      FLAG CURVE-size_236: 3941765895075070060
+      FLAG CURVE-size_237: 1587507713750800977
+      FLAG CURVE-size_238: -8591290171600713294
+      FLAG CURVE-size_239: -2720656152172674924
+      FLAG CURVE-size_24: 7964132347396665138
+      FLAG CURVE-size_240: 1791205226459696771
+      FLAG CURVE-size_241: -7785164386530750478
+      FLAG CURVE-size_242: 618403060976860194
+      FLAG CURVE-size_243: 1096652494717562193
+      FLAG CURVE-size_244: 3979062112526274263
+      FLAG CURVE-size_245: -1845024231945510616
+      FLAG CURVE-size_246: -6996593220860005342
+      FLAG CURVE-size_247: -1535701444990495629
+      FLAG CURVE-size_248: -5248113632114876241
+      FLAG CURVE-size_249: -2673238952911322703
+      FLAG CURVE-size_25: 8797985052492878735
+      FLAG CURVE-size_250: 1105443254433559779
+      FLAG CURVE-size_251: 3985381799469015969
+      FLAG CURVE-size_252: 4556173609757289649
+      FLAG CURVE-size_253: 3684499624834151762
+      FLAG CURVE-size_254: -7365780888143471474
+      FLAG CURVE-size_255: -4719555014561779025
+      FLAG CURVE-size_256: -2489998506346715706
+      FLAG CURVE-size_257: 138724212970382497
+      FLAG CURVE-size_258: -722552266326623432
+      FLAG CURVE-size_259: 3719001743803767452
+      FLAG CURVE-size_26: -8428278210315103479
+      FLAG CURVE-size_260: -2631637164335694100
+      FLAG CURVE-size_261: 1773054475303003701
+      FLAG CURVE-size_262: 5212915104266447548
+      FLAG CURVE-size_263: -7895763182300537280
+      FLAG CURVE-size_264: -6483867201656942039
+      FLAG CURVE-size_265: 8297603702562469522
+      FLAG CURVE-size_266: -7159987799326342504
+      FLAG CURVE-size_267: -4450528034641910861
+      FLAG CURVE-size_268: -5752585928392841608
+      FLAG CURVE-size_269: -57513684524883388
+      FLAG CURVE-size_27: -6190556177841162829
+      FLAG CURVE-size_270: -297890627697385278
+      FLAG CURVE-size_271: -3189648154512535956
+      FLAG CURVE-size_272: -313650812742882241
+      FLAG CURVE-size_273: 143988301503508087
+      FLAG CURVE-size_274: 8988071022206219490
+      FLAG CURVE-size_275: -2837747568467817832
+      FLAG CURVE-size_276: 7657708967987311374
+      FLAG CURVE-size_277: 8528694460534386074
+      FLAG CURVE-size_278: -5868220282599619730
+      FLAG CURVE-size_279: -5258469460525010262
+      FLAG CURVE-size_28: 8206895392501191274
+      FLAG CURVE-size_280: 1471101466751581914
+      FLAG CURVE-size_281: -2322426546881810066
+      FLAG CURVE-size_282: -8058402138478610333
+      FLAG CURVE-size_283: 3214772338349716155
+      FLAG CURVE-size_284: -3846528348849520174
+      FLAG CURVE-size_29: -6619655442935881298
+      FLAG CURVE-size_3: -8996001675614826833
+      FLAG CURVE-size_30: 976684507979804817
+      FLAG CURVE-size_31: 7250317794537477610
+      FLAG CURVE-size_32: 1634945365266956408
+      FLAG CURVE-size_33: -8521602097570942357
+      FLAG CURVE-size_34: 6545016566204001664
+      FLAG CURVE-size_35: 7562229186310612095
+      FLAG CURVE-size_36: 1994444499044672735
+      FLAG CURVE-size_37: 5171362359042756243
+      FLAG CURVE-size_38: -3442564199039114413
+      FLAG CURVE-size_39: 1355646532182682362
+      FLAG CURVE-size_4: -7766183872716729886
+      FLAG CURVE-size_40: -50047036726256961
+      FLAG CURVE-size_41: -8810803572712132933
+      FLAG CURVE-size_42: -2324908213549587367
+      FLAG CURVE-size_43: 1679711151123037489
+      FLAG CURVE-size_44: 8704467198083945451
+      FLAG CURVE-size_45: -6518980904456009858
+      FLAG CURVE-size_46: -452446549469959520
+      FLAG CURVE-size_47: -411746272861672742
+      FLAG CURVE-size_48: 1332302057721648422
+      FLAG CURVE-size_49: 684613853978782321
+      FLAG CURVE-size_5: 6090766900360711567
+      FLAG CURVE-size_50: 1607719542981019198
+      FLAG CURVE-size_51: 332136367544226677
+      FLAG CURVE-size_52: -6405668068158597686
+      FLAG CURVE-size_53: 4672596595250701290
+      FLAG CURVE-size_54: 2908281523387623269
+      FLAG CURVE-size_55: 1971693028918829183
+      FLAG CURVE-size_56: -2782789764291999075
+      FLAG CURVE-size_57: -1048111230325507394
+      FLAG CURVE-size_58: 7543087074044091443
+      FLAG CURVE-size_59: -638332315233102615
+      FLAG CURVE-size_6: 4770348338188639592
+      FLAG CURVE-size_60: 3956366457673049446
+      FLAG CURVE-size_61: 7548882880369433368
+      FLAG CURVE-size_62: 8608175983622268221
+      FLAG CURVE-size_63: -555453472443066972
+      FLAG CURVE-size_64: 1994406522084018590
+      FLAG CURVE-size_65: -5686285533746633457
+      FLAG CURVE-size_66: 8585504477266354023
+      FLAG CURVE-size_67: -7027577894946359198
+      FLAG CURVE-size_68: -3257372210924977263
+      FLAG CURVE-size_69: -3581224540287004367
+      FLAG CURVE-size_7: -416539643862272187
+      FLAG CURVE-size_70: 7862272063460024525
+      FLAG CURVE-size_71: 2630321837940578822
+      FLAG CURVE-size_72: -6668185356642053265
+      FLAG CURVE-size_73: 2579280870793741634
+      FLAG CURVE-size_74: -5973776619601907460
+      FLAG CURVE-size_75: 801702632351666252
+      FLAG CURVE-size_76: 2569819823874087805
+      FLAG CURVE-size_77: 3915808605165043553
+      FLAG CURVE-size_78: -1793612015327266682
+      FLAG CURVE-size_79: 374233673517597095
+      FLAG CURVE-size_8: 679825506859513201
+      FLAG CURVE-size_80: -5615948429817890663
+      FLAG CURVE-size_81: -2480030641042617423
+      FLAG CURVE-size_82: 4222921045766860786
+      FLAG CURVE-size_83: 7015658911682202270
+      FLAG CURVE-size_84: 1914852163485404801
+      FLAG CURVE-size_85: -4180028414285517706
+      FLAG CURVE-size_86: -186049014339359732
+      FLAG CURVE-size_87: -3555434241716097098
+      FLAG CURVE-size_88: 253838208823053992
+      FLAG CURVE-size_89: 348381112534603081
+      FLAG CURVE-size_9: -282177225981613871
+      FLAG CURVE-size_90: -7667514621301117143
+      FLAG CURVE-size_91: 5991974296996690667
+      FLAG CURVE-size_92: -1415147242972375449
+      FLAG CURVE-size_93: 7559563107976176623
+      FLAG CURVE-size_94: 1819697979675147402
+      FLAG CURVE-size_95: -631515979079761422
+      FLAG CURVE-size_96: -5808854450644866358
+      FLAG CURVE-size_97: -5772343290252242252
+      FLAG CURVE-size_98: 3625793377783563102
+      FLAG CURVE-size_99: -6970981828601475612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Art/01-FLAG CURVE-size.png
+  uploadId: 771799

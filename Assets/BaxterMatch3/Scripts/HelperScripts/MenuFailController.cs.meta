@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f0fad2202e1e4eb293e81628ba8b33dc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/HelperScripts/MenuFailController.cs
+  uploadId: 771799

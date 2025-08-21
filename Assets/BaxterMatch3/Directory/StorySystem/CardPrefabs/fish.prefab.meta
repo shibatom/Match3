@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c63028b384fe4ad5a7db47d6842f16a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/StorySystem/CardPrefabs/fish.prefab
+  uploadId: 771799

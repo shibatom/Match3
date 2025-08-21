@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a17440819c6448129e3c3e35394eb3d9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Prefabs/Effects/HitFr.prefab
+  uploadId: 771799

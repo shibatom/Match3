@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f16e4edf19ec4e85855205d2ff35f742
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Packages/Nakama/Editor/Snippets/WebGLConnect.cs
+  uploadId: 771799

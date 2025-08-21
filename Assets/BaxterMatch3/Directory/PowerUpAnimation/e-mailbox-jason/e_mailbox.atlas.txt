@@ -1,0 +1,34 @@
+
+e_mailbox.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 45
+  rotate: false
+  xy: 2, 287
+  size: 300, 221
+  orig: 300, 221
+  offset: 0, 0
+  index: -1
+close
+  rotate: true
+  xy: 303, 303
+  size: 98, 19
+  orig: 98, 19
+  offset: 0, 0
+  index: -1
+nim close
+  rotate: false
+  xy: 285, 289
+  size: 86, 8
+  orig: 86, 8
+  offset: 0, 0
+  index: -1
+postbox
+  rotate: 180
+  xy: 303, 299
+  size: 205, 211
+  orig: 205, 211
+  offset: 0, 0
+  index: -1

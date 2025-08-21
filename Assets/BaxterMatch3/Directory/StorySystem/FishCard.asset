@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a2612c2a4a43a189e5d91095a04596, type: 3}
+  m_Name: FishCard
+  m_EditorClassIdentifier: 
+  cardObject: {fileID: 3449766214559561602, guid: c63028b384fe4ad5a7db47d6842f16a3,
+    type: 3}
+  reward: {fileID: 0}
+  type: 0
+  count: 0
+  description: 
+  descriptionLocalizationRefrence: 0

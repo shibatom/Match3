@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbcd94e6fac34630b8407ab040ce6ab8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/RotatingGlow/RotatingGlow.prefab
+  uploadId: 771799

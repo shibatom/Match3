@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 571a5e6e687b48e0971e67284e71f6e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 20000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Shader/NewShaderVariants2.shadervariants
+  uploadId: 771799

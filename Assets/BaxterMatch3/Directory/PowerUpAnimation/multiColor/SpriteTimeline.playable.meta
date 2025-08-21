@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12da3306a5af433382c23171387b1f9d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/multiColor/SpriteTimeline.playable
+  uploadId: 771799

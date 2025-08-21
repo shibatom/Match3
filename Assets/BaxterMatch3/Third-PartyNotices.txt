@@ -1,0 +1,46 @@
+This Package is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+1. LeanTween
+    - MIT license 
+    - License details available in Assets/BaxterMatch3/Directory/LeanTween/License.txt
+
+2. TextMesh Pro asset 
+    - Asset Store EULA
+    - License details available here: https://unity3d.com/es/legal/as_terms
+
+3. Nakama
+    - Apache License
+    - License details available here: http://www.apache.org/licenses/LICENSE-2.0
+
+4. Unity Reorderable List
+    - MIT license 
+    - License details available here: https://github.com/cfoulston/Unity-Reorderable-List/blob/master/LICENSE
+
+5. JMO Assets
+    - MIT license
+    - License details available here: https:https://github.com/keijiro/KinoBloom
+
+6. ParrelSync
+    - MIT license
+    - License details available here: https://github.com/VeriorPies/ParrelSync/blob/master/LICENSE.md
+
+7. Spine
+      - Asset Store EULA
+      - License details available here: http://esotericsoftware.com
+
+8. DoTween
+      - Asset Store EULA
+      - License details available here: license: http://dotween.demigiant.com/license.php
+
+9. Hovl Studio Magic Effects FREE 
+      - Asset Store EULA
+      - License details available here: license:  https://unity3d.com/es/legal/as_terms
+
+10. SmoothShakerFree 
+      - Asset Store EULA
+      - License details available here: license: https://unity3d.com/es/legal/as_terms
+
+11. Particle Effect For UGUI
+      - MIT license
+      - License details available here: license: https://github.com/mob-sakai/ParticleEffectForUGUI
+

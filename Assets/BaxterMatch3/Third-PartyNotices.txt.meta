@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d777188ddae4b579ce568544a51d037
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Third-PartyNotices.txt
+  uploadId: 771799

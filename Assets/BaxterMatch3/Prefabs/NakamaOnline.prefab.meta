@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7186f5fe0d034df69a3ac2b4cfbfa180
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Prefabs/NakamaOnline.prefab
+  uploadId: 771799

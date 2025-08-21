@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: af080d31f42a4d888f4c2e1da5202de6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/HelperScripts/ParticleSystemObjectPool.cs
+  uploadId: 771799

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fec62377f30e450eaa93d53963b2e6e5
+timeCreated: 1560335143
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Packages/Nakama/Editor/Snippets/RejoinChatAfterDisconnect.cs
+  uploadId: 771799

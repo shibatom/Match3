@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13239eac8fdd43eca82ca088cf1d1413
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/canon-json-polygon/canon_Material.mat
+  uploadId: 771799

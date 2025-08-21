@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 83af131ca77d49f9b50d52af34c1920d
+timeCreated: 1691908677
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/Items/IColorGettable.cs
+  uploadId: 771799

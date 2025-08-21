@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c82570571d2469ab37d6dd0502226ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Materials/M_Grayscale.mat
+  uploadId: 771799

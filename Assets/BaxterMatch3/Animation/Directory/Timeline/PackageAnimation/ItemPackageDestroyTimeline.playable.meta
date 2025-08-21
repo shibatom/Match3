@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05641675fcd14d0ba8154a171db0953c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/Directory/Timeline/PackageAnimation/ItemPackageDestroyTimeline.playable
+  uploadId: 771799

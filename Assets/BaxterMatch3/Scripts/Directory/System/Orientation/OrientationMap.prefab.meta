@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e82b077bf71f40e88ba24b3e00c8c3ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/System/Orientation/OrientationMap.prefab
+  uploadId: 771799

@@ -1,0 +1,363 @@
+
+bow.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrowhead2
+  rotate: true
+  xy: 1445, 1918
+  size: 100, 166
+  orig: 100, 166
+  offset: 0, 0
+  index: -1
+bow
+  rotate: true
+  xy: 2, 1056
+  size: 181, 500
+  orig: 181, 500
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00000
+  rotate: false
+  xy: 1838, 1838
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00001
+  rotate: false
+  xy: 224, 1816
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00002
+  rotate: false
+  xy: 927, 1753
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00003
+  rotate: false
+  xy: 1109, 1753
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00004
+  rotate: false
+  xy: 1291, 1736
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00005
+  rotate: false
+  xy: 1473, 1735
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00006
+  rotate: false
+  xy: 1655, 1735
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00007
+  rotate: false
+  xy: 2, 1705
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00008
+  rotate: false
+  xy: 1837, 1656
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00009
+  rotate: false
+  xy: 184, 1634
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00010
+  rotate: false
+  xy: 366, 1603
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00011
+  rotate: false
+  xy: 548, 1603
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00012
+  rotate: false
+  xy: 730, 1603
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00013
+  rotate: false
+  xy: 912, 1571
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00014
+  rotate: false
+  xy: 1094, 1571
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00015
+  rotate: false
+  xy: 1276, 1554
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00016
+  rotate: false
+  xy: 1458, 1553
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00017
+  rotate: false
+  xy: 1640, 1553
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00018
+  rotate: false
+  xy: 2, 1523
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00019
+  rotate: false
+  xy: 1822, 1474
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00020
+  rotate: false
+  xy: 184, 1452
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00021
+  rotate: false
+  xy: 366, 1421
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00022
+  rotate: false
+  xy: 548, 1421
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00023
+  rotate: false
+  xy: 730, 1421
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dis 3/Energy 105 Ray Left Loop_00024
+  rotate: false
+  xy: 912, 1389
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+fletching dowm
+  rotate: false
+  xy: 2, 1887
+  size: 220, 109
+  orig: 220, 109
+  offset: 0, 0
+  index: -1
+fletching up
+  rotate: false
+  xy: 1613, 1917
+  size: 223, 101
+  orig: 223, 101
+  offset: 0, 0
+  index: -1
+gray crest2
+  rotate: false
+  xy: 522, 1947
+  size: 399, 71
+  orig: 421, 71
+  offset: 0, 0
+  index: -1
+sibl 1
+  rotate: true
+  xy: 2, 682
+  size: 301, 822
+  orig: 301, 822
+  offset: 0, 0
+  index: -1
+sibl 2
+  rotate: true
+  xy: 1025, 792
+  size: 276, 822
+  orig: 276, 822
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00000
+  rotate: false
+  xy: 1094, 1389
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00001
+  rotate: false
+  xy: 1276, 1372
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00002
+  rotate: false
+  xy: 1458, 1371
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00003
+  rotate: false
+  xy: 1640, 1371
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00004
+  rotate: false
+  xy: 2, 1341
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00005
+  rotate: false
+  xy: 1822, 1292
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00006
+  rotate: false
+  xy: 184, 1270
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00007
+  rotate: false
+  xy: 366, 1239
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00008
+  rotate: false
+  xy: 548, 1239
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00009
+  rotate: false
+  xy: 730, 1239
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00010
+  rotate: false
+  xy: 912, 1207
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00011
+  rotate: false
+  xy: 1094, 1207
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+speedline/Sparks 078 Ray Left_00012
+  rotate: false
+  xy: 1276, 1190
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+string 1
+  rotate: true
+  xy: 504, 985
+  size: 220, 519
+  orig: 220, 519
+  offset: 0, 0
+  index: -1
+string 2
+  rotate: true
+  xy: 406, 1785
+  size: 148, 519
+  orig: 148, 519
+  offset: 0, 0
+  index: -1
+string 3
+  rotate: true
+  xy: 923, 1935
+  size: 83, 520
+  orig: 83, 520
+  offset: 0, 0
+  index: -1
+string 4
+  rotate: true
+  xy: 2, 1998
+  size: 20, 518
+  orig: 20, 518
+  offset: 0, 0
+  index: -1
+string behinf
+  rotate: true
+  xy: 1458, 1157
+  size: 212, 217
+  orig: 212, 217
+  offset: 0, 0
+  index: -1
+string forward
+  rotate: true
+  xy: 1677, 1070
+  size: 220, 308
+  orig: 220, 308
+  offset: 0, 0
+  index: -1

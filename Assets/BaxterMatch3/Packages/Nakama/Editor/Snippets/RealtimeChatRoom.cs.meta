@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6e514080f07d402eaf1b4bf10c4744f2
+timeCreated: 1560264727
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Packages/Nakama/Editor/Snippets/RealtimeChatRoom.cs
+  uploadId: 771799

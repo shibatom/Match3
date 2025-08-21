@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45f161df308d4ddfb1679232b0eefa76
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/bow-json-polygon/bow.json
+  uploadId: 771799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f12515252fad4dfc92e6529c89349c06
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/propeller json/propeller.json
+  uploadId: 771799

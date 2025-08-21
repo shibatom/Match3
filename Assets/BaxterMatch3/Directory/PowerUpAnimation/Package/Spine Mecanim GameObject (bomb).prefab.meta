@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d650357cce224ef9bb562a48aa7b9649
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Package/Spine Mecanim
+    GameObject (bomb).prefab
+  uploadId: 771799

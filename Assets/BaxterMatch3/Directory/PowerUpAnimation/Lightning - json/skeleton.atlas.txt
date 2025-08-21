@@ -1,0 +1,958 @@
+
+skeleton.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Point_32
+  rotate: false
+  xy: 3530, 127
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00005
+  rotate: true
+  xy: 604, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00006
+  rotate: true
+  xy: 604, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00007
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00007
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00010
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00011
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00012
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00013
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00020
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00021
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00022
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00023
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00026
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00027
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00036
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00037
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00010
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00011
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00012
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00013
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00020
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00021
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00022
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00023
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00026
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00027
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00036
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00037
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00003
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00005
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00006
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00008
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00010
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00011
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00003
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00005
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00006
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00008
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00010
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00011
+  rotate: true
+  xy: 604, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00008
+  rotate: true
+  xy: 747, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00009
+  rotate: true
+  xy: 747, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00010
+  rotate: true
+  xy: 889, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00011
+  rotate: true
+  xy: 889, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00012
+  rotate: true
+  xy: 889, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00013
+  rotate: true
+  xy: 1032, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00014
+  rotate: true
+  xy: 1032, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00015
+  rotate: true
+  xy: 1174, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13 - Copy/Simple Anime Element 13_00016
+  rotate: true
+  xy: 1174, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00005
+  rotate: true
+  xy: 1174, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00006
+  rotate: true
+  xy: 1174, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00008
+  rotate: true
+  xy: 1317, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00009
+  rotate: true
+  xy: 1317, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00010
+  rotate: true
+  xy: 1459, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00011
+  rotate: true
+  xy: 1459, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00012
+  rotate: true
+  xy: 1459, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00013
+  rotate: true
+  xy: 1602, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00014
+  rotate: true
+  xy: 1602, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00015
+  rotate: true
+  xy: 1744, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 13/Simple Anime Element 13_00016
+  rotate: true
+  xy: 1744, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00000
+  rotate: true
+  xy: 1744, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00001
+  rotate: true
+  xy: 1744, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00002
+  rotate: true
+  xy: 1887, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00003
+  rotate: true
+  xy: 1887, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00004
+  rotate: true
+  xy: 1887, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00005
+  rotate: true
+  xy: 1887, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00006
+  rotate: true
+  xy: 2029, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00007
+  rotate: true
+  xy: 2029, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00008
+  rotate: true
+  xy: 2029, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00009
+  rotate: true
+  xy: 2029, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00014
+  rotate: true
+  xy: 2172, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00015
+  rotate: true
+  xy: 2172, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00016
+  rotate: true
+  xy: 2172, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00017
+  rotate: true
+  xy: 2172, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00018
+  rotate: true
+  xy: 2314, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00019
+  rotate: true
+  xy: 2314, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00024
+  rotate: true
+  xy: 2314, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00025
+  rotate: true
+  xy: 2314, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00028
+  rotate: true
+  xy: 2457, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00029
+  rotate: true
+  xy: 2457, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00030
+  rotate: true
+  xy: 2457, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00031
+  rotate: true
+  xy: 2457, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00032
+  rotate: true
+  xy: 2599, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00033
+  rotate: true
+  xy: 2599, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00034
+  rotate: true
+  xy: 2599, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00035
+  rotate: true
+  xy: 2599, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00038
+  rotate: true
+  xy: 2742, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15 - Copy/Simple Anime Element 15_00039
+  rotate: true
+  xy: 2742, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00000
+  rotate: true
+  xy: 2742, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00001
+  rotate: true
+  xy: 2742, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00002
+  rotate: true
+  xy: 2884, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00003
+  rotate: true
+  xy: 2884, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00004
+  rotate: true
+  xy: 2884, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00005
+  rotate: true
+  xy: 2884, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00006
+  rotate: true
+  xy: 3027, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00007
+  rotate: true
+  xy: 3027, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00008
+  rotate: true
+  xy: 3027, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00009
+  rotate: true
+  xy: 3027, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00014
+  rotate: true
+  xy: 3169, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00015
+  rotate: true
+  xy: 3169, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00016
+  rotate: true
+  xy: 3169, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00017
+  rotate: true
+  xy: 3169, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00018
+  rotate: true
+  xy: 3312, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00019
+  rotate: true
+  xy: 3312, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00024
+  rotate: true
+  xy: 3312, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00025
+  rotate: true
+  xy: 3312, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00028
+  rotate: true
+  xy: 3454, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00029
+  rotate: true
+  xy: 3454, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00030
+  rotate: true
+  xy: 3454, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00031
+  rotate: true
+  xy: 3454, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00032
+  rotate: true
+  xy: 3597, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00033
+  rotate: true
+  xy: 3597, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00034
+  rotate: true
+  xy: 3597, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00035
+  rotate: true
+  xy: 3597, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00038
+  rotate: true
+  xy: 3739, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 15/Simple Anime Element 15_00039
+  rotate: true
+  xy: 3739, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00002
+  rotate: true
+  xy: 3739, 397
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00004
+  rotate: true
+  xy: 3882, 145
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00007
+  rotate: false
+  xy: 2, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00009
+  rotate: false
+  xy: 254, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00012
+  rotate: false
+  xy: 506, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00013
+  rotate: false
+  xy: 758, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00014
+  rotate: false
+  xy: 1010, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00016
+  rotate: false
+  xy: 1262, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color - Copy/Simple Anime Element 19 Color_00015
+  rotate: false
+  xy: 1262, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00002
+  rotate: false
+  xy: 1514, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00004
+  rotate: false
+  xy: 1766, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00007
+  rotate: false
+  xy: 2018, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00009
+  rotate: false
+  xy: 2270, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00012
+  rotate: false
+  xy: 2522, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00013
+  rotate: false
+  xy: 2774, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00014
+  rotate: false
+  xy: 3026, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00015
+  rotate: false
+  xy: 3278, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/Simple Anime Element 19 Color/Simple Anime Element 19 Color_00016
+  rotate: false
+  xy: 3278, 3
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+images/e_NOTEBOOK2
+  rotate: false
+  xy: 2, 145
+  size: 601, 538
+  orig: 601, 538
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e12db779a6fd48e79bf2b3ab8208768d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Materials/package_explosion.mat
+  uploadId: 771799

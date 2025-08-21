@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d1af6eff9d30477b984146cc56d999d9
+labels:
+- Level
+- Star
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/MapScripts/MapLevel.cs
+  uploadId: 771799

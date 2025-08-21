@@ -1,0 +1,34 @@
+
+cabinet.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cabinet
+  rotate: false
+  xy: 1632, 2523
+  size: 1117, 1109
+  orig: 1117, 1109
+  offset: 0, 0
+  index: -1
+dish
+  rotate: false
+  xy: 3, 3185
+  size: 447, 447
+  orig: 447, 447
+  offset: 0, 0
+  index: -1
+door
+  rotate: true
+  xy: 453, 2565
+  size: 1067, 1176
+  orig: 1067, 1176
+  offset: 0, 0
+  index: -1
+shadowww
+  rotate: false
+  xy: 3, 3
+  size: 2718, 2517
+  orig: 2718, 2517
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 96b9884ba5ae48c5950871771df26a17
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Spawners/SpawnerPrefab/Dispenser_Object_.prefab
+  uploadId: 771799

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8a61663c565c4afc8e5ab2fd9c7ce675
+timeCreated: 1676101414
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/System/CameraUtils.cs
+  uploadId: 771799

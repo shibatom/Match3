@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ebce5ad9d56438996fad534a04895f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/Rotate/Rotation.controller
+  uploadId: 771799

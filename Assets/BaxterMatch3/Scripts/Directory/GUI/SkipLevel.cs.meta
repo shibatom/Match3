@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 53845f73f3164d7c9a3d77adae42e93e
+timeCreated: 1601107441
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/GUI/SkipLevel.cs
+  uploadId: 771799

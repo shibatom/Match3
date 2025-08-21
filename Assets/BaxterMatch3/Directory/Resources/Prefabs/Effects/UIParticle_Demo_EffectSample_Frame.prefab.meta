@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 077364f18d0344eea576289f2c373dc1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Prefabs/Effects/UIParticle_Demo_EffectSample_Frame.prefab
+  uploadId: 771799

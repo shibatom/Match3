@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 88160cb3e9014a3cb84ea18838ef1712
+timeCreated: 1559904046
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Packages/Nakama/Editor/Snippets/MatchmakerWithRelayedMultiplayer.cs
+  uploadId: 771799

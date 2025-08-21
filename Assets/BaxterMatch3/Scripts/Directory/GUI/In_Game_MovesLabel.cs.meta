@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0ca05ec802d24390b6051906b6d8342d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 1200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/GUI/In_Game_MovesLabel.cs
+  uploadId: 771799

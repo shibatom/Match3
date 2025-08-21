@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ef5d51eb61a42a19268fdccfe05b169
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/Directory/Timeline/Teleport/TeleportEventTimeline.playable
+  uploadId: 771799

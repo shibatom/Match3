@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ecaab9db0814bc3b6db98a2e610c269
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Kuze- json/Kuze.json
+  uploadId: 771799

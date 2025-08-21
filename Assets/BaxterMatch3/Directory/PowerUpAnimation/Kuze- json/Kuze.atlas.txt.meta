@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28c2770319844b67b2f4dca15df57bcc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Kuze- json/Kuze.atlas.txt
+  uploadId: 771799

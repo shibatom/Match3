@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca6f66d9e8084c42b311d6ae0219e9df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Levels/Targets/TargetLevel64.asset
+  uploadId: 771799

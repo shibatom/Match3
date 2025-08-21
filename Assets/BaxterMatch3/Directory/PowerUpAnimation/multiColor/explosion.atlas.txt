@@ -1,0 +1,328 @@
+
+explosion.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flash 011 Impact Explosion Radial07 - Copy
+  rotate: false
+  xy: 2, 1843
+  size: 180, 180
+  orig: 254, 254
+  offset: 37, 37
+  index: -1
+Point_32 - Copy
+  rotate: false
+  xy: 184, 1845
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-00 - Copy
+  rotate: false
+  xy: 299, 1627
+  size: 72, 73
+  orig: 150, 150
+  offset: 36, 32
+  index: -1
+Sparks 002 Impact Explosion Radial-01 - Copy
+  rotate: false
+  xy: 295, 1702
+  size: 89, 86
+  orig: 150, 150
+  offset: 29, 26
+  index: -1
+Sparks 002 Impact Explosion Radial-02
+  rotate: false
+  xy: 296, 687
+  size: 101, 95
+  orig: 150, 150
+  offset: 23, 22
+  index: -1
+Sparks 002 Impact Explosion Radial-02 - Copy
+  rotate: false
+  xy: 297, 329
+  size: 101, 95
+  orig: 150, 150
+  offset: 23, 22
+  index: -1
+Sparks 002 Impact Explosion Radial-03
+  rotate: false
+  xy: 290, 426
+  size: 112, 103
+  orig: 150, 150
+  offset: 19, 18
+  index: -1
+Sparks 002 Impact Explosion Radial-03 - Copy
+  rotate: false
+  xy: 292, 887
+  size: 112, 103
+  orig: 150, 150
+  offset: 19, 18
+  index: -1
+Sparks 002 Impact Explosion Radial-04
+  rotate: true
+  xy: 290, 1301
+  size: 123, 111
+  orig: 150, 150
+  offset: 15, 15
+  index: -1
+Sparks 002 Impact Explosion Radial-04 - Copy
+  rotate: true
+  xy: 290, 992
+  size: 123, 111
+  orig: 150, 150
+  offset: 15, 15
+  index: -1
+Sparks 002 Impact Explosion Radial-05
+  rotate: true
+  xy: 285, 1117
+  size: 133, 117
+  orig: 150, 150
+  offset: 11, 13
+  index: -1
+Sparks 002 Impact Explosion Radial-05 - Copy
+  rotate: true
+  xy: 285, 531
+  size: 133, 117
+  orig: 150, 150
+  offset: 11, 13
+  index: -1
+Sparks 002 Impact Explosion Radial-06
+  rotate: false
+  xy: 154, 257
+  size: 141, 123
+  orig: 150, 150
+  offset: 8, 10
+  index: -1
+Sparks 002 Impact Explosion Radial-06 - Copy
+  rotate: false
+  xy: 154, 132
+  size: 141, 123
+  orig: 150, 150
+  offset: 8, 10
+  index: -1
+Sparks 002 Impact Explosion Radial-07
+  rotate: true
+  xy: 154, 1106
+  size: 144, 129
+  orig: 150, 150
+  offset: 6, 7
+  index: -1
+Sparks 002 Impact Explosion Radial-07 - Copy
+  rotate: true
+  xy: 154, 520
+  size: 144, 129
+  orig: 150, 150
+  offset: 6, 7
+  index: -1
+Sparks 002 Impact Explosion Radial-08
+  rotate: true
+  xy: 154, 1400
+  size: 146, 134
+  orig: 150, 150
+  offset: 4, 4
+  index: -1
+Sparks 002 Impact Explosion Radial-08 - Copy
+  rotate: true
+  xy: 154, 1252
+  size: 146, 134
+  orig: 150, 150
+  offset: 4, 4
+  index: -1
+Sparks 002 Impact Explosion Radial-09
+  rotate: true
+  xy: 151, 811
+  size: 148, 139
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-09 - Copy
+  rotate: true
+  xy: 154, 1693
+  size: 148, 139
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-10
+  rotate: false
+  xy: 2, 521
+  size: 150, 142
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-10 - Copy
+  rotate: false
+  xy: 2, 377
+  size: 150, 142
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-11
+  rotate: false
+  xy: 2, 233
+  size: 150, 142
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-11 - Copy
+  rotate: false
+  xy: 2, 89
+  size: 150, 142
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-12
+  rotate: false
+  xy: 2, 1107
+  size: 150, 144
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-12 - Copy
+  rotate: false
+  xy: 2, 961
+  size: 150, 144
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-13
+  rotate: false
+  xy: 2, 1400
+  size: 150, 145
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-13 - Copy
+  rotate: false
+  xy: 2, 1253
+  size: 150, 145
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-14
+  rotate: false
+  xy: 2, 1695
+  size: 150, 146
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-14 - Copy
+  rotate: false
+  xy: 2, 1547
+  size: 150, 146
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-15
+  rotate: false
+  xy: 2, 813
+  size: 147, 146
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-15 - Copy
+  rotate: false
+  xy: 2, 665
+  size: 147, 146
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-16
+  rotate: false
+  xy: 151, 666
+  size: 143, 143
+  orig: 150, 150
+  offset: 7, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-16 - Copy
+  rotate: false
+  xy: 154, 1548
+  size: 143, 143
+  orig: 150, 150
+  offset: 7, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-17
+  rotate: false
+  xy: 154, 968
+  size: 134, 136
+  orig: 150, 150
+  offset: 16, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-17 - Copy
+  rotate: false
+  xy: 154, 382
+  size: 134, 136
+  orig: 150, 150
+  offset: 16, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-18
+  rotate: true
+  xy: 154, 2
+  size: 128, 130
+  orig: 150, 150
+  offset: 22, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-18 - Copy
+  rotate: false
+  xy: 184, 1893
+  size: 128, 130
+  orig: 150, 150
+  offset: 22, 0
+  index: -1
+Sparks 002 Impact Explosion Radial-19
+  rotate: true
+  xy: 286, 10
+  size: 120, 117
+  orig: 150, 150
+  offset: 30, 11
+  index: -1
+Sparks 002 Impact Explosion Radial-19 - Copy
+  rotate: true
+  xy: 290, 1426
+  size: 120, 117
+  orig: 150, 150
+  offset: 30, 11
+  index: -1
+Sparks 002 Impact Explosion Radial-20
+  rotate: false
+  xy: 295, 1790
+  size: 109, 101
+  orig: 150, 150
+  offset: 41, 23
+  index: -1
+Sparks 002 Impact Explosion Radial-20 - Copy
+  rotate: false
+  xy: 296, 784
+  size: 109, 101
+  orig: 150, 150
+  offset: 41, 23
+  index: -1
+Sparks 002 Impact Explosion Radial-21
+  rotate: false
+  xy: 297, 257
+  size: 93, 70
+  orig: 150, 150
+  offset: 57, 43
+  index: -1
+Sparks 002 Impact Explosion Radial-21 - Copy
+  rotate: false
+  xy: 297, 185
+  size: 93, 70
+  orig: 150, 150
+  offset: 57, 43
+  index: -1
+Sparks 002 Impact Explosion Radial-22
+  rotate: false
+  xy: 184, 1863
+  size: 68, 28
+  orig: 150, 150
+  offset: 77, 60
+  index: -1
+Sparks 002 Impact Explosion Radial-22 - Copy
+  rotate: false
+  xy: 297, 132
+  size: 68, 28
+  orig: 150, 150
+  offset: 77, 60
+  index: -1

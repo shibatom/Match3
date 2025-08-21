@@ -1,0 +1,1982 @@
+fileFormatVersion: 2
+guid: 3099bacae12e4fd0bfcee728f10520b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4798044433570949996
+    second: bomb explode_0
+  - first:
+      213: 2130697744750289806
+    second: bomb explode_1
+  - first:
+      213: -9064275471419550366
+    second: bomb explode_2
+  - first:
+      213: 4413834421248702931
+    second: bomb explode_3
+  - first:
+      213: 3032197945221802166
+    second: bomb explode_4
+  - first:
+      213: -6037226424855880148
+    second: bomb explode_5
+  - first:
+      213: 8388860678359194052
+    second: bomb explode_6
+  - first:
+      213: -6564466743857854925
+    second: bomb explode_7
+  - first:
+      213: 5674857564294301355
+    second: bomb explode_8
+  - first:
+      213: 4163181305715845260
+    second: bomb explode_9
+  - first:
+      213: -8717550351131629456
+    second: bomb explode_10
+  - first:
+      213: 2330933770106435144
+    second: bomb explode_11
+  - first:
+      213: 8698265460049391270
+    second: bomb explode_12
+  - first:
+      213: -4053982159523957089
+    second: bomb explode_13
+  - first:
+      213: 651982022252278416
+    second: bomb explode_14
+  - first:
+      213: 2925256704322104904
+    second: bomb explode_15
+  - first:
+      213: 745219860628022376
+    second: bomb explode_16
+  - first:
+      213: -6445519061853394971
+    second: bomb explode_17
+  - first:
+      213: 2694237631539635816
+    second: bomb explode_18
+  - first:
+      213: -2227712070597639194
+    second: bomb explode_19
+  - first:
+      213: 3735819016578320347
+    second: bomb explode_20
+  - first:
+      213: 9092522449182731943
+    second: bomb explode_21
+  - first:
+      213: 7211946659450974704
+    second: bomb explode_22
+  - first:
+      213: -7232787035568663464
+    second: bomb explode_23
+  - first:
+      213: -603902024764696907
+    second: bomb explode_24
+  - first:
+      213: -3244292048505096865
+    second: bomb explode_25
+  - first:
+      213: -5029248006804044183
+    second: bomb explode_26
+  - first:
+      213: 4965675861803635501
+    second: bomb explode_27
+  - first:
+      213: -4292839386528204825
+    second: bomb explode_28
+  - first:
+      213: -6558125562459338387
+    second: bomb explode_29
+  - first:
+      213: 5051170747673711725
+    second: bomb explode_30
+  - first:
+      213: -5292084665739407000
+    second: bomb explode_31
+  - first:
+      213: 967200240028201259
+    second: bomb explode_32
+  - first:
+      213: -3069808291358413297
+    second: bomb explode_33
+  - first:
+      213: 7011821945336076938
+    second: bomb explode_34
+  - first:
+      213: 5047844226542553137
+    second: bomb explode_35
+  - first:
+      213: -5236408345810482802
+    second: bomb explode_36
+  - first:
+      213: 6031252564107731415
+    second: bomb explode_37
+  - first:
+      213: 3899387695003074282
+    second: bomb explode_38
+  - first:
+      213: -6410290005008124116
+    second: bomb explode_39
+  - first:
+      213: -3032497394079163349
+    second: bomb explode_40
+  - first:
+      213: 4106110856114890
+    second: bomb explode_41
+  - first:
+      213: -856398228687866027
+    second: bomb explode_42
+  - first:
+      213: 8538995734482808024
+    second: bomb explode_43
+  - first:
+      213: 5087520311232109292
+    second: bomb explode_44
+  - first:
+      213: 597059740006987700
+    second: bomb explode_45
+  - first:
+      213: -8040186932854965879
+    second: bomb explode_46
+  - first:
+      213: 2209358405397486290
+    second: bomb explode_47
+  - first:
+      213: 8055558351887996514
+    second: bomb explode_48
+  - first:
+      213: 8730420792251934946
+    second: bomb explode_49
+  - first:
+      213: 7973421321620119234
+    second: bomb explode_50
+  - first:
+      213: 3924137730541715951
+    second: bomb explode_51
+  - first:
+      213: -1927850609599578803
+    second: bomb explode_52
+  - first:
+      213: -4099678930426436455
+    second: bomb explode_53
+  - first:
+      213: -2223213888811148975
+    second: bomb explode_54
+  - first:
+      213: 2602508984202336416
+    second: bomb explode_55
+  - first:
+      213: 2485537735661576022
+    second: bomb explode_56
+  - first:
+      213: 1206029309309833724
+    second: bomb explode_57
+  - first:
+      213: -9135777295843509608
+    second: bomb explode_58
+  - first:
+      213: 607303878742595890
+    second: bomb explode_59
+  - first:
+      213: 3653946882899570568
+    second: bomb explode_60
+  - first:
+      213: 4121251103567382155
+    second: bomb explode_61
+  - first:
+      213: -1530334345784392726
+    second: bomb explode_62
+  - first:
+      213: -693972784306374510
+    second: bomb explode_63
+  - first:
+      213: -8209405580064218672
+    second: bomb explode_64
+  - first:
+      213: 6552606489736470325
+    second: bomb explode_65
+  - first:
+      213: -7787971528546978881
+    second: bomb explode_66
+  - first:
+      213: -1973805088141188224
+    second: bomb explode_67
+  - first:
+      213: 1846475525693545906
+    second: bomb explode_68
+  - first:
+      213: 3051364449012288669
+    second: bomb explode_69
+  - first:
+      213: -5132985721005589145
+    second: bomb explode_70
+  - first:
+      213: -5448584113615016477
+    second: bomb explode_71
+  - first:
+      213: 6193805847545803905
+    second: bomb explode_72
+  - first:
+      213: 3298914946859460223
+    second: bomb explode_73
+  - first:
+      213: -7663123773968891745
+    second: bomb explode_74
+  - first:
+      213: 5858375782716288707
+    second: bomb explode_75
+  - first:
+      213: 609421813980361414
+    second: bomb explode_76
+  - first:
+      213: 6097623551821521276
+    second: bomb explode_77
+  - first:
+      213: 8797894680339522610
+    second: bomb explode_78
+  - first:
+      213: -4792124427235366905
+    second: bomb explode_79
+  - first:
+      213: 4938699650613504683
+    second: bomb explode_80
+  - first:
+      213: -1906674797906972868
+    second: bomb explode_81
+  - first:
+      213: -4648696791312550846
+    second: bomb explode_82
+  - first:
+      213: 6529632101679590427
+    second: bomb explode_83
+  - first:
+      213: 7373884408440363518
+    second: bomb explode_84
+  - first:
+      213: 6643200761011040664
+    second: bomb explode_85
+  - first:
+      213: -5725748372774736955
+    second: bomb explode_86
+  - first:
+      213: -2839564285530125001
+    second: bomb explode_87
+  - first:
+      213: -8343068065570230185
+    second: bomb explode_88
+  - first:
+      213: 7104668629000945049
+    second: bomb explode_89
+  - first:
+      213: -4959576526469253747
+    second: bomb explode_90
+  - first:
+      213: 7182601495670542205
+    second: bomb explode_91
+  - first:
+      213: -8594160610816865293
+    second: bomb explode_92
+  - first:
+      213: -1291078517416586062
+    second: bomb explode_93
+  - first:
+      213: -3124313569551567614
+    second: bomb explode_94
+  - first:
+      213: 791886085311827493
+    second: bomb explode_95
+  - first:
+      213: -1433280808463164973
+    second: bomb explode_96
+  - first:
+      213: -73450813400132725
+    second: bomb explode_97
+  - first:
+      213: -5555196969276269353
+    second: bomb explode_98
+  - first:
+      213: 5352633411696148872
+    second: bomb explode_99
+  - first:
+      213: 614906409726085395
+    second: bomb explode_100
+  - first:
+      213: -5553065805436559461
+    second: bomb explode_101
+  - first:
+      213: -2551154126379955588
+    second: bomb explode_102
+  - first:
+      213: 747747069802406678
+    second: bomb explode_103
+  - first:
+      213: 8130386274127212603
+    second: bomb explode_104
+  - first:
+      213: -1771016414761086713
+    second: bomb explode_105
+  - first:
+      213: -3426694161678363025
+    second: bomb explode_106
+  - first:
+      213: -991949669629969089
+    second: bomb explode_107
+  - first:
+      213: 8289122402934926108
+    second: bomb explode_108
+  - first:
+      213: -121329848940738068
+    second: bomb explode_109
+  - first:
+      213: 4528632734249793708
+    second: bomb explode_110
+  - first:
+      213: -1650017643823439710
+    second: bomb explode_111
+  - first:
+      213: -8089873804116707506
+    second: bomb explode_112
+  - first:
+      213: 105401225013855476
+    second: bomb explode_113
+  - first:
+      213: 1290170310831597185
+    second: bomb explode_114
+  - first:
+      213: 6061733055976936119
+    second: bomb explode_115
+  - first:
+      213: 492826519235333762
+    second: bomb explode_116
+  - first:
+      213: -2608044225235662156
+    second: bomb explode_117
+  - first:
+      213: -539263684478248440
+    second: bomb explode_118
+  - first:
+      213: -8298234276208680066
+    second: bomb explode_119
+  - first:
+      213: -774159971071402876
+    second: bomb explode_120
+  - first:
+      213: -8483508075723233064
+    second: bomb explode_121
+  - first:
+      213: 6320660233687811373
+    second: bomb explode_122
+  - first:
+      213: 1772487780505008629
+    second: bomb explode_123
+  - first:
+      213: 1824200977120026786
+    second: bomb explode_124
+  - first:
+      213: 2262258258211028979
+    second: bomb explode_125
+  - first:
+      213: 6183391024353571092
+    second: bomb explode_126
+  - first:
+      213: -877756110547240937
+    second: bomb explode_127
+  - first:
+      213: -1373971255594063095
+    second: bomb explode_128
+  - first:
+      213: -7436892127431884216
+    second: bomb explode_129
+  - first:
+      213: -7070864081244916616
+    second: bomb explode_130
+  - first:
+      213: -7897615617851928157
+    second: bomb explode_131
+  - first:
+      213: 2962329455848765254
+    second: bomb explode_132
+  - first:
+      213: 429169038349226316
+    second: bomb explode_133
+  - first:
+      213: 391567556570018244
+    second: bomb explode_134
+  - first:
+      213: -8689029933829621741
+    second: bomb explode_135
+  - first:
+      213: 8241728472306369194
+    second: bomb explode_136
+  - first:
+      213: 4632801845625299739
+    second: bomb explode_137
+  - first:
+      213: -3103944665455856820
+    second: bomb explode_138
+  - first:
+      213: -2133764371371089106
+    second: bomb explode_139
+  - first:
+      213: -8851477018707787363
+    second: bomb explode_140
+  - first:
+      213: 5845463577887818602
+    second: bomb explode_141
+  - first:
+      213: 4438778115117411614
+    second: bomb explode_142
+  - first:
+      213: 3664650122615194511
+    second: bomb explode_143
+  - first:
+      213: -764707881039259479
+    second: bomb explode_144
+  - first:
+      213: -1631650901172424952
+    second: bomb explode_145
+  - first:
+      213: -5706296955989146125
+    second: bomb explode_146
+  - first:
+      213: 7658859391049767665
+    second: bomb explode_147
+  - first:
+      213: 3763750941541321952
+    second: bomb explode_148
+  - first:
+      213: 582873421569441133
+    second: bomb explode_149
+  - first:
+      213: -2319031068810704669
+    second: bomb explode_150
+  - first:
+      213: -3352501780585198528
+    second: bomb explode_151
+  - first:
+      213: -9076561663735434190
+    second: bomb explode_152
+  - first:
+      213: 2023893324891515275
+    second: bomb explode_153
+  - first:
+      213: -5794317923652997876
+    second: bomb explode_154
+  - first:
+      213: -6220073903580859961
+    second: bomb explode_155
+  - first:
+      213: -2475195003722106360
+    second: bomb explode_156
+  - first:
+      213: -3248532457867339832
+    second: bomb explode_157
+  - first:
+      213: 8815075658466423598
+    second: bomb explode_158
+  - first:
+      213: 1367627552126624703
+    second: bomb explode_159
+  - first:
+      213: 7500424705128546157
+    second: bomb explode_160
+  - first:
+      213: -9117218412060854072
+    second: bomb explode_161
+  - first:
+      213: -3605566261894824884
+    second: bomb explode_162
+  - first:
+      213: 4363870606076216788
+    second: bomb explode_163
+  - first:
+      213: 8905694347406405386
+    second: bomb explode_164
+  - first:
+      213: 4044320616051228084
+    second: bomb explode_165
+  - first:
+      213: -6555007709429010413
+    second: bomb explode_166
+  - first:
+      213: 9057551769602292417
+    second: bomb explode_167
+  - first:
+      213: 5339703839608385877
+    second: bomb explode_168
+  - first:
+      213: -671099728987856086
+    second: bomb explode_169
+  - first:
+      213: 5006780567197787814
+    second: bomb explode_170
+  - first:
+      213: -1453231761061624820
+    second: bomb explode_171
+  - first:
+      213: -3099982073143474655
+    second: bomb explode_172
+  - first:
+      213: -5614985608260841808
+    second: bomb explode_173
+  - first:
+      213: -6864439663887632186
+    second: bomb explode_174
+  - first:
+      213: -3387324836001187391
+    second: bomb explode_175
+  - first:
+      213: 7184074850909395856
+    second: bomb explode_176
+  - first:
+      213: -1497074712288652817
+    second: bomb explode_177
+  - first:
+      213: 4999739861317717423
+    second: bomb explode_178
+  - first:
+      213: -4844331314068919769
+    second: bomb explode_179
+  - first:
+      213: -4727307171661991156
+    second: bomb explode_180
+  - first:
+      213: -5641032713478941328
+    second: bomb explode_181
+  - first:
+      213: -3782392727883059319
+    second: bomb explode_182
+  - first:
+      213: 8482275439076607379
+    second: bomb explode_183
+  - first:
+      213: 1553772458816674955
+    second: bomb explode_184
+  - first:
+      213: -5085033489574761223
+    second: bomb explode_185
+  - first:
+      213: 7718019501171249534
+    second: bomb explode_186
+  - first:
+      213: 3412612840510941994
+    second: bomb explode_187
+  - first:
+      213: -388359409084824745
+    second: bomb explode_188
+  - first:
+      213: 382070574029350462
+    second: bomb explode_189
+  - first:
+      213: -2454823211104813292
+    second: bomb explode_190
+  - first:
+      213: 7853261469610489500
+    second: bomb explode_191
+  - first:
+      213: -8561334664161912126
+    second: bomb explode_192
+  - first:
+      213: 898332373283247696
+    second: bomb explode_193
+  - first:
+      213: -7599190512944217212
+    second: bomb explode_194
+  - first:
+      213: -3120236669788690260
+    second: bomb explode_195
+  - first:
+      213: 5010774546066713419
+    second: bomb explode_196
+  - first:
+      213: 6835543468356700950
+    second: bomb explode_197
+  - first:
+      213: -231562128610074248
+    second: bomb explode_198
+  - first:
+      213: 5711728026294344728
+    second: bomb explode_199
+  - first:
+      213: 7102123164142239957
+    second: bomb explode_200
+  - first:
+      213: -3543527483522574456
+    second: bomb explode_201
+  - first:
+      213: 4217318800825549767
+    second: bomb explode_202
+  - first:
+      213: -3540439514426752671
+    second: bomb explode_203
+  - first:
+      213: 1846293443252315614
+    second: bomb explode_204
+  - first:
+      213: -2856719223978885526
+    second: bomb explode_205
+  - first:
+      213: -1525365940087682353
+    second: bomb explode_206
+  - first:
+      213: 484375992033580122
+    second: bomb explode_207
+  - first:
+      213: 8594176863552366640
+    second: bomb explode_208
+  - first:
+      213: 641738022641721257
+    second: bomb explode_209
+  - first:
+      213: -4824555511565796985
+    second: bomb explode_210
+  - first:
+      213: 893680706208032703
+    second: bomb explode_211
+  - first:
+      213: 3772909899487982125
+    second: bomb explode_212
+  - first:
+      213: 2351281066814534378
+    second: bomb explode_213
+  - first:
+      213: 3637190248282107419
+    second: bomb explode_214
+  - first:
+      213: -4886898381786432340
+    second: bomb explode_215
+  - first:
+      213: 4758025879884257978
+    second: bomb explode_216
+  - first:
+      213: 5951784299113665257
+    second: bomb explode_217
+  - first:
+      213: 5740924785226810654
+    second: bomb explode_218
+  - first:
+      213: -4750843135178253343
+    second: bomb explode_219
+  - first:
+      213: -2059746936806542165
+    second: bomb explode_220
+  - first:
+      213: -758877772940141850
+    second: bomb explode_221
+  - first:
+      213: 7275231703583169347
+    second: bomb explode_222
+  - first:
+      213: 1890763676275697740
+    second: bomb explode_223
+  - first:
+      213: 147020320769529801
+    second: bomb explode_224
+  - first:
+      213: 8211056452332246439
+    second: bomb explode_225
+  - first:
+      213: -4583044333658191771
+    second: bomb explode_226
+  - first:
+      213: 3234066704475899308
+    second: bomb explode_227
+  - first:
+      213: -5792300147368081327
+    second: bomb explode_228
+  - first:
+      213: 5142607264301779332
+    second: bomb explode_229
+  - first:
+      213: 4581725738951099433
+    second: bomb explode_230
+  - first:
+      213: 2696494610904920041
+    second: bomb explode_231
+  - first:
+      213: 5941728327550294211
+    second: bomb explode_232
+  - first:
+      213: 8575421111103663581
+    second: bomb explode_233
+  - first:
+      213: 2487421505508197184
+    second: bomb explode_234
+  - first:
+      213: 5029535995295792937
+    second: bomb explode_235
+  - first:
+      213: -8432600248772862144
+    second: bomb explode_236
+  - first:
+      213: 1679668439122405272
+    second: bomb explode_237
+  - first:
+      213: 6810956563492569479
+    second: bomb explode_238
+  - first:
+      213: -349626942227488123
+    second: bomb explode_239
+  - first:
+      213: 8309060400520678125
+    second: bomb explode_240
+  - first:
+      213: -3085384250618757541
+    second: bomb explode_241
+  - first:
+      213: 1623860381919411573
+    second: bomb explode_242
+  - first:
+      213: -6099975339008899639
+    second: bomb explode_243
+  - first:
+      213: -7518362301345337993
+    second: bomb explode_244
+  - first:
+      213: 3997865116335882338
+    second: bomb explode_245
+  - first:
+      213: 5843659210479617458
+    second: bomb explode_246
+  - first:
+      213: 8973388653321937185
+    second: bomb explode_247
+  - first:
+      213: -7850023218311977209
+    second: bomb explode_248
+  - first:
+      213: 4296126983567110094
+    second: bomb explode_249
+  - first:
+      213: 289742924189445618
+    second: bomb explode_250
+  - first:
+      213: 1670840908148499135
+    second: bomb explode_251
+  - first:
+      213: 922302996266174670
+    second: bomb explode_252
+  - first:
+      213: -4370990994350225681
+    second: bomb explode_253
+  - first:
+      213: -1805868525985518692
+    second: bomb explode_254
+  - first:
+      213: 6754800139414503961
+    second: bomb explode_255
+  - first:
+      213: 349549543006472801
+    second: bomb explode_256
+  - first:
+      213: 6971850494889510529
+    second: bomb explode_257
+  - first:
+      213: -3353102648806518326
+    second: bomb explode_258
+  - first:
+      213: 6057281436310317557
+    second: bomb explode_259
+  - first:
+      213: 5941389612939466441
+    second: bomb explode_260
+  - first:
+      213: -4754454994466720315
+    second: bomb explode_261
+  - first:
+      213: -3043548554073624001
+    second: bomb explode_262
+  - first:
+      213: -8074066615291959973
+    second: bomb explode_263
+  - first:
+      213: -7323619406416547000
+    second: bomb explode_264
+  - first:
+      213: 52038996872890265
+    second: bomb explode_265
+  - first:
+      213: 2529398238105598499
+    second: bomb explode_266
+  - first:
+      213: 7621762837957640409
+    second: bomb explode_267
+  - first:
+      213: 1450521139853932314
+    second: bomb explode_268
+  - first:
+      213: 8909255499753879170
+    second: bomb explode_269
+  - first:
+      213: 8479028009266063700
+    second: bomb explode_270
+  - first:
+      213: -1796130816335378542
+    second: bomb explode_271
+  - first:
+      213: 4322972095141141238
+    second: bomb explode_272
+  - first:
+      213: 3300136252015909295
+    second: bomb explode_273
+  - first:
+      213: 8110470129057291573
+    second: bomb explode_274
+  - first:
+      213: -5871413770160880839
+    second: bomb explode_275
+  - first:
+      213: 7476071591379837064
+    second: bomb explode_276
+  - first:
+      213: 3755337567041951259
+    second: bomb explode_277
+  - first:
+      213: -6646440716129409898
+    second: bomb explode_278
+  - first:
+      213: 4023960427269960781
+    second: bomb explode_279
+  - first:
+      213: 1080548055837979996
+    second: bomb explode_280
+  - first:
+      213: -5642852353203263644
+    second: bomb explode_281
+  - first:
+      213: -7086666795208188376
+    second: bomb explode_282
+  - first:
+      213: 2573131909125700838
+    second: bomb explode_283
+  - first:
+      213: 5682552598156276218
+    second: bomb explode_284
+  - first:
+      213: 2963890749618855558
+    second: bomb explode_285
+  - first:
+      213: 8709305735354383166
+    second: bomb explode_286
+  - first:
+      213: 3492519437468562710
+    second: bomb explode_287
+  - first:
+      213: 3798107636809859695
+    second: bomb explode_288
+  - first:
+      213: -1573475083237209309
+    second: bomb explode_289
+  - first:
+      213: -5774710745586665000
+    second: bomb explode_290
+  - first:
+      213: -8072242724011270147
+    second: bomb explode_291
+  - first:
+      213: 1365911964705357575
+    second: bomb explode_292
+  - first:
+      213: -2746338237735025815
+    second: bomb explode_293
+  - first:
+      213: -1044779563326466696
+    second: bomb explode_294
+  - first:
+      213: -7908002498613846795
+    second: bomb explode_295
+  - first:
+      213: 7354895321755451019
+    second: bomb explode_296
+  - first:
+      213: -6569094394906352146
+    second: bomb explode_297
+  - first:
+      213: 5877930529900290054
+    second: bomb explode_298
+  - first:
+      213: 5474816917991126733
+    second: bomb explode_299
+  - first:
+      213: 9171410647817053791
+    second: bomb explode_300
+  - first:
+      213: 2614950768484367623
+    second: bomb explode_301
+  - first:
+      213: 4939433281746447709
+    second: bomb explode_302
+  - first:
+      213: -5629527273292517728
+    second: bomb explode_303
+  - first:
+      213: 4700228120913521182
+    second: bomb explode_304
+  - first:
+      213: -6872845483151722194
+    second: bomb explode_305
+  - first:
+      213: 2717577504064184253
+    second: bomb explode_306
+  - first:
+      213: 828115959735584613
+    second: bomb explode_307
+  - first:
+      213: 9038802047480160011
+    second: bomb explode_308
+  - first:
+      213: 1279238288278570174
+    second: bomb explode_309
+  - first:
+      213: 1820364468771068572
+    second: bomb explode_310
+  - first:
+      213: -2551270190769619339
+    second: bomb explode_311
+  - first:
+      213: 9202892880459890944
+    second: bomb explode_312
+  - first:
+      213: 6674976702679243432
+    second: bomb explode_313
+  - first:
+      213: -5382604052947375264
+    second: bomb explode_314
+  - first:
+      213: 3483220319800344288
+    second: bomb explode_315
+  - first:
+      213: 5674224828951570530
+    second: bomb explode_316
+  - first:
+      213: -5052875595552881677
+    second: bomb explode_317
+  - first:
+      213: 3365603804559391538
+    second: bomb explode_318
+  - first:
+      213: -3956720569847368132
+    second: bomb explode_319
+  - first:
+      213: 3687786525745650254
+    second: bomb explode_320
+  - first:
+      213: 5912871464577029122
+    second: bomb explode_321
+  - first:
+      213: 6439632536327770267
+    second: bomb explode_322
+  - first:
+      213: 2735007474014668918
+    second: bomb explode_323
+  - first:
+      213: 4011274079098503395
+    second: bomb explode_324
+  - first:
+      213: -7136875909698902666
+    second: bomb explode_325
+  - first:
+      213: 5745657657895651378
+    second: bomb explode_326
+  - first:
+      213: 8771849495126204202
+    second: bomb explode_327
+  - first:
+      213: 3436097002826697049
+    second: bomb explode_328
+  - first:
+      213: -3302226168659757607
+    second: bomb explode_329
+  - first:
+      213: -56976431471930192
+    second: bomb explode_330
+  - first:
+      213: -2580441677007611068
+    second: bomb explode_331
+  - first:
+      213: 1934146282147733172
+    second: bomb explode_332
+  - first:
+      213: 5205617615463072671
+    second: bomb explode_333
+  - first:
+      213: -350662963781284536
+    second: bomb explode_334
+  - first:
+      213: 2762685688205200487
+    second: bomb explode_335
+  - first:
+      213: 3064744497126753918
+    second: bomb explode_336
+  - first:
+      213: 8688327090047587645
+    second: bomb explode_337
+  - first:
+      213: 6320586505282531220
+    second: bomb explode_338
+  - first:
+      213: -4450658925300300599
+    second: bomb explode_339
+  - first:
+      213: -5168457577044459902
+    second: bomb explode_340
+  - first:
+      213: -7473057824800357475
+    second: bomb explode_341
+  - first:
+      213: 855807785812271262
+    second: bomb explode_342
+  - first:
+      213: -1503257835354604263
+    second: bomb explode_343
+  - first:
+      213: 2668680867402575603
+    second: bomb explode_344
+  - first:
+      213: -2802775805913254641
+    second: bomb explode_345
+  - first:
+      213: -297974833733953852
+    second: bomb explode_346
+  - first:
+      213: -1015160678969633237
+    second: bomb explode_347
+  - first:
+      213: -4695959953483190456
+    second: bomb explode_348
+  - first:
+      213: -4436250147749889513
+    second: bomb explode_349
+  - first:
+      213: -3030738416255139230
+    second: bomb explode_350
+  - first:
+      213: -7517247529708322857
+    second: bomb explode_351
+  - first:
+      213: 4970161449129702761
+    second: bomb explode_352
+  - first:
+      213: -6450217240012097146
+    second: bomb explode_353
+  - first:
+      213: 2462298350521568553
+    second: bomb explode_354
+  - first:
+      213: 5200932599459147811
+    second: bomb explode_355
+  - first:
+      213: -5426922768798640918
+    second: bomb explode_356
+  - first:
+      213: -7142737251165364863
+    second: bomb explode_357
+  - first:
+      213: -2934627186701583543
+    second: bomb explode_358
+  - first:
+      213: 250686463407653520
+    second: bomb explode_359
+  - first:
+      213: -928192428568208968
+    second: bomb explode_360
+  - first:
+      213: 8324220634325986308
+    second: bomb explode_361
+  - first:
+      213: -1094621457089718066
+    second: bomb explode_362
+  - first:
+      213: 9019350935986040873
+    second: bomb explode_363
+  - first:
+      213: 7167201280869146954
+    second: bomb explode_364
+  - first:
+      213: 8666057625746323073
+    second: bomb explode_365
+  - first:
+      213: 3684630335768373170
+    second: bomb explode_366
+  - first:
+      213: -6209347865577945292
+    second: bomb explode_367
+  - first:
+      213: 3728410150685318945
+    second: bomb explode_368
+  - first:
+      213: 8430693073791685885
+    second: bomb explode_369
+  - first:
+      213: 1702642703258536556
+    second: bomb explode_370
+  - first:
+      213: 7136688040450070921
+    second: bomb explode_371
+  - first:
+      213: 4021191066668924024
+    second: bomb explode_372
+  - first:
+      213: 9194535392361712390
+    second: bomb explode_373
+  - first:
+      213: -4545176777579290461
+    second: bomb explode_374
+  - first:
+      213: 5267830221437080972
+    second: bomb explode_375
+  - first:
+      213: -4969403245120797659
+    second: bomb explode_376
+  - first:
+      213: 8563299300948410739
+    second: bomb explode_377
+  - first:
+      213: 6474547144072330776
+    second: bomb explode_378
+  - first:
+      213: 2183950528972095536
+    second: bomb explode_379
+  - first:
+      213: 643410134397657330
+    second: bomb explode_380
+  - first:
+      213: -5454932902664482359
+    second: bomb explode_381
+  - first:
+      213: 374593804581591058
+    second: bomb explode_382
+  - first:
+      213: 5038332350598635881
+    second: bomb explode_383
+  - first:
+      213: -8206832703542200250
+    second: bomb explode_384
+  - first:
+      213: -5186961030770073546
+    second: bomb explode_385
+  - first:
+      213: 8591223860400115464
+    second: bomb explode_386
+  - first:
+      213: -1656543688336609166
+    second: bomb explode_387
+  - first:
+      213: -167860809044464141
+    second: bomb explode_388
+  - first:
+      213: 8467395343642340903
+    second: bomb explode_389
+  - first:
+      213: -572934019193697812
+    second: bomb explode_390
+  - first:
+      213: 9095163302990620646
+    second: bomb explode_391
+  - first:
+      213: 5002305317816110292
+    second: bomb explode_392
+  - first:
+      213: -120182852940603262
+    second: bomb explode_393
+  - first:
+      213: 5597298107595280678
+    second: bomb explode_394
+  - first:
+      213: -5291327671341639808
+    second: bomb explode_395
+  - first:
+      213: -891301120601494846
+    second: bomb explode_396
+  - first:
+      213: -501898546247023560
+    second: bomb explode_397
+  - first:
+      213: -5067960505234557369
+    second: bomb explode_398
+  - first:
+      213: -662710298986485950
+    second: bomb explode_399
+  - first:
+      213: 6671174586387997960
+    second: bomb explode_400
+  - first:
+      213: 3130606262852591642
+    second: bomb explode_401
+  - first:
+      213: 2620789983592716051
+    second: bomb explode_402
+  - first:
+      213: -1490005651898805698
+    second: bomb explode_403
+  - first:
+      213: 7706368946220858851
+    second: bomb explode_404
+  - first:
+      213: 1429617528219433508
+    second: bomb explode_405
+  - first:
+      213: 863698222291312258
+    second: bomb explode_406
+  - first:
+      213: -8977561331318613056
+    second: bomb explode_407
+  - first:
+      213: 4347666766133073116
+    second: bomb explode_408
+  - first:
+      213: -7644916127646756082
+    second: bomb explode_409
+  - first:
+      213: -8904809227691740023
+    second: bomb explode_410
+  - first:
+      213: -7038305421165914219
+    second: bomb explode_411
+  - first:
+      213: 7589259679183424783
+    second: bomb explode_412
+  - first:
+      213: -650157449124551087
+    second: bomb explode_413
+  - first:
+      213: 7664235905751871352
+    second: bomb explode_414
+  - first:
+      213: 8226832322838406215
+    second: bomb explode_415
+  - first:
+      213: 6468202185079685195
+    second: bomb explode_416
+  - first:
+      213: 4650179288846793424
+    second: bomb explode_417
+  - first:
+      213: -6620238832561826646
+    second: bomb explode_418
+  - first:
+      213: 5791914071715357771
+    second: bomb explode_419
+  - first:
+      213: 2880683621598726020
+    second: bomb explode_420
+  - first:
+      213: -8631462863752739215
+    second: bomb explode_421
+  - first:
+      213: 7669568060744087844
+    second: bomb explode_422
+  - first:
+      213: 6397687952280540583
+    second: bomb explode_423
+  - first:
+      213: -5654626820100887102
+    second: bomb explode_424
+  - first:
+      213: -581877750411282794
+    second: bomb explode_425
+  - first:
+      213: 7116220653311869899
+    second: bomb explode_426
+  - first:
+      213: 7021714403450964009
+    second: bomb explode_427
+  - first:
+      213: 3024666220422713313
+    second: bomb explode_428
+  - first:
+      213: 4644586341201501210
+    second: bomb explode_429
+  - first:
+      213: 1960186841013074584
+    second: bomb explode_430
+  - first:
+      213: 528361515922958442
+    second: bomb explode_431
+  - first:
+      213: -5084425874283943415
+    second: bomb explode_432
+  - first:
+      213: -3936391199946252224
+    second: bomb explode_433
+  - first:
+      213: 3019858998900010211
+    second: bomb explode_434
+  - first:
+      213: 6170266021881332334
+    second: bomb explode_435
+  - first:
+      213: -4116947292908975209
+    second: bomb explode_436
+  - first:
+      213: 6841356583312847032
+    second: bomb explode_437
+  - first:
+      213: -7332458555151941941
+    second: bomb explode_438
+  - first:
+      213: -5193006641363935180
+    second: bomb explode_439
+  - first:
+      213: -1317912358470597156
+    second: bomb explode_440
+  - first:
+      213: 6114985293081925697
+    second: bomb explode_441
+  - first:
+      213: -8862324890911452180
+    second: bomb explode_442
+  - first:
+      213: -3599719904289700918
+    second: bomb explode_443
+  - first:
+      213: -5143355682390306952
+    second: bomb explode_444
+  - first:
+      213: -3478615153043779187
+    second: bomb explode_445
+  - first:
+      213: -7445080897584278520
+    second: bomb explode_446
+  - first:
+      213: 3937107577811624580
+    second: bomb explode_447
+  - first:
+      213: 6965738326133468863
+    second: bomb explode_448
+  - first:
+      213: -6311327442328289637
+    second: bomb explode_449
+  - first:
+      213: 8016334096797426082
+    second: bomb explode_450
+  - first:
+      213: -4183199794745371954
+    second: bomb explode_451
+  - first:
+      213: -6082923695770182267
+    second: bomb explode_452
+  - first:
+      213: -2339241299058313442
+    second: bomb explode_453
+  - first:
+      213: 166212266917552674
+    second: bomb explode_454
+  - first:
+      213: 2032053304880514010
+    second: bomb explode_455
+  - first:
+      213: -5615747154585171042
+    second: bomb explode_456
+  - first:
+      213: 5223856561644317060
+    second: bomb explode_457
+  - first:
+      213: -8674854859237081108
+    second: bomb explode_458
+  - first:
+      213: 1277912291411684896
+    second: bomb explode_459
+  - first:
+      213: 6340750042582740762
+    second: bomb explode_460
+  - first:
+      213: -5368048593808522861
+    second: bomb explode_461
+  - first:
+      213: 1271052321109036421
+    second: bomb explode_462
+  - first:
+      213: 6158314034310914913
+    second: bomb explode_463
+  - first:
+      213: -2065058967690780963
+    second: bomb explode_464
+  - first:
+      213: 5952302831066209070
+    second: bomb explode_465
+  - first:
+      213: -6021023737977197188
+    second: bomb explode_466
+  - first:
+      213: 6819288360591576241
+    second: bomb explode_467
+  - first:
+      213: -1023414535030227248
+    second: bomb explode_468
+  - first:
+      213: -7646923020148226905
+    second: bomb explode_469
+  - first:
+      213: -4721808703003078437
+    second: bomb explode_470
+  - first:
+      213: 3215896566388637065
+    second: bomb explode_471
+  - first:
+      213: -1569000828382332674
+    second: bomb explode_472
+  - first:
+      213: -8563449131452948920
+    second: bomb explode_473
+  - first:
+      213: -8683781082737758583
+    second: bomb explode_474
+  - first:
+      213: -4057012748291919050
+    second: bomb explode_475
+  - first:
+      213: 7280335423997112932
+    second: bomb explode_476
+  - first:
+      213: 26734649559225594
+    second: bomb explode_477
+  - first:
+      213: -2233011459444946570
+    second: bomb explode_478
+  - first:
+      213: 5803445362018992691
+    second: bomb explode_479
+  - first:
+      213: -7787163333064945670
+    second: bomb explode_480
+  - first:
+      213: -1568151079973866116
+    second: bomb explode_481
+  - first:
+      213: 7987106388391850679
+    second: bomb explode_482
+  - first:
+      213: 276437929585208065
+    second: bomb explode_483
+  - first:
+      213: 2771144297416384534
+    second: bomb explode_484
+  - first:
+      213: -6310024769243230623
+    second: bomb explode_485
+  - first:
+      213: -5522932087851525131
+    second: bomb explode_486
+  - first:
+      213: -7562095211788475123
+    second: bomb explode_487
+  - first:
+      213: -3279921256005482992
+    second: bomb explode_488
+  - first:
+      213: 6310973166884834667
+    second: bomb explode_489
+  - first:
+      213: 895289799197589713
+    second: bomb explode_490
+  - first:
+      213: -1081817414645865515
+    second: bomb explode_491
+  - first:
+      213: -4891399777285832570
+    second: bomb explode_492
+  - first:
+      213: 5205164883140591177
+    second: bomb explode_493
+  - first:
+      213: 7646173774354967392
+    second: bomb explode_494
+  - first:
+      213: -475682776712645926
+    second: bomb explode_495
+  - first:
+      213: 5154594319615941703
+    second: bomb explode_496
+  - first:
+      213: 2875639903924778817
+    second: bomb explode_497
+  - first:
+      213: 5139681687919805278
+    second: bomb explode_498
+  - first:
+      213: 4654419914238213563
+    second: bomb explode_499
+  - first:
+      213: 2961003539499761510
+    second: bomb explode_500
+  - first:
+      213: -3910855980398855330
+    second: bomb explode_501
+  - first:
+      213: -5179966547244557061
+    second: bomb explode_502
+  - first:
+      213: 3523412083962874378
+    second: bomb explode_503
+  - first:
+      213: -7031200952450822786
+    second: bomb explode_504
+  - first:
+      213: 5233278990397779041
+    second: bomb explode_505
+  - first:
+      213: -5475777306293682109
+    second: bomb explode_506
+  - first:
+      213: 5049198449566515739
+    second: bomb explode_507
+  - first:
+      213: -8481449349196339294
+    second: bomb explode_508
+  - first:
+      213: -7451713171502654021
+    second: bomb explode_509
+  - first:
+      213: 181157088430631045
+    second: bomb explode_510
+  - first:
+      213: 8297919499764629465
+    second: bomb explode_511
+  - first:
+      213: -2297357950150823715
+    second: bomb explode_512
+  - first:
+      213: 409143499016743844
+    second: bomb explode_513
+  - first:
+      213: 7527538840280604571
+    second: bomb explode_514
+  - first:
+      213: 1403653546521363521
+    second: bomb explode_515
+  - first:
+      213: 9114977994466154746
+    second: bomb explode_516
+  - first:
+      213: 2489808797657655656
+    second: bomb explode_517
+  - first:
+      213: 812471598574362382
+    second: bomb explode_518
+  - first:
+      213: -3442451454457024465
+    second: bomb explode_519
+  - first:
+      213: -6689504714095633346
+    second: bomb explode_520
+  - first:
+      213: 3484358843056130796
+    second: bomb explode_521
+  - first:
+      213: -8726987036970975335
+    second: bomb explode_522
+  - first:
+      213: -6812391653538788861
+    second: bomb explode_523
+  - first:
+      213: -760666333153130739
+    second: bomb explode_524
+  - first:
+      213: 4668383585090299184
+    second: bomb explode_525
+  - first:
+      213: -7539834771572202975
+    second: bomb explode_526
+  - first:
+      213: -8792841209950483150
+    second: bomb explode_527
+  - first:
+      213: -1666100273582133069
+    second: bomb explode_528
+  - first:
+      213: -7403436001259233919
+    second: bomb explode_529
+  - first:
+      213: 8355061485474077181
+    second: bomb explode_530
+  - first:
+      213: 1850774696102880783
+    second: bomb explode_531
+  - first:
+      213: 5494983503809914516
+    second: bomb explode_532
+  - first:
+      213: -457198895745949632
+    second: bomb explode_533
+  - first:
+      213: -3520866161370919110
+    second: bomb explode_534
+  - first:
+      213: 4393884134682857450
+    second: bomb explode_535
+  - first:
+      213: 8953598065107922809
+    second: bomb explode_536
+  - first:
+      213: 3477928744544512245
+    second: bomb explode_537
+  - first:
+      213: 7279441682625004515
+    second: bomb explode_538
+  - first:
+      213: -7780858396097296165
+    second: bomb explode_539
+  - first:
+      213: 8705327012088421822
+    second: bomb explode_540
+  - first:
+      213: -4534286114408751486
+    second: bomb explode_541
+  - first:
+      213: 1507056615089263175
+    second: bomb explode_542
+  - first:
+      213: 8037489620437353731
+    second: bomb explode_543
+  - first:
+      213: -70735045964637361
+    second: bomb explode_544
+  - first:
+      213: -2198874757751672279
+    second: bomb explode_545
+  - first:
+      213: 3578763353687390671
+    second: bomb explode_546
+  - first:
+      213: 423638064965807510
+    second: bomb explode_547
+  - first:
+      213: 5649958248829946697
+    second: bomb explode_548
+  - first:
+      213: -6412718515461265510
+    second: bomb explode_549
+  - first:
+      213: -5409704696949675939
+    second: bomb explode_550
+  - first:
+      213: -4533304581220083274
+    second: bomb explode_551
+  - first:
+      213: 7672915271711833837
+    second: bomb explode_552
+  - first:
+      213: 2262923380510462276
+    second: bomb explode_553
+  - first:
+      213: -4664694177412781421
+    second: bomb explode_554
+  - first:
+      213: -8238326656620775288
+    second: bomb explode_555
+  - first:
+      213: -2065306917186834031
+    second: bomb explode_556
+  - first:
+      213: 8852343728755914117
+    second: bomb explode_557
+  - first:
+      213: 8547631860092199238
+    second: bomb explode_558
+  - first:
+      213: -228991207400114687
+    second: bomb explode_559
+  - first:
+      213: -1725531564931933465
+    second: bomb explode_560
+  - first:
+      213: -7228752210978037285
+    second: bomb explode_561
+  - first:
+      213: -8053910726428470268
+    second: bomb explode_562
+  - first:
+      213: 3477334984456660902
+    second: bomb explode_563
+  - first:
+      213: 1117250671356516287
+    second: bomb explode_564
+  - first:
+      213: 8096288604773931293
+    second: bomb explode_565
+  - first:
+      213: -1721959474295972886
+    second: bomb explode_566
+  - first:
+      213: 9180771144159999012
+    second: bomb explode_567
+  - first:
+      213: 1471941585643393701
+    second: bomb explode_568
+  - first:
+      213: 5653315404286937374
+    second: bomb explode_569
+  - first:
+      213: -8343274705532572067
+    second: bomb explode_570
+  - first:
+      213: 9067948089741615705
+    second: bomb explode_571
+  - first:
+      213: -1243960367341310177
+    second: bomb explode_572
+  - first:
+      213: -5685177611503674127
+    second: bomb explode_573
+  - first:
+      213: -6005091990516592900
+    second: bomb explode_574
+  - first:
+      213: 5446927725173099239
+    second: bomb explode_575
+  - first:
+      213: 5256136774047070940
+    second: bomb explode_576
+  - first:
+      213: -2324285913565192000
+    second: bomb explode_577
+  - first:
+      213: 6841325197319537836
+    second: bomb explode_578
+  - first:
+      213: 7892161889169825013
+    second: bomb explode_579
+  - first:
+      213: -3428121842244544291
+    second: bomb explode_580
+  - first:
+      213: 6121875891497348020
+    second: bomb explode_581
+  - first:
+      213: 8247851640312883173
+    second: bomb explode_582
+  - first:
+      213: -1970749304074988313
+    second: bomb explode_583
+  - first:
+      213: -2591517783371335441
+    second: bomb explode_584
+  - first:
+      213: 5946934107563042061
+    second: bomb explode_585
+  - first:
+      213: 550542056537331150
+    second: bomb explode_586
+  - first:
+      213: 8163341831941713558
+    second: bomb explode_587
+  - first:
+      213: -8848285902680357822
+    second: bomb explode_588
+  - first:
+      213: 19065170291637723
+    second: bomb explode_589
+  - first:
+      213: -6593100516989913146
+    second: bomb explode_590
+  - first:
+      213: 7845719990955671011
+    second: bomb explode_591
+  - first:
+      213: 1994296810051252233
+    second: bomb explode_592
+  - first:
+      213: -6395708692226828925
+    second: bomb explode_593
+  - first:
+      213: -149961214129905730
+    second: bomb explode_594
+  - first:
+      213: 4439068943577496232
+    second: bomb explode_595
+  - first:
+      213: 1541003164437075457
+    second: bomb explode_596
+  - first:
+      213: -7645727798534797953
+    second: bomb explode_597
+  - first:
+      213: 7731356324299210773
+    second: bomb explode_598
+  - first:
+      213: -4716617421599022753
+    second: bomb explode_599
+  - first:
+      213: 7382804628241308571
+    second: bomb explode_600
+  - first:
+      213: 1467765992095768785
+    second: bomb explode_601
+  - first:
+      213: -1887542892981209261
+    second: bomb explode_602
+  - first:
+      213: -8900946690908913009
+    second: bomb explode_603
+  - first:
+      213: 8897238460502500861
+    second: bomb explode_604
+  - first:
+      213: -4295335329715076896
+    second: bomb explode_605
+  - first:
+      213: -6590658791529934250
+    second: bomb explode_606
+  - first:
+      213: -681733379193393750
+    second: bomb explode_607
+  - first:
+      213: 9178703671175616927
+    second: bomb explode_608
+  - first:
+      213: 4956422899672645994
+    second: bomb explode_609
+  - first:
+      213: 4423837152775141951
+    second: bomb explode_610
+  - first:
+      213: -7680406599872604521
+    second: bomb explode_611
+  - first:
+      213: 7657708919150506957
+    second: bomb explode_612
+  - first:
+      213: 8138496873424313973
+    second: bomb explode_613
+  - first:
+      213: -8659792558233970660
+    second: bomb explode_614
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/bomb explode/bomb explode.png
+  uploadId: 771799

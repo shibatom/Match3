@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2154332562f4e87bfd6194c4cdd3882
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Prefabs/SpeakerUIRight.prefab
+  uploadId: 771799

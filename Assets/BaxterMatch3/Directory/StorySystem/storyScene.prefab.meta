@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 765cb8776f074d4c811f68a10db0de2a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/StorySystem/storyScene.prefab
+  uploadId: 771799

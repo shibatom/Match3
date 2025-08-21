@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98b942846def433793a1a1503a13e786
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Package/ReferenceAssets/Explode2.asset
+  uploadId: 771799

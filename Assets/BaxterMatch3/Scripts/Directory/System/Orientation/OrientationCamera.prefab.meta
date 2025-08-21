@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf93b3a6af9949caa3e8e1c096a3c019
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/System/Orientation/OrientationCamera.prefab
+  uploadId: 771799

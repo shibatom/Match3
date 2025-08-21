@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b3c74af377e4a5ab4c4430f05b4db0e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Prefabs/ChangeNamePopup.prefab
+  uploadId: 771799

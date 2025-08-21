@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45ff82615cc8455faccb54a005311d5c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Prefabs/Effects/WinTrail.prefab
+  uploadId: 771799

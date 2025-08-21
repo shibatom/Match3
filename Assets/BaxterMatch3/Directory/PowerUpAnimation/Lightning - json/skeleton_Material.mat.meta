@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4a9716d14c1407baeee35848a65763d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Lightning - json/skeleton_Material.mat
+  uploadId: 771799

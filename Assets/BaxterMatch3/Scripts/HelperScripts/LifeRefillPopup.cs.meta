@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4a60ae03ce464adf852c71d6153ecdfe
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/HelperScripts/LifeRefillPopup.cs
+  uploadId: 771799

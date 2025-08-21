@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcf11df5e78f4454b1a61aeff3c7ac18
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4343727234628468602
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Textures/RoyalItems/WoodParticle.spriteatlas
+  uploadId: 771799

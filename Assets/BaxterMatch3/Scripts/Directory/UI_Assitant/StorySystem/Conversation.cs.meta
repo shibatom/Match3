@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8734a5dde83c48959965585c66fdfcf3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - speakerLeft: {fileID: 11400000, guid: cab6e85a8214f9645a6ae77f9b34f0fe, type: 2}
+  - speakerRight: {fileID: 11400000, guid: 8ae0d872a6984b44db1d74153ed95896, type: 2}
+  - narratorCenter: {fileID: 11400000, guid: 2be6bb2b154e00545b18a5a4e74132cb, type: 2}
+  - question: {instanceID: 0}
+  - nextConversation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/Directory/UI_Assitant/StorySystem/Conversation.cs
+  uploadId: 771799

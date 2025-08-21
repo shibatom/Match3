@@ -1,0 +1,185 @@
+{
+"skeleton": { "hash": "f8n1YX2RLmeC/rTimdKdEfDA1XY=", "spine": "3.8", "fps": 60, "images": "", "audio": "C:/Users/Parmida/Spine/backup" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Sparks 002 Impact Explosion Radial-02", "parent": "root", "x": -201.75, "y": 4.88, "scaleX": 9.548, "scaleY": 9.548 },
+	{ "name": "Sparks 002 Impact Explosion Radial-2", "parent": "Sparks 002 Impact Explosion Radial-02", "x": -2769.73, "y": -5432.93 },
+	{ "name": "Flash 011 Impact Explosion Radial01", "parent": "root", "x": -38.34, "y": 129.29, "scaleX": 8.3928, "scaleY": 8.3928 },
+	{ "name": "Flash 011 Impact Explosion Radial07 - Copy", "parent": "root", "x": 15.28, "y": 27.64, "scaleX": 0.1446, "scaleY": 0.1446 },
+	{ "name": "Sparks 002 Impact Explosion Radial-00 - Copy", "parent": "root", "x": -16.87, "y": -33.24, "scaleX": 4.0374, "scaleY": 4.0374 }
+],
+"slots": [
+	{ "name": "Flash 011 Impact Explosion Radial01", "bone": "Flash 011 Impact Explosion Radial01", "blend": "additive" },
+	{ "name": "Sparks 002 Impact Explosion Radial-02", "bone": "Sparks 002 Impact Explosion Radial-02" },
+	{ "name": "Point_32 - Copy", "bone": "root", "color": "c1f1ff4f", "blend": "additive" },
+	{ "name": "Flash 011 Impact Explosion Radial07 - Copy", "bone": "Flash 011 Impact Explosion Radial07 - Copy", "color": "dafff871", "blend": "additive" },
+	{ "name": "Sparks 002 Impact Explosion Radial-00 - Copy", "bone": "Sparks 002 Impact Explosion Radial-00 - Copy" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Sparks 002 Impact Explosion Radial-00 - Copy": {
+				"Sparks 002 Impact Explosion Radial-00 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-01 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-02 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-03 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-04 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-05 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-06 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-07 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-08 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-09 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-10 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-11 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-12 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-13 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-14 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-15 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-16 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-17 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-18 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-19 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-20 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-21 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-22 - Copy": { "x": 13.25, "y": 30.25, "width": 300, "height": 300 }
+			},
+			"Sparks 002 Impact Explosion Radial-02": {
+				"Sparks 002 Impact Explosion Radial-02": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-03": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-04": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-05": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-06": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-07": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-08": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-09": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-10": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-11": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-12": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-13": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-14": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-15": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-16": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-17": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-18": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-19": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-20": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-21": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 },
+				"Sparks 002 Impact Explosion Radial-22": { "x": 22.47, "y": 33.73, "width": 300, "height": 300 }
+			},
+			"Point_32 - Copy": {
+				"Point_32 - Copy": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1199.58, -1189.34, -1169, -1189.34, -1169, 1179.25, 1199.58, 1179.25 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 32,
+					"height": 32
+				}
+			},
+			"Flash 011 Impact Explosion Radial07 - Copy": {
+				"Flash 011 Impact Explosion Radial07 - Copy": { "x": 24.05, "y": 24.05, "scaleX": 18.3705, "scaleY": 18.3705, "width": 507, "height": 507 }
+			}
+		}
+	}
+],
+"animations": {
+	"light": {
+		"slots": {
+			"Point_32 - Copy": {
+				"color": [
+					{ "time": 0.0167, "color": "b6e2ff89" },
+					{ "time": 0.35, "color": "c1f1ff00" }
+				],
+				"attachment": [
+					{ "time": 0.0167, "name": "Point_32 - Copy" }
+				]
+			},
+			"Flash 011 Impact Explosion Radial07 - Copy": {
+				"color": [
+					{ "time": 0.0167, "color": "e0f3ff5b" },
+					{ "time": 0.35, "color": "e0f3ff00" }
+				],
+				"attachment": [
+					{ "time": 0.0167, "name": "Flash 011 Impact Explosion Radial07 - Copy" }
+				]
+			},
+			"Sparks 002 Impact Explosion Radial-00 - Copy": {
+				"attachment": [
+					{ "time": 0.0167, "name": "Sparks 002 Impact Explosion Radial-00 - Copy" },
+					{ "time": 0.0333, "name": "Sparks 002 Impact Explosion Radial-01 - Copy" },
+					{ "time": 0.05, "name": "Sparks 002 Impact Explosion Radial-02 - Copy" },
+					{ "time": 0.0667, "name": "Sparks 002 Impact Explosion Radial-03 - Copy" },
+					{ "time": 0.0833, "name": "Sparks 002 Impact Explosion Radial-04 - Copy" },
+					{ "time": 0.1, "name": "Sparks 002 Impact Explosion Radial-05 - Copy" },
+					{ "time": 0.1167, "name": "Sparks 002 Impact Explosion Radial-06 - Copy" },
+					{ "time": 0.1333, "name": "Sparks 002 Impact Explosion Radial-07 - Copy" },
+					{ "time": 0.15, "name": "Sparks 002 Impact Explosion Radial-08 - Copy" },
+					{ "time": 0.1667, "name": "Sparks 002 Impact Explosion Radial-09 - Copy" },
+					{ "time": 0.1833, "name": "Sparks 002 Impact Explosion Radial-10 - Copy" },
+					{ "time": 0.2, "name": "Sparks 002 Impact Explosion Radial-11 - Copy" },
+					{ "time": 0.2167, "name": "Sparks 002 Impact Explosion Radial-12 - Copy" },
+					{ "time": 0.2333, "name": "Sparks 002 Impact Explosion Radial-13 - Copy" },
+					{ "time": 0.25, "name": "Sparks 002 Impact Explosion Radial-14 - Copy" },
+					{ "time": 0.2667, "name": "Sparks 002 Impact Explosion Radial-15 - Copy" },
+					{ "time": 0.2833, "name": "Sparks 002 Impact Explosion Radial-16 - Copy" },
+					{ "time": 0.3, "name": "Sparks 002 Impact Explosion Radial-17 - Copy" },
+					{ "time": 0.3167, "name": "Sparks 002 Impact Explosion Radial-18 - Copy" },
+					{ "time": 0.3333, "name": "Sparks 002 Impact Explosion Radial-19 - Copy" },
+					{ "time": 0.35, "name": "Sparks 002 Impact Explosion Radial-20 - Copy" },
+					{ "time": 0.3667, "name": "Sparks 002 Impact Explosion Radial-21 - Copy" },
+					{ "time": 0.3833, "name": "Sparks 002 Impact Explosion Radial-22 - Copy" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"Flash 011 Impact Explosion Radial01": {
+				"color": [
+					{ "time": 0.0167, "color": "5cb7fbff" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0.0333, "angle": -0.01 }
+				],
+				"scale": [
+					{ "time": 0.0167, "x": 2.004, "y": 2.004 }
+				]
+			},
+			"Flash 011 Impact Explosion Radial07 - Copy": {
+				"scale": [
+					{ "time": 0.0167, "x": 0.178, "y": 0.178 },
+					{ "time": 0.35, "x": 2.081, "y": 2.081 }
+				]
+			},
+			"Sparks 002 Impact Explosion Radial-00 - Copy": {
+				"translate": [
+					{ "time": 0.0167, "x": 18.05, "y": 40.68 }
+				],
+				"scale": [
+					{ "time": 0.0167, "x": 0.444, "y": 0.444 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"Point_32 - Copy": {
+					"Point_32 - Copy": [
+						{
+							"time": 0.0167,
+							"vertices": [ -1053.1376, 1053.1375, 1053.1375, 1053.1375, 1053.1375, -1053.1376, -1053.1376, -1053.1376 ]
+						},
+						{
+							"time": 0.35,
+							"vertices": [ -120.74478, 120.74512, 120.745, 120.74512, 120.745, -120.74493, -120.74478, -120.74493 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

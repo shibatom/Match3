@@ -1,0 +1,121 @@
+{
+"skeleton": {
+	"hash": "vwB+CeOu+gauFg/zrLdNKFb4fwg=",
+	"spine": "3.8",
+	"x": -591.83,
+	"y": -501.92,
+	"width": 1268.23,
+	"height": 1408.1,
+	"fps": 60,
+	"images": "",
+	"audio": "C:/Users/Parmida/Spine/backup"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Electricity 015 Charge Radial00", "parent": "root", "x": 14.32, "y": 206.48, "scaleX": 2.4157, "scaleY": 2.4157 }
+],
+"slots": [
+	{ "name": "Electricity 015 Charge Radial00", "bone": "Electricity 015 Charge Radial00", "attachment": "Electricity 015 Charge Radial16", "blend": "additive" },
+	{ "name": "Electricity 015 Charge Radial0", "bone": "Electricity 015 Charge Radial00", "color": "ffffff89", "attachment": "Electricity 015 Charge Radial16", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Electricity 015 Charge Radial0": {
+				"Electricity 015 Charge Radial00": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial01": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial02": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial03": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial04": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial05": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial06": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial07": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial08": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial09": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial10": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial11": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial12": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial13": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial14": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial15": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial16": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 }
+			},
+			"Electricity 015 Charge Radial00": {
+				"Electricity 015 Charge Radial00": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial01": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial02": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial03": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial04": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial05": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial06": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial07": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial08": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial09": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial10": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial11": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial12": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial13": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial14": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial15": { "x": 11.57, "y": -1.8, "width": 524, "height": 582 },
+				"Electricity 015 Charge Radial16": { "x": 11.57, "y": -1.8, "rotation": 0.1, "width": 524, "height": 582 }
+			}
+		}
+	}
+],
+"animations": {
+	"Electricity": {
+		"slots": {
+			"Electricity 015 Charge Radial00": {
+				"attachment": [
+					{ "name": "Electricity 015 Charge Radial00" },
+					{ "time": 0.0333, "name": "Electricity 015 Charge Radial01" },
+					{ "time": 0.0667, "name": "Electricity 015 Charge Radial02" },
+					{ "time": 0.1, "name": "Electricity 015 Charge Radial03" },
+					{ "time": 0.1333, "name": "Electricity 015 Charge Radial04" },
+					{ "time": 0.1667, "name": "Electricity 015 Charge Radial05" },
+					{ "time": 0.2, "name": "Electricity 015 Charge Radial06" },
+					{ "time": 0.2333, "name": "Electricity 015 Charge Radial07" },
+					{ "time": 0.2667, "name": "Electricity 015 Charge Radial08" },
+					{ "time": 0.3, "name": "Electricity 015 Charge Radial09" },
+					{ "time": 0.3333, "name": "Electricity 015 Charge Radial10" },
+					{ "time": 0.3667, "name": "Electricity 015 Charge Radial11" },
+					{ "time": 0.4, "name": "Electricity 015 Charge Radial12" },
+					{ "time": 0.4333, "name": "Electricity 015 Charge Radial13" },
+					{ "time": 0.4667, "name": "Electricity 015 Charge Radial14" },
+					{ "time": 0.5, "name": "Electricity 015 Charge Radial15" },
+					{ "time": 0.5333, "name": "Electricity 015 Charge Radial16" }
+				]
+			},
+			"Electricity 015 Charge Radial0": {
+				"attachment": [
+					{ "name": "Electricity 015 Charge Radial00" },
+					{ "time": 0.0333, "name": "Electricity 015 Charge Radial01" },
+					{ "time": 0.0667, "name": "Electricity 015 Charge Radial02" },
+					{ "time": 0.1, "name": "Electricity 015 Charge Radial03" },
+					{ "time": 0.1333, "name": "Electricity 015 Charge Radial04" },
+					{ "time": 0.1667, "name": "Electricity 015 Charge Radial05" },
+					{ "time": 0.2, "name": "Electricity 015 Charge Radial06" },
+					{ "time": 0.2333, "name": "Electricity 015 Charge Radial07" },
+					{ "time": 0.2667, "name": "Electricity 015 Charge Radial08" },
+					{ "time": 0.3, "name": "Electricity 015 Charge Radial09" },
+					{ "time": 0.3333, "name": "Electricity 015 Charge Radial10" },
+					{ "time": 0.3667, "name": "Electricity 015 Charge Radial11" },
+					{ "time": 0.4, "name": "Electricity 015 Charge Radial12" },
+					{ "time": 0.4333, "name": "Electricity 015 Charge Radial13" },
+					{ "time": 0.4667, "name": "Electricity 015 Charge Radial14" },
+					{ "time": 0.5, "name": "Electricity 015 Charge Radial15" },
+					{ "time": 0.5333, "name": "Electricity 015 Charge Radial16" }
+				]
+			}
+		},
+		"bones": {
+			"Electricity 015 Charge Radial00": {
+				"scale": [
+					{ "x": 2.738, "y": 2.738 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea34392f36f1462588fbd2dcb0812ecc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/canon-json-polygon/canon.json
+  uploadId: 771799

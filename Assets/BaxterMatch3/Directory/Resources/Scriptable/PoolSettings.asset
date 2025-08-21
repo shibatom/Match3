@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4100ab1728c0476f9ef5849a8da3d30a, type: 3}
+  m_Name: PoolSettings
+  m_EditorClassIdentifier: 
+  itemsToPool:
+  - objectToPool: {fileID: 190504, guid: 1795c81565f247d9ba2524fdebe16520, type: 3}
+    poolName: Items
+    amountToPool: 50
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1119664270634208, guid: b2bdc861d5ed4458aa9a633e3600362b, type: 3}
+    poolName: StripedH
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1119664270634208, guid: 1a95ca668d874cf6a66d16e416945a43, type: 3}
+    poolName: StripedV
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1525697283171518, guid: 65af4feb13614fec9685700b05026b55, type: 3}
+    poolName: Marmalades
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1119664270634208, guid: 871cbee6903c4a45b8598c13ce008f03, type: 3}
+    poolName: Packages
+    amountToPool: 5
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1119664270634208, guid: f7eef729c19c49a1b8705eb6b6fe2b51, type: 3}
+    poolName: Multicolors
+    amountToPool: 3
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 4794043405585894037, guid: 172d0ff3ac1d414f9f06208e09dd2e31, type: 3}
+    poolName: Impact01
+    amountToPool: 40
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1445774073842394, guid: 718cf1b40ab8459da4adf5291280a47d, type: 3}
+    poolName: Spirals
+    amountToPool: 3
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 2530845016066800690, guid: 9f7a97bbb1454b4a8473780a65145ad5, type: 3}
+    poolName: Effects
+    amountToPool: 20
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: b5802fa83ebd414baf14f26f85f4eb7d, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: aa5144d446534b61b2451320103ea0e1, type: 3}
+    poolName: Effects
+    amountToPool: 20
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: 84666ce08fc04c2898bd6b4f1e575eb2, type: 3}
+    poolName: Effects
+    amountToPool: 5
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1159274890842372, guid: c2e5b411d07b42bb9940ece7f71698c6, type: 3}
+    poolName: Effects
+    amountToPool: 3
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: 98e05f09adb54973932d67b92bb6be52, type: 3}
+    poolName: Effects
+    amountToPool: 5
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: c3cfe2be86464e8bbbfb869f73d4c1e4, type: 3}
+    poolName: Effects
+    amountToPool: 5
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: b749efccbfd9491c87450bcd251bfb20, type: 3}
+    poolName: Effects
+    amountToPool: 5
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 2530845016066800690, guid: 6e0cde5668c0404685cd8bab8f1dd760, type: 3}
+    poolName: Effects
+    amountToPool: 5
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 339946071878207707, guid: 63d268aa52274003ab917a3646f22eb6, type: 3}
+    poolName: Effects
+    amountToPool: 15
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 121258, guid: de49ef73fbba4d55a2530a35c4771473, type: 3}
+    poolName: Effects
+    amountToPool: 15
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1178071325220220, guid: dd603641c96f4541bd4541556dc68741, type: 3}
+    poolName: Effects
+    amountToPool: 15
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 8771972552311404799, guid: bbf9e36a48d6c5648a13889afab076fd, type: 3}
+    poolName: Effects
+    amountToPool: 20
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 4794043405585894037, guid: 172d0ff3ac1d414f9f06208e09dd2e31, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1590415177872986601, guid: 496918359d6509545bb93bf639c46f97, type: 3}
+    poolName: Effects
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 8771972552311404799, guid: b491fb3c46255714a9fb5108223973ce, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 2150155002863116326, guid: cc83ae3d49554c85979df91f5013ca87, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: 4fcb8ef707af4393bdd9363adea2aced, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: 229bff0a18c04a16a021461c7b251910, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: 7f51219e31ce4b339d07cfb78b408246, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: 4fcb8ef707af4393bdd9363adea2aced, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1445774073842394, guid: 640d88e3947a46b2bc1f25bad5b9ec29, type: 3}
+    poolName: Spirals
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: 08b9f2baf3834b96818ec34658aea992, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: 08b9f2baf3834b96818ec34658aea992, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: e2e6925257824e619c04f506bca6af14, type: 3}
+    poolName: Effects
+    amountToPool: 5
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1590415177872986601, guid: a42c6d90d00f7f6458a49ae70e445a1c, type: 3}
+    poolName: Effects
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 2530845016066800690, guid: 010bd880e5894b37a870eeb0c20cb80b, type: 3}
+    poolName: Effects
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 4553287630450876385, guid: 10dc4a53e86b14c4685108091aa6bf74, type: 3}
+    poolName: Effects
+    amountToPool: 16
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1987957617991102, guid: 2d346f0ba1a24960a4dc2a65e2ae1675, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1281900193509586, guid: d00622b2e4fe4e19bfc95ea4437e5199, type: 3}
+    poolName: Effects
+    amountToPool: 30
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1590415177872986601, guid: 90806ef7033422d4b8e81a8ba68f2a06, type: 3}
+    poolName: Effects
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 4553287630450876385, guid: 5dad446c95350554c9fe4d6f275bbdd3, type: 3}
+    poolName: Effects
+    amountToPool: 20
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 100804, guid: fcf66494c23c4f45ad82402b090bca87, type: 3}
+    poolName: Effects
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 100804, guid: fcf66494c23c4f45ad82402b090bca87, type: 3}
+    poolName: Effects
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1178071325220220, guid: dd603641c96f4541bd4541556dc68741, type: 3}
+    poolName: Effects
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1590415177872986601, guid: 550a2b26b5d570a438229a652d292439, type: 3}
+    poolName: Effects
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1590415177872986601, guid: 550a2b26b5d570a438229a652d292439, type: 3}
+    poolName: Effects
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1

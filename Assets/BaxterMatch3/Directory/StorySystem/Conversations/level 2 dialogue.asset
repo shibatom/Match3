@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8734a5dde83c48959965585c66fdfcf3, type: 3}
+  m_Name: level 2 dialogue
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: a66baceaac969c14785a50da0726afda, type: 2}
+  speakerRight: {fileID: 11400000, guid: 0e94913fab88320469db4a7578bc5f56, type: 2}
+  narratorCenter: {fileID: 11400000, guid: 1dafd8b78fe46a444934a7c53f9c3f9f, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: a66baceaac969c14785a50da0726afda, type: 2}
+    text: A river stands in my path, but I won't let it stop me.
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  - character: {fileID: 11400000, guid: a66baceaac969c14785a50da0726afda, type: 2}
+    text: 'I need to find a way to cross it and continue my journey. '
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  - character: {fileID: 11400000, guid: a66baceaac969c14785a50da0726afda, type: 2}
+    text: Time to put my puzzle-solving skills to the test and find a solution!
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  question: {fileID: 0}
+  nextConversation: {fileID: 0}
+  objectToShow: {fileID: 0}

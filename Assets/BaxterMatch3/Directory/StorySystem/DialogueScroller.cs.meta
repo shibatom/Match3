@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f6ca788fd72d42b2b84faaeebca0a7ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/StorySystem/DialogueScroller.cs
+  uploadId: 771799

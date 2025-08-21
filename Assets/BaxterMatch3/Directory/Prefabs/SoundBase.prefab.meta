@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1fc29ed646646d4a8a7e00cd883276d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Prefabs/SoundBase.prefab
+  uploadId: 771799

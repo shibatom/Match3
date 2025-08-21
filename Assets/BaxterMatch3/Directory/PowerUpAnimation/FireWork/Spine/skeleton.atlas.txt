@@ -1,0 +1,223 @@
+
+skeleton.png
+size: 2912,2018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2508, 82
+  size: 170, 300
+  orig: 170, 300
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 2004, 1761
+  size: 255, 300
+  orig: 255, 300
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2760, 1212
+  size: 144, 300
+  orig: 144, 300
+  offset: 0, 0
+  index: -1
+Point_32
+  rotate: false
+  xy: 2810, 1984
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up00
+  rotate: false
+  xy: 2306, 1766
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up01
+  rotate: false
+  xy: 2558, 1766
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up02
+  rotate: false
+  xy: 2306, 1514
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up03
+  rotate: false
+  xy: 2004, 1509
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up04
+  rotate: false
+  xy: 2558, 1514
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up05
+  rotate: false
+  xy: 2256, 1262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up06
+  rotate: false
+  xy: 2004, 1257
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up07
+  rotate: false
+  xy: 2508, 1262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up08
+  rotate: false
+  xy: 2256, 1010
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up09
+  rotate: false
+  xy: 2004, 1005
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up10
+  rotate: false
+  xy: 2508, 1010
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up11
+  rotate: false
+  xy: 2256, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up12
+  rotate: false
+  xy: 2004, 753
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up13
+  rotate: false
+  xy: 2, 16
+  size: 2000, 2000
+  orig: 2000, 2000
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up14
+  rotate: false
+  xy: 2508, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up15
+  rotate: false
+  xy: 2256, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up16
+  rotate: false
+  xy: 2004, 501
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up17
+  rotate: false
+  xy: 2508, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up18
+  rotate: false
+  xy: 2256, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 005 Shot Ray Impact Explosion Up19
+  rotate: false
+  xy: 2004, 249
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop0
+  rotate: false
+  xy: 2760, 1060
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop1
+  rotate: false
+  xy: 2760, 908
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop2
+  rotate: false
+  xy: 2508, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop3
+  rotate: false
+  xy: 2760, 756
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop4
+  rotate: false
+  xy: 2760, 604
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop5
+  rotate: false
+  xy: 2760, 452
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop6
+  rotate: false
+  xy: 2256, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1

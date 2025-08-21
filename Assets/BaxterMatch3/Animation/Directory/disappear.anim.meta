@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea4bc834b2574ef0a0611d47999c1d0c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/Directory/disappear.anim
+  uploadId: 771799

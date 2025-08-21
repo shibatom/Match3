@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6bb460d185af48639024f1f7227a06ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Honey/Tile Map/Left.asset
+  uploadId: 771799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 23ddb65293804e82b9c991fa0c1c32cf
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Helicopter/propeller.json
+  uploadId: 771799

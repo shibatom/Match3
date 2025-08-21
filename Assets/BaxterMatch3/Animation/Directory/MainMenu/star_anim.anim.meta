@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04a7d06a8c4d48bbb1b6f4d84905c062
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/Directory/MainMenu/star_anim.anim
+  uploadId: 771799

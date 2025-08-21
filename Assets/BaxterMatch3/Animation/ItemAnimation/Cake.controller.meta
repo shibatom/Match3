@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e49e32bb7aac4cd897d36be76b0b40ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/ItemAnimation/Cake.controller
+  uploadId: 771799

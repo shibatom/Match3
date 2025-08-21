@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8abfbb8750b247f69e36068d6d7b149c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/ProppellerFire/skeleton.json
+  uploadId: 771799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6eb11b2dcbaa4ba6adac94c5ad90fb20
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Prefabs/NarratorUICenter.prefab
+  uploadId: 771799

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5fb344c5fed4264b9943299dec19554
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/StorySystem/FishCard.asset
+  uploadId: 771799

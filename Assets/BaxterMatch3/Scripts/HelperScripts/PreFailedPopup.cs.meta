@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: cfc3f7142b884e77942f3a2270574d0c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/HelperScripts/PreFailedPopup.cs
+  uploadId: 771799

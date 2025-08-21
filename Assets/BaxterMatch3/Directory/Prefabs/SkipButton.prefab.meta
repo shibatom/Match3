@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 94d252135d0d4f348a5cb5bd930be5d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Prefabs/SkipButton.prefab
+  uploadId: 771799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 34090610abcb4bd091b3dc0f486adfca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Prefabs/Arrow.prefab
+  uploadId: 771799

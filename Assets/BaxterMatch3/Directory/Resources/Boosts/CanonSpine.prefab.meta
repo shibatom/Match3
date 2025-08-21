@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1f8bc6d13124f7b828f2cd0f8e9d34a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Boosts/CanonSpine.prefab
+  uploadId: 771799

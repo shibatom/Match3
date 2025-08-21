@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 6cde5816fb3cff540a0c6a5e9520df14
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Raveo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9f7ede5bbf216524093e15175f1a3055, type: 3}
+  - {fileID: 12800000, guid: 52ab6cbaad4699b4d9bb4343d7ce92c1, type: 3}
+  - {fileID: 12800000, guid: beb799426ee251c42890a8d067c0a87c, type: 3}
+  - {fileID: 12800000, guid: 1e7345346e87606468e27ed160304f49, type: 3}
+  - {fileID: 12800000, guid: f1636c2395caa7c4f911eaea123aff1f, type: 3}
+  - {fileID: 12800000, guid: 009ae92bca95a6745944aeead5556943, type: 3}
+  - {fileID: 12800000, guid: a51f50fd06d49164aa30e465aa4199c8, type: 3}
+  - {fileID: 12800000, guid: 44acfeda7be33ac46b459ba508b3d111, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Font/New/raveo/fonts/static/SDF/Raveo Black.otf
+  uploadId: 771799

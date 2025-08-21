@@ -1,0 +1,76 @@
+
+bottle-empty.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 5
+  size: 135, 43
+  orig: 135, 43
+  offset: 0, 0
+  index: -1
+blue
+  rotate: true
+  xy: 190, 51
+  size: 200, 127
+  orig: 200, 127
+  offset: 0, 0
+  index: -1
+dar
+  rotate: false
+  xy: 418, 9
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 2, 50
+  size: 201, 186
+  orig: 201, 186
+  offset: 0, 0
+  index: -1
+green
+  rotate: true
+  xy: 319, 51
+  size: 200, 127
+  orig: 200, 127
+  offset: 0, 0
+  index: -1
+halghe
+  rotate: false
+  xy: 215, 19
+  size: 108, 30
+  orig: 108, 30
+  offset: 0, 0
+  index: -1
+pink
+  rotate: true
+  xy: 448, 51
+  size: 200, 127
+  orig: 200, 127
+  offset: 0, 0
+  index: -1
+red
+  rotate: true
+  xy: 577, 51
+  size: 200, 127
+  orig: 200, 127
+  offset: 0, 0
+  index: -1
+tag
+  rotate: true
+  xy: 139, 2
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 325, 15
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1

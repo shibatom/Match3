@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 96aa506ba82547a197f5dce04b170f62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3431562865709583167
+    second: clown hat spine _0
+  - first:
+      213: -5712505914503959693
+    second: clown hat spine _1
+  - first:
+      213: 1853306304890207017
+    second: clown hat spine _2
+  - first:
+      213: 1714522470040638221
+    second: clown hat spine _3
+  - first:
+      213: -8747065931805935039
+    second: clown hat spine _4
+  - first:
+      213: -4737228430868019652
+    second: clown hat spine _5
+  - first:
+      213: 2026127764399300781
+    second: clown hat spine _6
+  - first:
+      213: 2672256669261258220
+    second: clown hat spine _7
+  - first:
+      213: 475427254230591810
+    second: clown hat spine _8
+  - first:
+      213: -4656903441801431328
+    second: clown hat spine _9
+  - first:
+      213: -4332345393018107340
+    second: clown hat spine _10
+  - first:
+      213: -1214855526886897401
+    second: clown hat spine _11
+  - first:
+      213: -8990082234543958985
+    second: clown hat spine _12
+  - first:
+      213: 5981236580514200288
+    second: clown hat spine _13
+  - first:
+      213: -4011899583805597004
+    second: clown hat spine _14
+  - first:
+      213: -7427394997585862139
+    second: clown hat spine _15
+  - first:
+      213: -7867571373657418887
+    second: clown hat spine _16
+  - first:
+      213: 526543008815612464
+    second: clown hat spine _17
+  - first:
+      213: 4094902134009223983
+    second: clown hat spine _18
+  - first:
+      213: -2668787516990710038
+    second: clown hat spine _19
+  - first:
+      213: 2371006367952306182
+    second: clown hat spine _20
+  - first:
+      213: 9010470967860245977
+    second: clown hat spine _21
+  - first:
+      213: -3230369961810218224
+    second: clown hat spine _22
+  - first:
+      213: 4140675464156884996
+    second: clown hat spine _23
+  - first:
+      213: -5531700719094265426
+    second: clown hat spine _24
+  - first:
+      213: -5518555307795733103
+    second: clown hat spine _25
+  - first:
+      213: -2820920208327205492
+    second: clown hat spine _26
+  - first:
+      213: -7480601970225865462
+    second: clown hat spine _27
+  - first:
+      213: -4424250961648740010
+    second: clown hat spine _28
+  - first:
+      213: 5984632020573029195
+    second: clown hat spine _29
+  - first:
+      213: -5424765283073345001
+    second: clown hat spine _30
+  - first:
+      213: 5059959272769758634
+    second: clown hat spine _31
+  - first:
+      213: -4522539172981100173
+    second: clown hat spine _32
+  - first:
+      213: -6716792875695470038
+    second: clown hat spine _33
+  - first:
+      213: -5157609070026619260
+    second: clown hat spine _34
+  - first:
+      213: -8545446494345036760
+    second: clown hat spine _35
+  - first:
+      213: 3959266893240785707
+    second: clown hat spine _36
+  - first:
+      213: -7262651271116258170
+    second: clown hat spine _37
+  - first:
+      213: 2420945962072350282
+    second: clown hat spine _38
+  - first:
+      213: 1210564500031121803
+    second: clown hat spine _39
+  - first:
+      213: 8997639881793111522
+    second: clown hat spine _40
+  - first:
+      213: -2957239386148996432
+    second: clown hat spine _41
+  - first:
+      213: 2235477358330557199
+    second: clown hat spine _42
+  - first:
+      213: 4101876559574363619
+    second: clown hat spine _43
+  - first:
+      213: -4962587424094204052
+    second: clown hat spine _44
+  - first:
+      213: 6019706060622887880
+    second: clown hat spine _45
+  - first:
+      213: 4811238989875061772
+    second: clown hat spine _46
+  - first:
+      213: 3720820882593153048
+    second: clown hat spine _47
+  - first:
+      213: -4514139355462719548
+    second: clown hat spine _48
+  - first:
+      213: 5721970359281043655
+    second: clown hat spine _49
+  - first:
+      213: -3390077060747943831
+    second: clown hat spine _50
+  - first:
+      213: -5609913299340755679
+    second: clown hat spine _51
+  - first:
+      213: 7785636565468115663
+    second: clown hat spine _52
+  - first:
+      213: -2446542040798105288
+    second: clown hat spine _53
+  - first:
+      213: -5993329301579296853
+    second: clown hat spine _54
+  - first:
+      213: -4717779787340640022
+    second: clown hat spine _55
+  - first:
+      213: -3134593518745057590
+    second: clown hat spine _56
+  - first:
+      213: -6971862715363855134
+    second: clown hat spine _57
+  - first:
+      213: -1456132563184648860
+    second: clown hat spine _58
+  - first:
+      213: 4400717618509875157
+    second: clown hat spine _59
+  - first:
+      213: -5070907968984369406
+    second: clown hat spine _60
+  - first:
+      213: 6835267947966091144
+    second: clown hat spine _61
+  - first:
+      213: 8194404204409131562
+    second: clown hat spine _62
+  - first:
+      213: -8550744043244064136
+    second: clown hat spine _63
+  - first:
+      213: -4721508376580100997
+    second: clown hat spine _64
+  - first:
+      213: -4329868249383891173
+    second: clown hat spine _65
+  - first:
+      213: 8648534542044638645
+    second: clown hat spine _66
+  - first:
+      213: 5253050011670450336
+    second: clown hat spine _67
+  - first:
+      213: -6641408386901881001
+    second: clown hat spine _68
+  - first:
+      213: -314826843413427511
+    second: clown hat spine _69
+  - first:
+      213: -322579335846744896
+    second: clown hat spine _70
+  - first:
+      213: -1368502788545932002
+    second: clown hat spine _71
+  - first:
+      213: 1089424875836222805
+    second: clown hat spine _72
+  - first:
+      213: 4009669677642522662
+    second: clown hat spine _73
+  - first:
+      213: -7355696523986230470
+    second: clown hat spine _74
+  - first:
+      213: 3596303874161673864
+    second: clown hat spine _75
+  - first:
+      213: -8496783786980505434
+    second: clown hat spine _76
+  - first:
+      213: 9061996592215240079
+    second: clown hat spine _77
+  - first:
+      213: 6939305694249441527
+    second: clown hat spine _78
+  - first:
+      213: -3190230256884423176
+    second: clown hat spine _79
+  - first:
+      213: -526612723548414068
+    second: clown hat spine _80
+  - first:
+      213: -5767193747682964950
+    second: clown hat spine _81
+  - first:
+      213: 2379723478215616662
+    second: clown hat spine _82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/clown hat json/clown hat spine .png
+  uploadId: 771799

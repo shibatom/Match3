@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e406a7aec28b423a8aa5bc169510eea5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Spine_Assets/json-victory_royal/FadingBlackScreen/BlackScreenController.controller
+  uploadId: 771799

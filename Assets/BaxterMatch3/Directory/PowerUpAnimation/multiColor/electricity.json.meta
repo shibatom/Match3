@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cac33da0de254fc687880c34304a1fc6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/multiColor/electricity.json
+  uploadId: 771799

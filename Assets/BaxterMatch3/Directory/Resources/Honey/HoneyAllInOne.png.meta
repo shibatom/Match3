@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 650e119eda7a41b7b3d2a35242460386
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2751084720823448592
+    second: HoneyAllInOne_0
+  - first:
+      213: -1472477855381724819
+    second: HoneyAllInOne_1
+  - first:
+      213: -4674037955482132681
+    second: HoneyAllInOne_2
+  - first:
+      213: -3529754336346026344
+    second: HoneyAllInOne_3
+  - first:
+      213: 177415932471117622
+    second: HoneyAllInOne_4
+  - first:
+      213: 8314595321605335930
+    second: HoneyAllInOne_5
+  - first:
+      213: -5242974478484634482
+    second: HoneyAllInOne_6
+  - first:
+      213: -8926093210372965153
+    second: HoneyAllInOne_7
+  - first:
+      213: 1961698923148055569
+    second: HoneyAllInOne_8
+  - first:
+      213: -8700765821973618885
+    second: HoneyAllInOne_9
+  - first:
+      213: -122827168725377445
+    second: HoneyAllInOne_10
+  - first:
+      213: 73657421104254574
+    second: HoneyAllInOne_11
+  - first:
+      213: -7123188419055307604
+    second: HoneyAllInOne_12
+  - first:
+      213: -545654438535341357
+    second: HoneyAllInOne_13
+  - first:
+      213: -1758301963736969196
+    second: HoneyAllInOne_14
+  - first:
+      213: 5419683548631230512
+    second: HoneyAllInOne_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 375
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HoneyAllInOne_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1777
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b135e91d1b27741b24e3623cf41dc6
+      internalID: 1952377779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1777
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81b4c5c43ddb8440bf1652415968a8b
+      internalID: 655809255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_2
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1777
+        width: 313
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 48}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442081f79e7a13b45bc28176b015b5cb
+      internalID: 368900695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_3
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1777
+        width: 314
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88147310cc1cb4544b5a68f0cb55f3d5
+      internalID: 366500188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_4
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1693
+        width: 446
+        height: 447
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be17a1648a1a8ea4b81b81f10f42d624
+      internalID: -381827808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_5
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1514
+        width: 368
+        height: 627
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6861d75a85daddf4c863114e6c323810
+      internalID: 160858668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_6
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1514
+        width: 380
+        height: 627
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdfbbf796c7e7b4695852f451da6e1e
+      internalID: 70822620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_7
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1514
+        width: 374
+        height: 627
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec2e844b834a144bb2ae852cc8a08d
+      internalID: 441760668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 979
+        width: 314
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bc660cbca96bd4da81644f4c34c03d
+      internalID: -2000888855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 979
+        width: 328
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62df648ee0ee68b44b71a145df305287
+      internalID: -284586951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_10
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 979
+        width: 462
+        height: 476
+      alignment: 9
+      pivot: {x: 0.5722037, y: 0.377329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f7c57db2d27cf4a910ff5c06b8ce21
+      internalID: -1838606279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 979
+        width: 445
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0e9d85e3e24144bad6e9279b8d4902
+      internalID: 1951279089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_12
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 977
+        width: 368
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6e55da6e2d65243b457c02bb4cd56d
+      internalID: 1985297619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_13
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 977
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50908577564ae9743a0816685a91f7a4
+      internalID: -1660099410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_14
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 824
+        width: 646
+        height: 648
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b325767e198d34392d77f7a357fc85
+      internalID: -1378544394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoneyAllInOne_15
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1513
+        width: 381
+        height: 627
+      alignment: 9
+      pivot: {x: 0.5, y: 25}
+      border: {x: 0, y: 0, z: 12, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca60888adbb9a348ad14aaf7fe37ebf
+      internalID: -1586013735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b2d9a2374d2e784409d7a1968854aa04
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HoneyAllInOne_0: 1952377779
+      HoneyAllInOne_1: 655809255
+      HoneyAllInOne_10: -1838606279
+      HoneyAllInOne_11: 1951279089
+      HoneyAllInOne_12: 1985297619
+      HoneyAllInOne_13: -1660099410
+      HoneyAllInOne_14: -1378544394
+      HoneyAllInOne_15: -1586013735
+      HoneyAllInOne_2: 368900695
+      HoneyAllInOne_3: 366500188
+      HoneyAllInOne_4: -381827808
+      HoneyAllInOne_5: 160858668
+      HoneyAllInOne_6: 70822620
+      HoneyAllInOne_7: 441760668
+      HoneyAllInOne_8: -2000888855
+      HoneyAllInOne_9: -284586951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Honey/HoneyAllInOne.png
+  uploadId: 771799

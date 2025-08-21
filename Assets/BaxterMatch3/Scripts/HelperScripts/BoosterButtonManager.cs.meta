@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c4bfed76174b47d2b20e6e8cbb294d2f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/HelperScripts/BoosterButtonManager.cs
+  uploadId: 771799

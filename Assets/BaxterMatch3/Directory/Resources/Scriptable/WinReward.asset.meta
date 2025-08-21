@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbeb19305dd847c3a3adf6a0e266362f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Scriptable/WinReward.asset
+  uploadId: 771799

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ac33e4d3706047aa9eb1e0daf832ffa8
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/HelperScripts/GlobalValue.Constants.cs
+  uploadId: 771799

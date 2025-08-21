@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e42e439148f4bc98fb2960fc0d4778f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Packages/Nakama/CHANGELOG.md
+  uploadId: 771799

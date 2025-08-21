@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 172d0ff3ac1d414f9f06208e09dd2e31
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Prefabs/DiscoBall_Impact/Impact01.prefab
+  uploadId: 771799

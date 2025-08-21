@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e264bb03025d4c2790a65d86dbe80942
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/ItemAnimation/shakingAnimator.controller
+  uploadId: 771799

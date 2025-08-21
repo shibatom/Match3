@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b76f5e73d19e479b99e53924f07d9f6e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/FireWork/Spine/skeleton4.atlas.txt
+  uploadId: 771799

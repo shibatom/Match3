@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8734a5dde83c48959965585c66fdfcf3, type: 3}
+  m_Name: level-3 dialogue
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: a66baceaac969c14785a50da0726afda, type: 2}
+  speakerRight: {fileID: 11400000, guid: 0e94913fab88320469db4a7578bc5f56, type: 2}
+  narratorCenter: {fileID: 11400000, guid: 1dafd8b78fe46a444934a7c53f9c3f9f, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: a66baceaac969c14785a50da0726afda, type: 2}
+    text: Banner!
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 1
+  - character: {fileID: 11400000, guid: 0e94913fab88320469db4a7578bc5f56, type: 2}
+    text: 'Milo! '
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  - character: {fileID: 11400000, guid: a66baceaac969c14785a50da0726afda, type: 2}
+    text: "I can't believe I found you!\r\nDon't worry, my friend, I'll get you out
+      of there. \r\nWe just need to figure out how to distract that hunter guarding
+      your cage.\""
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  - character: {fileID: 11400000, guid: 0e94913fab88320469db4a7578bc5f56, type: 2}
+    text: "Thank goodness you're here!\r\nThat hunter won't stand a chance against
+      us.\r\n Let's work together and find a way to outsmart him. We've got this!"
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  - character: {fileID: 11400000, guid: 0e94913fab88320469db4a7578bc5f56, type: 2}
+    text: Milo, my dear friend, I knew you would come for me! Let's put our heads
+      together and come up with a plan. Oh, and look over there! A swarm of bees!
+      Maybe they can help us distract the hunter.
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  - character: {fileID: 11400000, guid: a66baceaac969c14785a50da0726afda, type: 2}
+    text: banner, I can't bear to see you trapped like this. We need to find a way
+      to free you from that cage. But we must be careful, there's a hunter guarding
+      it.
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  - character: {fileID: 11400000, guid: a66baceaac969c14785a50da0726afda, type: 2}
+    text: You're right, Leo! The bees could be our secret weapon. If we can guide
+      them towards the hunter, they'll create enough chaos for us to make our move.
+      But we have to be quick and precise. Let's solve this puzzle and lead the bees
+      to victory!
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  - character: {fileID: 11400000, guid: 0e94913fab88320469db4a7578bc5f56, type: 2}
+    text: I believe in us, Milo! We make an unbeatable team. Once the bees are buzzing
+      around, I'll be able to slip out of this cage unnoticed. Just make sure you
+      stay safe too. Together, we'll show that hunter what true friendship and determination
+      can achieve!
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  - character: {fileID: 11400000, guid: a66baceaac969c14785a50da0726afda, type: 2}
+    text: You're right, Leo! The bees could be our secret weapon. If we can guide
+      them towards the hunter, they'll create enough chaos for us to make our move.
+      But we have to be quick and precise. Let's solve this puzzle and lead the bees
+      to victory!
+    mood: 0
+    backgroundStory: {fileID: 0}
+    action: 0
+    backGroundAction: 0
+  question: {fileID: 0}
+  nextConversation: {fileID: 0}
+  objectToShow: {fileID: 0}

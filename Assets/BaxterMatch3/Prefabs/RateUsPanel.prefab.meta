@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d80a42e6e1cc45d381a51d2f585cc13b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Prefabs/RateUsPanel.prefab
+  uploadId: 771799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ff63edff29b4cd8a0e5f2e4799a3f83
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Boosts/area_explosion.prefab
+  uploadId: 771799

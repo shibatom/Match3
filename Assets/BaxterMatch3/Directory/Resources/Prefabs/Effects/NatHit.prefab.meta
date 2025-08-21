@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de49ef73fbba4d55a2530a35c4771473
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Resources/Prefabs/Effects/NatHit.prefab
+  uploadId: 771799

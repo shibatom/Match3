@@ -1,0 +1,20 @@
+
+Kuze.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kuze
+  rotate: false
+  xy: 3, 764
+  size: 662, 758
+  orig: 662, 758
+  offset: 0, 0
+  index: -1
+Kuze-broken
+  rotate: false
+  xy: 3, 3
+  size: 662, 758
+  orig: 662, 758
+  offset: 0, 0
+  index: -1

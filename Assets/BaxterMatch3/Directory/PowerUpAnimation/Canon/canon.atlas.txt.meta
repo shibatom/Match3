@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb838c609dfd4dacbcff961978f4014a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/Canon/canon.atlas.txt
+  uploadId: 771799

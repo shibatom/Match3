@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e25e7b9bb88a46028f39b03b074729f8
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Packages/Nakama/Runtime/NakamaRuntime.asmdef
+  uploadId: 771799

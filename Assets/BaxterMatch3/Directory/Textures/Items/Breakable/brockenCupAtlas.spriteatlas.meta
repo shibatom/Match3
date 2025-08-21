@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 939d5e81a4b649d78144b79ed7883176
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4343727234628468602
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/Textures/Items/Breakable/brockenCupAtlas.spriteatlas
+  uploadId: 771799

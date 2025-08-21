@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d725f571c60240179ed2b6aeb14cdd8a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Scripts/HelperScripts/LeaderboardManager.cs
+  uploadId: 771799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09e2a58ee9f34d3c93f552ad02799f97
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Prefabs/LifeRefillPopup.prefab
+  uploadId: 771799

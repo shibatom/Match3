@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5783e345282c4bb3aec4dd7c5206f9b0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Animation/ItemAnimation/DoorExplodeAnim.anim
+  uploadId: 771799

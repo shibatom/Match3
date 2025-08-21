@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8ef1e9d42b24d81ae2d45b6ca0e4699
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316243
+  packageName: Match 3 Kingdom Complete Game
+  packageVersion: 0.9
+  assetPath: Assets/BaxterMatch3/Directory/PowerUpAnimation/boomb json/bomb_Material.mat
+  uploadId: 771799

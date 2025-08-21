@@ -1,0 +1,1973 @@
+
+canon.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CAFE 22/CAFE 22_00001
+  rotate: false
+  xy: 2, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00002
+  rotate: false
+  xy: 254, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00003
+  rotate: false
+  xy: 506, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00004
+  rotate: false
+  xy: 758, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00005
+  rotate: false
+  xy: 1010, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00006
+  rotate: false
+  xy: 1262, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00007
+  rotate: false
+  xy: 1514, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00008
+  rotate: false
+  xy: 1766, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00009
+  rotate: false
+  xy: 2018, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00010
+  rotate: false
+  xy: 2270, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00011
+  rotate: false
+  xy: 2522, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00012
+  rotate: false
+  xy: 2774, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+CAFE 22/CAFE 22_00013
+  rotate: false
+  xy: 3026, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00001
+  rotate: false
+  xy: 3278, 2
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00002
+  rotate: false
+  xy: 3530, 2
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00003
+  rotate: false
+  xy: 3782, 2
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00004
+  rotate: false
+  xy: 2, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00005
+  rotate: false
+  xy: 254, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00006
+  rotate: false
+  xy: 506, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00007
+  rotate: false
+  xy: 758, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00008
+  rotate: false
+  xy: 1010, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00009
+  rotate: false
+  xy: 1262, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00010
+  rotate: false
+  xy: 1514, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00011
+  rotate: false
+  xy: 1766, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00012
+  rotate: false
+  xy: 2018, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00013
+  rotate: false
+  xy: 2270, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00014
+  rotate: false
+  xy: 2522, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00015
+  rotate: false
+  xy: 2774, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00016
+  rotate: false
+  xy: 3026, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00017
+  rotate: false
+  xy: 3278, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00018
+  rotate: false
+  xy: 3530, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00019
+  rotate: false
+  xy: 3782, 154
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00020
+  rotate: false
+  xy: 2, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00021
+  rotate: false
+  xy: 254, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00022
+  rotate: false
+  xy: 506, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00023
+  rotate: false
+  xy: 758, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00024
+  rotate: false
+  xy: 1010, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00025
+  rotate: false
+  xy: 1262, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00026
+  rotate: false
+  xy: 1514, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00027
+  rotate: false
+  xy: 1766, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00028
+  rotate: false
+  xy: 2018, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00029
+  rotate: false
+  xy: 2270, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00030
+  rotate: false
+  xy: 2522, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00031
+  rotate: false
+  xy: 2774, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00032
+  rotate: false
+  xy: 3026, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00033
+  rotate: false
+  xy: 3278, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00034
+  rotate: false
+  xy: 3530, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00035
+  rotate: false
+  xy: 3782, 306
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00036
+  rotate: false
+  xy: 2, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00037
+  rotate: false
+  xy: 254, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00038
+  rotate: false
+  xy: 506, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00039
+  rotate: false
+  xy: 758, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00040
+  rotate: false
+  xy: 1010, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00041
+  rotate: false
+  xy: 1262, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00042
+  rotate: false
+  xy: 1514, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00043
+  rotate: false
+  xy: 1766, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00044
+  rotate: false
+  xy: 2018, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00045
+  rotate: false
+  xy: 2270, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00046
+  rotate: false
+  xy: 2522, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00047
+  rotate: false
+  xy: 2774, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00048
+  rotate: false
+  xy: 3026, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00049
+  rotate: false
+  xy: 3278, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00050
+  rotate: false
+  xy: 3530, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00051
+  rotate: false
+  xy: 3782, 458
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00052
+  rotate: false
+  xy: 2, 610
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00053
+  rotate: false
+  xy: 254, 610
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00054
+  rotate: false
+  xy: 506, 610
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00055
+  rotate: false
+  xy: 758, 610
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00056
+  rotate: false
+  xy: 1010, 610
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00057
+  rotate: false
+  xy: 1262, 610
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Combined Action Mega VFX Pack 03/Combined Action Mega VFX Pack 03_00058
+  rotate: false
+  xy: 1514, 610
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00001
+  rotate: false
+  xy: 1766, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00002
+  rotate: false
+  xy: 2018, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00003
+  rotate: false
+  xy: 2270, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00004
+  rotate: false
+  xy: 2522, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00005
+  rotate: false
+  xy: 2774, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00006
+  rotate: false
+  xy: 3026, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00007
+  rotate: false
+  xy: 3278, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00008
+  rotate: false
+  xy: 3530, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00009
+  rotate: false
+  xy: 3782, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00010
+  rotate: false
+  xy: 2, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00011
+  rotate: false
+  xy: 254, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00012
+  rotate: false
+  xy: 506, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00013
+  rotate: false
+  xy: 758, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00014
+  rotate: false
+  xy: 1010, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00015
+  rotate: false
+  xy: 1262, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00016
+  rotate: false
+  xy: 1514, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00017
+  rotate: false
+  xy: 1766, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00018
+  rotate: false
+  xy: 2018, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00019
+  rotate: false
+  xy: 2270, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00020
+  rotate: false
+  xy: 2522, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00021
+  rotate: false
+  xy: 2774, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Explosion Element 07-2/Explosion Element 07_00022
+  rotate: false
+  xy: 3026, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00001
+  rotate: false
+  xy: 3278, 762
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00002
+  rotate: false
+  xy: 3530, 762
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00003
+  rotate: false
+  xy: 3782, 762
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00004
+  rotate: false
+  xy: 2, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00005
+  rotate: false
+  xy: 254, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00006
+  rotate: false
+  xy: 506, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00007
+  rotate: false
+  xy: 758, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00008
+  rotate: false
+  xy: 1010, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00009
+  rotate: false
+  xy: 1262, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00010
+  rotate: false
+  xy: 1514, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00011
+  rotate: false
+  xy: 1766, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00012
+  rotate: false
+  xy: 2018, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00013
+  rotate: false
+  xy: 2270, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00014
+  rotate: false
+  xy: 2522, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00015
+  rotate: false
+  xy: 2774, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00016
+  rotate: false
+  xy: 3026, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00017
+  rotate: false
+  xy: 3278, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00018
+  rotate: false
+  xy: 3530, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00019
+  rotate: false
+  xy: 3782, 914
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00020
+  rotate: false
+  xy: 2, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00021
+  rotate: false
+  xy: 254, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00022
+  rotate: false
+  xy: 506, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00023
+  rotate: false
+  xy: 758, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00024
+  rotate: false
+  xy: 1010, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00025
+  rotate: false
+  xy: 1262, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00026
+  rotate: false
+  xy: 1514, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00027
+  rotate: false
+  xy: 1766, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00028
+  rotate: false
+  xy: 2018, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00029
+  rotate: false
+  xy: 2270, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00030
+  rotate: false
+  xy: 2522, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00031
+  rotate: false
+  xy: 2774, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00032
+  rotate: false
+  xy: 3026, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00033
+  rotate: false
+  xy: 3278, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00034
+  rotate: false
+  xy: 3530, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00035
+  rotate: false
+  xy: 3782, 1066
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00036
+  rotate: false
+  xy: 2, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00037
+  rotate: false
+  xy: 254, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00038
+  rotate: false
+  xy: 506, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00039
+  rotate: false
+  xy: 758, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00040
+  rotate: false
+  xy: 1010, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00041
+  rotate: false
+  xy: 1262, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00042
+  rotate: false
+  xy: 1514, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00043
+  rotate: false
+  xy: 1766, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00044
+  rotate: false
+  xy: 2018, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00045
+  rotate: false
+  xy: 2270, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00046
+  rotate: false
+  xy: 2522, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00047
+  rotate: false
+  xy: 2774, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00048
+  rotate: false
+  xy: 3026, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00049
+  rotate: false
+  xy: 3278, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00050
+  rotate: false
+  xy: 3530, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00051
+  rotate: false
+  xy: 3782, 1218
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00052
+  rotate: false
+  xy: 2, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00053
+  rotate: false
+  xy: 254, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00054
+  rotate: false
+  xy: 506, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00055
+  rotate: false
+  xy: 758, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00056
+  rotate: false
+  xy: 1010, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00057
+  rotate: false
+  xy: 1262, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00058
+  rotate: false
+  xy: 1514, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00059
+  rotate: false
+  xy: 1766, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00060
+  rotate: false
+  xy: 2018, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00061
+  rotate: false
+  xy: 2270, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00062
+  rotate: false
+  xy: 2522, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00063
+  rotate: false
+  xy: 2774, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00064
+  rotate: false
+  xy: 3026, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00065
+  rotate: false
+  xy: 3278, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00066
+  rotate: false
+  xy: 3530, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00067
+  rotate: false
+  xy: 3782, 1370
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00068
+  rotate: false
+  xy: 2, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00069
+  rotate: false
+  xy: 254, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00070
+  rotate: false
+  xy: 506, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00071
+  rotate: false
+  xy: 758, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00072
+  rotate: false
+  xy: 1010, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00073
+  rotate: false
+  xy: 1262, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00074
+  rotate: false
+  xy: 1514, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00075
+  rotate: false
+  xy: 1766, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00076
+  rotate: false
+  xy: 2018, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00077
+  rotate: false
+  xy: 2270, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00078
+  rotate: false
+  xy: 2522, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00079
+  rotate: false
+  xy: 2774, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00080
+  rotate: false
+  xy: 3026, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00081
+  rotate: false
+  xy: 3278, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00082
+  rotate: false
+  xy: 3530, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00083
+  rotate: false
+  xy: 3782, 1522
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00084
+  rotate: false
+  xy: 2, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00085
+  rotate: false
+  xy: 254, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00086
+  rotate: false
+  xy: 506, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00087
+  rotate: false
+  xy: 758, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00088
+  rotate: false
+  xy: 1010, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00089
+  rotate: false
+  xy: 1262, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00090
+  rotate: false
+  xy: 1514, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00091
+  rotate: false
+  xy: 1766, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00092
+  rotate: false
+  xy: 2018, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00093
+  rotate: false
+  xy: 2270, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00094
+  rotate: false
+  xy: 2522, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00095
+  rotate: false
+  xy: 2774, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00096
+  rotate: false
+  xy: 3026, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00097
+  rotate: false
+  xy: 3278, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Fire Impact Explosion Simple 11/Fire Impact Explosion Simple 11_00098
+  rotate: false
+  xy: 3530, 1674
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Goy
+  rotate: false
+  xy: 3782, 1674
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00035
+  rotate: false
+  xy: 2, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00036
+  rotate: false
+  xy: 254, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00037
+  rotate: false
+  xy: 506, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00038
+  rotate: false
+  xy: 758, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00039
+  rotate: false
+  xy: 1010, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00040
+  rotate: false
+  xy: 1262, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00041
+  rotate: false
+  xy: 1514, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00042
+  rotate: false
+  xy: 1766, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00043
+  rotate: false
+  xy: 2018, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00044
+  rotate: false
+  xy: 2270, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00045
+  rotate: false
+  xy: 2522, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00046
+  rotate: false
+  xy: 2774, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00047
+  rotate: false
+  xy: 3026, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00048
+  rotate: false
+  xy: 3278, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00049
+  rotate: false
+  xy: 3530, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00050
+  rotate: false
+  xy: 3782, 1826
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00051
+  rotate: false
+  xy: 2, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00052
+  rotate: false
+  xy: 254, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00053
+  rotate: false
+  xy: 506, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00054
+  rotate: false
+  xy: 758, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00055
+  rotate: false
+  xy: 1010, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00056
+  rotate: false
+  xy: 1262, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00057
+  rotate: false
+  xy: 1514, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00058
+  rotate: false
+  xy: 1766, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00059
+  rotate: false
+  xy: 2018, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Liquid Line_156/Liquid Line_156_00060
+  rotate: false
+  xy: 2270, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Point_32
+  rotate: false
+  xy: 2522, 1978
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00000
+  rotate: false
+  xy: 2774, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00001
+  rotate: false
+  xy: 3026, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00002
+  rotate: false
+  xy: 3278, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00003
+  rotate: false
+  xy: 3278, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00004
+  rotate: false
+  xy: 3530, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00005
+  rotate: false
+  xy: 3782, 1978
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00006
+  rotate: false
+  xy: 2, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00007
+  rotate: false
+  xy: 254, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00008
+  rotate: false
+  xy: 254, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00009
+  rotate: false
+  xy: 506, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00010
+  rotate: false
+  xy: 758, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00011
+  rotate: false
+  xy: 1010, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00012
+  rotate: false
+  xy: 1262, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00013
+  rotate: false
+  xy: 1262, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00014
+  rotate: false
+  xy: 1514, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00015
+  rotate: false
+  xy: 1766, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Simple Flash FX Overlay 14/Simple Flash FX Overlay 14_00016
+  rotate: false
+  xy: 1766, 2130
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop/Sparks 083 Projectile Left Loop_00000
+  rotate: false
+  xy: 2018, 2130
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop/Sparks 083 Projectile Left Loop_00001
+  rotate: false
+  xy: 2270, 2130
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop/Sparks 083 Projectile Left Loop_00002
+  rotate: false
+  xy: 2522, 2130
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop/Sparks 083 Projectile Left Loop_00003
+  rotate: false
+  xy: 2774, 2130
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop/Sparks 083 Projectile Left Loop_00004
+  rotate: false
+  xy: 3026, 2130
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop/Sparks 083 Projectile Left Loop_00005
+  rotate: false
+  xy: 3278, 2130
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks 083 Projectile Left Loop/Sparks 083 Projectile Left Loop_00006
+  rotate: false
+  xy: 3530, 2130
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00000
+  rotate: false
+  xy: 3782, 2130
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00001
+  rotate: false
+  xy: 2, 2282
+  size: 70, 56
+  orig: 150, 150
+  offset: 37, 38
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00002
+  rotate: false
+  xy: 254, 2282
+  size: 86, 66
+  orig: 150, 150
+  offset: 32, 29
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00003
+  rotate: false
+  xy: 506, 2282
+  size: 98, 72
+  orig: 150, 150
+  offset: 25, 21
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00004
+  rotate: false
+  xy: 758, 2282
+  size: 91, 77
+  orig: 150, 150
+  offset: 27, 18
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00005
+  rotate: false
+  xy: 1010, 2282
+  size: 87, 61
+  orig: 150, 150
+  offset: 38, 28
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00006
+  rotate: false
+  xy: 1262, 2282
+  size: 100, 62
+  orig: 150, 150
+  offset: 31, 27
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00007
+  rotate: false
+  xy: 1514, 2282
+  size: 105, 75
+  orig: 150, 150
+  offset: 26, 16
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00008
+  rotate: false
+  xy: 1766, 2282
+  size: 107, 63
+  orig: 150, 150
+  offset: 27, 25
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00009
+  rotate: false
+  xy: 2018, 2282
+  size: 96, 58
+  orig: 150, 150
+  offset: 28, 33
+  index: -1
+Sparks Elements 14/Sparks Elements 14_00010
+  rotate: false
+  xy: 2270, 2282
+  size: 58, 44
+  orig: 150, 150
+  offset: 51, 46
+  index: -1
+body
+  rotate: false
+  xy: 2522, 2282
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+fitile
+  rotate: false
+  xy: 2774, 2282
+  size: 25, 26
+  orig: 25, 32
+  offset: 0, 3
+  index: -1
+flash_00006
+  rotate: false
+  xy: 3026, 2282
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00000
+  rotate: false
+  xy: 3278, 2282
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00001
+  rotate: false
+  xy: 3530, 2282
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00002
+  rotate: false
+  xy: 3782, 2282
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00003
+  rotate: false
+  xy: 2, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00004
+  rotate: false
+  xy: 254, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00005
+  rotate: false
+  xy: 506, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00006
+  rotate: false
+  xy: 758, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00007
+  rotate: false
+  xy: 1010, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00008
+  rotate: false
+  xy: 1262, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00009
+  rotate: false
+  xy: 1514, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/2Sparks Elements 14_00010
+  rotate: false
+  xy: 1766, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/Spark Element 03_00000
+  rotate: false
+  xy: 2018, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/Spark Element 03_00001
+  rotate: false
+  xy: 2270, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/Spark Element 03_00002
+  rotate: false
+  xy: 2522, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/Spark Element 03_00003
+  rotate: false
+  xy: 2774, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/Spark Element 03_00004
+  rotate: false
+  xy: 3026, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/Spark Element 03_00005
+  rotate: false
+  xy: 3278, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/Spark Element 03_00006
+  rotate: false
+  xy: 3530, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jadid/Spark Element 03_00007
+  rotate: false
+  xy: 3782, 2434
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+new effect
+  rotate: false
+  xy: 2, 2586
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+ring-l
+  rotate: false
+  xy: 254, 2586
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+ring-r
+  rotate: false
+  xy: 506, 2586
+  size: 38, 73
+  orig: 39, 73
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 758, 2586
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 1010, 2586
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
