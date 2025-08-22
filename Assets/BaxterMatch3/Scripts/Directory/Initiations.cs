@@ -84,7 +84,7 @@ namespace Internal.Scripts
         // Use this for initialization
         void Awake()
         {
-            Application.targetFrameRate = 120;
+            Application.targetFrameRate = 60;
             Instance = this;
             RestLifeTimer = PlayerPrefs.GetFloat("RestLifeTimer");
             DateOfExit = PlayerPrefs.GetString("DateOfExit", "");
@@ -119,9 +119,9 @@ namespace Internal.Scripts
             g.SetActive(false);*/
             if (PersistantData.TotalLevels == 0)
                 PersistantData.TotalLevels = LoadingController.GetLastLevelNum();
-/*#if FACEBOOK
-            FacebookManager fbManager = new GameObject("FacebookManager").AddComponent<FacebookManager>();
-#endif*/
+            /*#if FACEBOOK
+                        FacebookManager fbManager = new GameObject("FacebookManager").AddComponent<FacebookManager>();
+            #endif*/
 #if GOOGLE_MOBILE_ADS
             var obj = FindObjectOfType<RewAdmobManager>();
             if (obj == null)
