@@ -8,12 +8,14 @@
 - **最低サポート端末**:
   - iOS: TBD
   - Android: TBD
-- **フレームレート**: TBD
+- **フレームレート**: 60
 
 ## 1. 概要
 
 本プロジェクトは、新タイトル「猫とわたし」のアウトゲームとして採用予定の、  
 「ロイヤルマッチ」を模倣したマッチ3ゲームのテンプレートです。
+
+[Match 3 Kingdom Complete Game（参考元アセット）](https://sellunitysourcecode.com/item/Match%203%20Kingdom%20Complete%20Game)
 
 - レベルエディター、障害物、ブースターなど、基本的な機能を実装済み
 - 現状の課題
