@@ -213,8 +213,6 @@ namespace Internal.Scripts.Items
             Item[] itemList = { item1, item2 };
             _item2 = GetStripedItem(itemList);
             _item1 = GetPackageItem(itemList) as BombItem;
-            _item1._stripedDestroy = TriggerStripedAndBomb;
-
 
             Debug.Log($"salllog mergeSwitchDirection : {SwitchItemDirection}");
             SetAnimation(SwitchItemDirection, _isSwitchItemOverChopper, item1, item2);
@@ -222,9 +220,14 @@ namespace Internal.Scripts.Items
 
             DisableStripedAnimation(item1, item2);
 
-            // yield return new WaitForSeconds(0.55f);
-            //Instantiate(explosionPrefab, transform.position, Quaternion.identity);
+           StartCoroutine(DelayedTriggerStripedAndBomb());
         }
+
+        private IEnumerator DelayedTriggerStripedAndBomb()
+  {
+      yield return new WaitForSeconds(0.55f); 
+      TriggerStripedAndBomb();
+  }
 
         /// <summary>
         /// Retrieves the first item of type Striped from the list.
@@ -260,13 +263,15 @@ namespace Internal.Scripts.Items
             var centerSquare = item2.square;
             if (!_isSwitchItemOverChopper)
                 centerSquare = item1.square;
-            // OnShakeRequested?.Invoke(0.2f, 0.35f);
+            OnShakeRequested?.Invoke(0.2f, 0.35f);
             package.NoAnimSmoothDestroy();
             striped.NoAnimSmoothDestroy();
+
+            CentralSoundManager.Instance?.PlayLimitSound(CentralSoundManager.Instance.bombExplodeEffect);
             ShowVisualEffects(centerSquare);
 
-            //  var affectedSquares = GetAffectedSquares(package.square);
-            // HandleSquareDestruction(affectedSquares, item1, item2, striped, package);
+            var affectedSquares = GetAffectedSquares(package.square);
+            HandleSquareDestruction(affectedSquares, item1, item2, striped, package);
         }
 
         /// <summary>
