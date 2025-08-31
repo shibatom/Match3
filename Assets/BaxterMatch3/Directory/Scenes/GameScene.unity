@@ -10883,7 +10883,7 @@ Camera:
   far clip plane: 10000
   field of view: 60
   orthographic: 1
-  orthographic size: 16.24
+  orthographic size: 13.333333
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -11085,7 +11085,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30b9f4407e924216a34bb787891f48f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  logEnabled: 0
+  logEnabled: 1
   lifeShop: {fileID: 6869750445982402022}
   enableInApps: 1
   squareWidth: 0.82
@@ -45966,7 +45966,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8623165299048942669, guid: cee0eb7b8d994c13b218c6c28d599a0d, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2.9128723
+      value: -2.9128647
       objectReference: {fileID: 0}
     - target: {fileID: 8920407876386535333, guid: cee0eb7b8d994c13b218c6c28d599a0d, type: 3}
       propertyPath: m_AnchorMax.y

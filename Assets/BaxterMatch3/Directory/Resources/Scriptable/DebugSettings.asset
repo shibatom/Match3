@@ -16,7 +16,7 @@ MonoBehaviour:
   DestroyLog: 0
   FallingLog: 0
   StackTrace: 0
-  ShowLogImmediately: 0
+  ShowLogImmediately: 1
   AI: 0
   testLevel: 0
   TimeScaleUI: 1
