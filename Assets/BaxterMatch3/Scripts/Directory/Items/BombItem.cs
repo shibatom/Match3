@@ -89,7 +89,7 @@ namespace Internal.Scripts.Items
             {
                 packageDestroyAnimation.item1 = item1;
                 PackageAnimator.SetTrigger("DoubleExplode");
-                //StartCoroutine(DoubleExplode());
+                StartCoroutine(DoubleExplode());
             }
             else
             {
@@ -124,7 +124,7 @@ namespace Internal.Scripts.Items
             OnShakeRequested?.Invoke(0.2f, 0.50f); // Call the event with parameters
             MainManager.HapticAndShake(2);
             MainManager.HapticAndShake(2);
-            //  Instantiate(DoubleExplosionPrefab, transform.position, Quaternion.identity);
+            packageDestroyAnimation.DestroyIt(1);
         }
 
         public Item GetParentItem()
