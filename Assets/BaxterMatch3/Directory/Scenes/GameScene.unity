@@ -29005,6 +29005,8 @@ MonoBehaviour:
   allowShowTip: 0
   corCount: 0
   DirectionToMove: {x: 0, y: 0}
+  tipMoveDistance: 0.2
+  tipMoveDuration: 0.4
   vDirection: {x: 0, y: 0}
   currentCombineType: 0
 --- !u!4 &1380016620
@@ -41169,6 +41171,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lineRenderer: {fileID: 1981100441}
   fadeDuration: 0.5
+  ai: {fileID: 1380016619}
   edgeDistance: 1
 --- !u!120 &1981100441
 LineRenderer:

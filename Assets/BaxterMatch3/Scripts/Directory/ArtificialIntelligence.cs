@@ -5,6 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using DG.Tweening;
 using Internal.Scripts.Blocks;
 using Internal.Scripts.Items;
 using Internal.Scripts.Items.Interfaces;
@@ -61,14 +62,19 @@ namespace Internal.Scripts
         private List<Item> currentPreCombine = new List<Item>();
         // Use this for initialization
 
-        private DG.Tweening.Sequence activeTipSequence;
+        private Sequence activeTipSequence;
+        
+        // スワイプ誘導アニメーションのパラメータ
+        [Header("Tip Animation Settings")]
+        [SerializeField] private float tipMoveDistance = 0.2f;  // 移動距離
+        [SerializeField] private float tipMoveDuration = 0.4f;  // 一方向への移動時間
 
 
         private void Awake()
         {
             Instance = this;
             squareBoundaryLine = FindAnyObjectByType<SquareBoundaryLine>();
-            //activeTipSequence= DOTween.Sequence();
+            activeTipSequence = DOTween.Sequence();
             _debugSettings = Resources.Load("Scriptable/DebugSettings") as DebugSettings;
             InitSprites();
         }
@@ -1353,6 +1359,28 @@ namespace Internal.Scripts
                     {
                         if (i == tipAnimations.Count - 1)
                         {
+                            // スワイプ誘導アニメーション（DOTween）- 2アイテムの場合も追加
+                            var squareTransform = nextMoveItems[i].transform;
+                            Vector3 originalPosition = squareTransform.position;
+                            itemToMove = squareTransform;
+                            originalPos = squareTransform.position;
+                            Vector3 moveOffset = new Vector3(direction.x, direction.y, 0) * tipMoveDistance;
+                            Vector3 targetPosition = originalPosition + moveOffset;
+
+                            // DOTweenアニメーションシーケンスの作成
+                            if (activeTipSequence != null)
+                            {
+                                activeTipSequence.Kill();
+                            }
+                            activeTipSequence = DOTween.Sequence();
+                            activeTipSequence.Append(squareTransform.DOMove(targetPosition, tipMoveDuration)
+                                                                   .SetEase(Ease.InOutSine));
+                            activeTipSequence.Append(squareTransform.DOMove(originalPosition, tipMoveDuration)
+                                                                   .SetEase(Ease.InOutSine));
+                            activeTipSequence.SetLoops(-1, LoopType.Restart);
+                            activeTipSequence.Play();
+                            
+                            // 既存のアニメーションも維持
                             tipedItem = tipAnimations[i].anim;
                             if (direction == Vector2.up)
                             {
@@ -1390,30 +1418,30 @@ namespace Internal.Scripts
 
                     if (i == tipAnimations.Count - 1)
                     {
-                        //var squareTransform = nextMoveItems[i].transform;
-                        ////print($"SalamatBashid{nextMoveItems[i].transform.name}");
-                        ////print($"SalamatBashid2{squareTransform.name}");
-                        //Vector3 originalPosition = squareTransform.position;
-                        //itemToMove = squareTransform;
-                        //originalPos = squareTransform.position;
-                        //float moveDistance = 0.15f;
-                        //float moveDuration = 0.3f;
-                        //Vector3 moveOffset = new Vector3(DirectionToMove.x, DirectionToMove.y, 0) * moveDistance;
-                        //Vector3 targetPosition = originalPosition + moveOffset;
-                        ////print("SalamatBashid" + targetPosition);
-                        ////print("SalamatBashidOriginal" + originalPosition);
+                        // スワイプ誘導アニメーション（DOTween）
+                        var squareTransform = nextMoveItems[i].transform;
+                        Vector3 originalPosition = squareTransform.position;
+                        itemToMove = squareTransform;
+                        originalPos = squareTransform.position;
+                        float moveDistance = 0.15f;
+                        float moveDuration = 0.3f;
+                        Vector3 moveOffset = new Vector3(direction.x, direction.y, 0) * moveDistance;
+                        Vector3 targetPosition = originalPosition + moveOffset;
 
-                        //activeTipSequence = DOTween.Sequence();
-                        //activeTipSequence.Append(squareTransform.DOMove(targetPosition, moveDuration)
-                        //                                       .SetEase(DG.Tweening.Ease.InOutSine));
-                        //activeTipSequence.Append(squareTransform.DOMove(originalPosition, moveDuration)
-                        //                                       .SetEase(DG.Tweening.Ease.InOutSine));
-                        //activeTipSequence.SetLoops(3, LoopType.Restart);
-                        //activeTipSequence.Play();
-                        // tipAnimations[i].anim.SetBool("package_idle", false);
-                        // tipAnimations[i].anim.SetTrigger("tip");
-                        // tipAnimations[i].anim.ResetTrigger("stop");
-                        // tipAnimations[i].anim.SetTrigger("tip");
+                        // DOTweenアニメーションシーケンスの作成
+                        if (activeTipSequence != null)
+                        {
+                            activeTipSequence.Kill();
+                        }
+                        activeTipSequence = DOTween.Sequence();
+                        activeTipSequence.Append(squareTransform.DOMove(targetPosition, moveDuration)
+                                                               .SetEase(Ease.InOutSine));
+                        activeTipSequence.Append(squareTransform.DOMove(originalPosition, moveDuration)
+                                                               .SetEase(Ease.InOutSine));
+                        activeTipSequence.SetLoops(-1, LoopType.Restart);
+                        activeTipSequence.Play();
+                        
+                        // 既存のアニメーションも維持
                         tipedItem = tipAnimations[i].anim;
                         if (direction == Vector2.up)
                         {
@@ -1487,11 +1515,13 @@ namespace Internal.Scripts
 
             StartCoroutine(TryAgainForFix());
 
-            //if (activeTipSequence != null)
-            //{
-            //    itemToMove.position = originalPos;
-            //    activeTipSequence.Kill();
-            //}
+            // DOTweenアニメーションも停止
+            if (activeTipSequence != null)
+            {
+                if (itemToMove != null)
+                    itemToMove.position = originalPos;
+                activeTipSequence.Kill();
+            }
         }
 
         private IEnumerator TryAgainForFix()
@@ -1511,6 +1541,12 @@ namespace Internal.Scripts
 
             tipAnimations.Clear();
             isActiveIt = false;
+            
+            // DOTweenアニメーションも確実に停止
+            if (activeTipSequence != null)
+            {
+                activeTipSequence.Kill();
+            }
         }
 
         // Draws the outline, waits, and then clears it.

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Collections;
 using System;
+using Internal.Scripts;
 
 namespace Internal.Scripts.Items
 {
@@ -10,7 +11,7 @@ namespace Internal.Scripts.Items
     {
         public LineRenderer lineRenderer;
         public float fadeDuration = 0.3f; // Duration of the fade effect
-
+        public ArtificialIntelligence ai;
         private Material lineMaterial;
 
         // Initialize the LineRenderer when needed
@@ -57,6 +58,8 @@ namespace Internal.Scripts.Items
             StopAnyActiveFade();
             lineRenderer.positionCount = 0;
             if (lineMaterial != null) lineMaterial.SetFloat("_Alpha", 0f);
+            // 即座にクリアする際もアニメーション停止
+            NotifyAnimationShouldStop();
         }
 
         private void StopAnyActiveFade()
@@ -126,6 +129,18 @@ namespace Internal.Scripts.Items
             if (clearAfterFade && lineRenderer.positionCount != 0)
                 lineRenderer.positionCount = 0; // Clear the line after fading out
             lineMaterial.SetFloat("_Alpha", 0);
+            
+                // 枠が消える際にスワイプ誘導アニメーションも停止
+            NotifyAnimationShouldStop();
+        }
+        
+        // ArtificialIntelligenceにアニメーション停止を通知
+        private void NotifyAnimationShouldStop()
+        {
+            if (ai != null)
+            {
+                ai.StopTipAnimation();
+            }
         }
 
         private IEnumerator FadeIn()
